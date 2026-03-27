@@ -1,0 +1,19 @@
+{
+  "id": "01K8DRBHSNFYJ7TEK2VSGWDNH5",
+  "name": "Story | Handbag always fits | 251025",
+  "status": "Sent",
+  "send_time": "2025-10-25T09:00:00+00:00",
+  "created_at": "2025-10-25T13:19:03.480628+00:00",
+  "updated_at": "2025-10-25T19:00:06.228372+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-25T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

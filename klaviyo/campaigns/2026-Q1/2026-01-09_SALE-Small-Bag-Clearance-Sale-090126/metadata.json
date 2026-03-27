@@ -1,0 +1,19 @@
+{
+  "id": "01KEHGHB9P35SHYH609XFCN140",
+  "name": "SALE| Small Bag Clearance Sale | 090126",
+  "status": "Sent",
+  "send_time": "2026-01-09T15:00:00+00:00",
+  "created_at": "2026-01-09T13:53:33.497820+00:00",
+  "updated_at": "2026-01-09T15:00:52.832411+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-09T15:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

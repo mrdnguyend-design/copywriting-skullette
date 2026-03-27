@@ -1,0 +1,19 @@
+{
+  "id": "01KFNRKMM3PP37Z32V009JBNAJ",
+  "name": "Teaser | The Weekend Specials | 230126",
+  "status": "Sent",
+  "send_time": "2026-01-23T10:00:00+00:00",
+  "created_at": "2026-01-23T15:47:16.741905+00:00",
+  "updated_at": "2026-01-23T20:01:09.758899+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-23T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01K9WE5Y4KSC03WM6PCGPSA1EM",
+  "name": "Story | Failed Saleperson | 121125",
+  "status": "Sent",
+  "send_time": "2025-11-12T16:49:01.979735+00:00",
+  "created_at": "2025-11-12T16:25:32.055533+00:00",
+  "updated_at": "2025-11-12T16:49:54.709189+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-12T16:49:01.979735+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

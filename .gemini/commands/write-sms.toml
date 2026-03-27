@@ -1,0 +1,8 @@
+[command]
+description = "Write SMS campaign messages for Skullette (sale updates, promos, engagement)"
+
+[command.prompt]
+text = """
+Run the /write-sms workflow defined in .agent/workflows/write-sms.md
+Follow all steps exactly as documented.
+"""

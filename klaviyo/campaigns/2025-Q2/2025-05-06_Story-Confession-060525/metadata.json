@@ -1,0 +1,19 @@
+{
+  "id": "01JTFY1E1YAD0N99FNEKR9HFSM",
+  "name": "Story | Confession | 060525",
+  "status": "Sent",
+  "send_time": "2025-05-06T09:00:00+00:00",
+  "created_at": "2025-05-05T09:57:06.752073+00:00",
+  "updated_at": "2025-05-06T19:00:34.317942+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-06T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

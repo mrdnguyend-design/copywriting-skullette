@@ -1,0 +1,19 @@
+{
+  "id": "01JZMEG3GC90VE0K594VNDYJKS",
+  "name": "Sale | Prime Day | 080725",
+  "status": "Sent",
+  "send_time": "2025-07-08T12:30:00+00:00",
+  "created_at": "2025-07-08T07:20:11.534172+00:00",
+  "updated_at": "2025-07-08T12:30:03.107208+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-07-08T12:30:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

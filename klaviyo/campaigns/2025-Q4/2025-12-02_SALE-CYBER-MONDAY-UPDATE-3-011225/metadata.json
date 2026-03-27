@@ -1,0 +1,19 @@
+{
+  "id": "01KBECEW04E6J74QKZECVXM586",
+  "name": "SALE | CYBER MONDAY UPDATE 3 | 011225",
+  "status": "Sent",
+  "send_time": "2025-12-02T03:15:00+00:00",
+  "created_at": "2025-12-02T01:57:29.222951+00:00",
+  "updated_at": "2025-12-02T03:15:46.577440+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-02T03:15:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

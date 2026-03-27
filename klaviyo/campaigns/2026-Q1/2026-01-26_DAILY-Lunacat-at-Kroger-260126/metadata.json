@@ -1,0 +1,19 @@
+{
+  "id": "01KFXK5KQ389WJD7Q52WY0QT9Y",
+  "name": "DAILY | Lunacat at Kroger | 260126",
+  "status": "Sent",
+  "send_time": "2026-01-26T17:15:26.347623+00:00",
+  "created_at": "2026-01-26T16:46:09.638670+00:00",
+  "updated_at": "2026-01-26T17:17:20.391102+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-26T17:15:26.347623+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

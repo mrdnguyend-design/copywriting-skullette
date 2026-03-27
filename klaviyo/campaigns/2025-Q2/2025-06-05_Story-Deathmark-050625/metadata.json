@@ -1,0 +1,19 @@
+{
+  "id": "01JWZHDNAA18N5B9YA1CR1D0VF",
+  "name": "Story | Deathmark | 050625",
+  "status": "Sent",
+  "send_time": "2025-06-05T09:00:00+00:00",
+  "created_at": "2025-06-05T07:55:50.475971+00:00",
+  "updated_at": "2025-06-05T19:00:22.212270+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-05T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

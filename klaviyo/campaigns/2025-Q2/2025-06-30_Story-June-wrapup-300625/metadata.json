@@ -1,0 +1,19 @@
+{
+  "id": "01JZ0E9K3D07Z9MXA547XB9QZR",
+  "name": "Story | June wrapup | 300625",
+  "status": "Sent",
+  "send_time": "2025-06-30T09:00:00+00:00",
+  "created_at": "2025-06-30T12:51:49.487570+00:00",
+  "updated_at": "2025-06-30T18:59:57.458907+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-30T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

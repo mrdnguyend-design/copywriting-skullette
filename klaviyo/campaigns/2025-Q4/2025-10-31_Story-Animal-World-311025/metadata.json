@@ -1,0 +1,19 @@
+{
+  "id": "01K8WXW9WNWQGEKHZ5WQY2K4EP",
+  "name": "Story | Animal World | 311025",
+  "status": "Sent",
+  "send_time": "2025-10-31T09:00:00+00:00",
+  "created_at": "2025-10-31T10:44:11.800548+00:00",
+  "updated_at": "2025-10-31T18:59:59.004713+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-31T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

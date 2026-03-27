@@ -1,0 +1,19 @@
+{
+  "id": "01KAK100XKBHAQGNEMNEZ35X3P",
+  "name": "Story | Black Friday Refund Teaser | 211125",
+  "status": "Sent",
+  "send_time": "2025-11-21T09:00:00+00:00",
+  "created_at": "2025-11-21T10:57:38.741906+00:00",
+  "updated_at": "2025-11-21T19:00:54.839230+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-21T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

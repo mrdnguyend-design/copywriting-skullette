@@ -1,0 +1,19 @@
+{
+  "id": "01KGCT6GYQYJGDNYXCBKHFSDZD",
+  "name": "DAILY | Wrong order but exact bag | 010226",
+  "status": "Sent",
+  "send_time": "2026-02-01T10:00:00+00:00",
+  "created_at": "2026-02-01T14:37:36.089571+00:00",
+  "updated_at": "2026-02-01T20:00:52.034221+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-01T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

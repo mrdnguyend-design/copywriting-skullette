@@ -1,0 +1,19 @@
+{
+  "id": "01JW40FXV9KR57NV9TF2FX3NN7",
+  "name": "Sale | Memorial Sale Day 2 | 250525",
+  "status": "Sent",
+  "send_time": "2025-05-25T09:00:00+00:00",
+  "created_at": "2025-05-25T15:20:29.290964+00:00",
+  "updated_at": "2025-05-25T19:00:15.623207+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-25T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

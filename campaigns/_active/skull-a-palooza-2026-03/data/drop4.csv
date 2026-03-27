@@ -1,0 +1,139 @@
+#,Handle,Product Name,Category,Design,Sale Price,Compare Price,Stock
+1,bloodrose-wallet-skull-a-palooza,"""Bloodrose"" Wallet",Wallet,Bloodrose,11.95,49.95,5618
+2,bloodrose-mini-satchel-skull-a-palooza,"""Bloodrose"" Mini Satchel",Mini Satchel,Bloodrose,29.95,109.95,331
+3,bloodrose-circle-crossbody-bag-skull-a-palooza,"""Bloodrose"" Circle Crossbody Bag",Circle Bag,Bloodrose,37.95,109.95,429
+4,grimcrown-wallet-skull-a-palooza,"""Grimcrown"" Wallet",Wallet,Grimcrown,13.95,49.95,678
+5,grimcrown-mini-satchel-skull-a-palooza,"""Grimcrown"" Mini Satchel",Mini Satchel,Grimcrown,29.95,109.95,88
+6,grimcrown-circle-crossbody-bag-skull-a-palooza,"""Grimcrown"" Circle Crossbody Bag",Circle Bag,Grimcrown,29.95,109.95,69
+7,la-roja-wallet-skull-a-palooza,"""La Roja"" Wallet",Wallet,La Roja,9.95,49.95,2255
+8,noxaria-eclipse-makeup-bag-skull-a-palooza,"""Noxaria"" Eclipse Makeup Bag",Makeup Bag,Noxaria,9.95,39.95,538
+9,la-roja-mini-satchel-skull-a-palooza,"""La Roja"" Mini Satchel",Mini Satchel,La Roja,29.95,109.95,120
+10,la-roja-circle-crossbody-bag-skull-a-palooza,"""La Roja"" Circle Crossbody Bag",Circle Bag,La Roja,29.95,109.95,175
+11,noctaflora-wallet-skull-a-palooza,"""Noctaflora"" Wallet",Wallet,Noctaflora,11.95,49.95,4956
+12,noctaflora-mini-satchel-skull-a-palooza,"""Noctaflora"" Mini Satchel",Mini Satchel,Noctaflora,31.95,109.95,95
+13,noctaflora-circle-crossbody-bag-skull-a-palooza,"""Noctaflora"" Circle Crossbody Bag",Circle Bag,Noctaflora,39.95,109.95,315
+14,thornfall-wallet-skull-a-palooza,"""Thornfall"" Wallet",Wallet,Thornfall,13.95,49.95,624
+15,thornfall-mini-satchel-skull-a-palooza,"""Thornfall"" Mini Satchel",Mini Satchel,Thornfall,29.95,109.95,82
+16,thornfall-circle-crossbody-bag-skull-a-palooza,"""Thornfall"" Circle Crossbody Bag",Circle Bag,Thornfall,29.95,109.95,65
+17,bloodrose-poison-ivy-wallet-skull-a-palooza,"""Bloodrose"" Poison Ivy Wallet",Wallet,"Bloodrose"" Poison Ivy",12.95,49.95,1767
+18,bloodrose-poison-ivy-mini-satchel-skull-a-palooza,"""Bloodrose"" Poison Ivy Mini Satchel",Mini Satchel,"Bloodrose"" Poison Ivy",29.95,109.95,176
+19,bloodrose-poison-ivy-circle-crossbody-bag-skull-a-palooza,"""Bloodrose"" Poison Ivy Circle Crossbody Bag",Circle Bag,"Bloodrose"" Poison Ivy",29.95,109.95,196
+20,lunacat-wallet-skull-a-palooza,"""Lunacat"" Wallet",Wallet,Lunacat,11.95,49.95,2702
+21,lunacat-mini-satchel-skull-a-palooza,"""Lunacat"" Mini Satchel",Mini Satchel,Lunacat,31.95,109.95,110
+22,lunacat-circle-crossbody-bag-skull-a-palooza,"""Lunacat"" Circle Crossbody Bag",Circle Bag,Lunacat,29.95,109.95,153
+23,wraithbone-wallet-skull-a-palooza,"""Wraithbone"" Wallet",Wallet,Wraithbone,12.95,49.95,322
+24,frostmourne-wallet-skull-a-palooza,"""Frostmourne"" Wallet",Wallet,Frostmourne,9.95,49.95,2339
+25,frostmourne-mini-satchel-skull-a-palooza,"""Frostmourne"" Mini Satchel",Mini Satchel,Frostmourne,29.95,109.95,68
+26,frostmourne-circle-crossbody-bag-skull-a-palooza,"""Frostmourne"" Circle Crossbody Bag",Circle Bag,Frostmourne,29.95,109.95,173
+27,hexram-wallet-skull-a-palooza,"""Hexram"" Wallet",Wallet,Hexram,13.95,49.95,666
+28,hexram-mini-satchel-skull-a-palooza,"""Hexram"" Mini Satchel",Mini Satchel,Hexram,29.95,109.95,88
+29,hexram-circle-crossbody-bag-skull-a-palooza,"""Hexram"" Circle Crossbody Bag",Circle Bag,Hexram,29.95,109.95,69
+30,venomina-wallet-skull-a-palooza,"""Venomina"" Wallet",Wallet,Venomina,11.95,49.95,1965
+31,venomina-mini-satchel-skull-a-palooza,"""Venomina"" Mini Satchel",Mini Satchel,Venomina,29.95,109.95,125
+32,venomina-circle-crossbody-bag-skull-a-palooza,"""Venomina"" Circle Crossbody Bag",Circle Bag,Venomina,31.95,109.95,147
+33,noxaria-wallet-skull-a-palooza,"""Noxaria"" Wallet",Wallet,Noxaria,11.95,49.95,3372
+34,noxaria-mini-satchel-skull-a-palooza,"""Noxaria"" Mini Satchel",Mini Satchel,Noxaria,29.95,109.95,153
+35,noxaria-circle-crossbody-bag-skull-a-palooza,"""Noxaria"" Circle Crossbody Bag",Circle Bag,Noxaria,29.95,109.95,162
+36,nyxrose-wallet-skull-a-palooza,"""Nyxrose"" Wallet",Wallet,Nyxrose,12.95,49.95,806
+37,nyxrose-mini-satchel-skull-a-palooza,"""Nyxrose"" Mini Satchel",Mini Satchel,Nyxrose,29.95,109.95,60
+38,nyxrose-circle-crossbody-bag-skull-a-palooza,"""Nyxrose"" Circle Crossbody Bag",Circle Bag,Nyxrose,35.95,109.95,146
+39,corvexia-wallet-skull-a-palooza,"""Corvexia"" Wallet",Wallet,Corvexia,13.95,49.95,552
+40,corvexia-mini-satchel-skull-a-palooza,"""Corvexia"" Mini Satchel",Mini Satchel,Corvexia,29.95,109.95,73
+41,corvexia-circle-crossbody-bag-skull-a-palooza,"""Corvexia"" Circle Crossbody Bag",Circle Bag,Corvexia,29.95,109.95,58
+42,deathmark-wallet-skull-a-palooza,"""Deathmark"" Wallet",Wallet,Deathmark,9.95,49.95,2405
+43,deathmark-mini-satchel-skull-a-palooza,"""Deathmark"" Mini Satchel",Mini Satchel,Deathmark,35.95,109.95,65
+44,deathmark-circle-crossbody-bag-skull-a-palooza,"""Deathmark"" Circle Crossbody Bag",Circle Bag,Deathmark,37.95,109.95,169
+45,obscuria-wallet-skull-a-palooza,"""Obscuria"" Wallet",Wallet,Obscuria,11.95,49.95,2037
+46,obscuria-mini-satchel-skull-a-palooza,"""Obscuria"" Mini Satchel",Mini Satchel,Obscuria,29.95,109.95,110
+47,obscuria-circle-crossbody-bag-skull-a-palooza,"""Obscuria"" Circle Crossbody Bag",Circle Bag,Obscuria,29.95,109.95,183
+48,gravebloom-wallet-skull-a-palooza,"""Gravebloom"" Wallet",Wallet,Gravebloom,12.95,49.95,506
+49,gravebloom-mini-satchel-skull-a-palooza,"""Gravebloom"" Mini Satchel",Mini Satchel,Gravebloom,29.95,109.95,80
+50,gravebloom-circle-crossbody-bag-skull-a-palooza,"""Gravebloom"" Circle Crossbody Bag",Circle Bag,Gravebloom,29.95,109.95,65
+51,bloodrose-poison-plum-wallet-skull-a-palooza,"""Bloodrose"" Poison Plum Wallet",Wallet,"Bloodrose"" Poison Plum",12.95,49.95,3728
+52,bloodrose-poison-plum-mini-satchel-skull-a-palooza,"""Bloodrose"" Poison Plum Mini Satchel",Mini Satchel,"Bloodrose"" Poison Plum",29.95,109.95,163
+53,bloodrose-poison-plum-circle-crossbody-bag-skull-a-palooza,"""Bloodrose"" Poison Plum Circle Crossbody Bag",Circle Bag,"Bloodrose"" Poison Plum",29.95,109.95,185
+54,roselace-wallet-skull-a-palooza,"""Roselace"" Wallet",Wallet,Roselace,9.95,49.95,2510
+55,roselace-mini-satchel-skull-a-palooza,"""Roselace"" Mini Satchel",Mini Satchel,Roselace,37.95,109.95,62
+56,roselace-circle-crossbody-bag-skull-a-palooza,"""Roselace"" Circle Crossbody Bag",Circle Bag,Roselace,33.95,109.95,159
+57,altarhorn-wallet-skull-a-palooza,"""Altarhorn"" Wallet",Wallet,Altarhorn,13.95,49.95,660
+58,altarhorn-mini-satchel-skull-a-palooza,"""Altarhorn"" Mini Satchel",Mini Satchel,Altarhorn,35.95,109.95,87
+59,altarhorn-circle-crossbody-bag-skull-a-palooza,"""Altarhorn"" Circle Crossbody Bag",Circle Bag,Altarhorn,29.95,109.95,67
+60,nightrosary-wallet-skull-a-palooza,"""Nightrosary"" Wallet",Wallet,Nightrosary,13.95,49.95,644
+61,nightrosary-mini-satchel-skull-a-palooza,"""Nightrosary"" Mini Satchel",Mini Satchel,Nightrosary,29.95,109.95,86
+62,nightrosary-circle-crossbody-bag-skull-a-palooza,"""Nightrosary"" Circle Crossbody Bag",Circle Bag,Nightrosary,29.95,109.95,64
+63,rosethorn-wallet-skull-a-palooza,"""Rosethorn"" Wallet",Wallet,Rosethorn,13.95,49.95,648
+64,rosethorn-mini-satchel-skull-a-palooza,"""Rosethorn"" Mini Satchel",Mini Satchel,Rosethorn,29.95,109.95,85
+65,rosethorn-circle-crossbody-bag-skull-a-palooza,"""Rosethorn"" Circle Crossbody Bag",Circle Bag,Rosethorn,29.95,109.95,71
+66,mournaire-wallet-skull-a-palooza,"""Mournaire"" Wallet",Wallet,Mournaire,9.95,49.95,1969
+67,mournaire-mini-satchel-skull-a-palooza,"""Mournaire"" Mini Satchel",Mini Satchel,Mournaire,33.95,109.95,86
+68,mournaire-circle-crossbody-bag-skull-a-palooza,"""Mournaire"" Circle Crossbody Bag",Circle Bag,Mournaire,29.95,109.95,173
+69,moonreaver-wallet-skull-a-palooza,"""Moonreaver"" Wallet",Wallet,Moonreaver,12.95,49.95,486
+70,moonreaver-mini-satchel-skull-a-palooza,"""Moonreaver"" Mini Satchel",Mini Satchel,Moonreaver,39.95,109.95,47
+71,moonreaver-circle-crossbody-bag-skull-a-palooza,"""Moonreaver"" Circle Crossbody Bag",Circle Bag,Moonreaver,37.95,109.95,50
+72,blacklitany-wallet-skull-a-palooza,"""Blacklitany"" Wallet",Wallet,Blacklitany,13.95,49.95,539
+73,blacklitany-mini-satchel-skull-a-palooza,"""Blacklitany"" Mini Satchel",Mini Satchel,Blacklitany,29.95,109.95,54
+74,blacklitany-circle-crossbody-bag-skull-a-palooza,"""Blacklitany"" Circle Crossbody Bag",Circle Bag,Blacklitany,29.95,109.95,65
+75,bloodraven-wallet-skull-a-palooza,"""Bloodraven"" Wallet",Wallet,Bloodraven,12.95,49.95,407
+76,bloodraven-mini-satchel-skull-a-palooza,"""Bloodraven"" Mini Satchel",Mini Satchel,Bloodraven,39.95,109.95,12
+77,bloodraven-circle-crossbody-bag-skull-a-palooza,"""Bloodraven"" Circle Crossbody Bag",Circle Bag,Bloodraven,39.95,109.95,27
+78,triskelion-wallet-skull-a-palooza,"""Triskelion"" Wallet",Wallet,Triskelion,13.95,49.95,646
+79,triskelion-mini-satchel-skull-a-palooza,"""Triskelion"" Mini Satchel",Mini Satchel,Triskelion,29.95,109.95,88
+80,triskelion-circle-crossbody-bag-skull-a-palooza,"""Triskelion"" Circle Crossbody Bag",Circle Bag,Triskelion,29.95,109.95,72
+81,morthwing-wallet-skull-a-palooza,"""Morthwing"" Wallet",Wallet,Morthwing,11.95,49.95,269
+82,catrinelle-wallet-skull-a-palooza,"""Catrinelle"" Wallet",Wallet,Catrinelle,11.95,49.95,2142
+83,catrinelle-circle-crossbody-bag-skull-a-palooza,"""Catrinelle"" Circle Crossbody Bag",Circle Bag,Catrinelle,29.95,109.95,94
+84,heliovoid-wallet-skull-a-palooza,"""Heliovoid"" Wallet",Wallet,Heliovoid,12.95,49.95,466
+85,heliovoid-mini-satchel-skull-a-palooza,"""Heliovoid"" Mini Satchel",Mini Satchel,Heliovoid,29.95,109.95,41
+86,heliovoid-circle-crossbody-bag-skull-a-palooza,"""Heliovoid"" Circle Crossbody Bag",Circle Bag,Heliovoid,29.95,109.95,45
+87,dustveil-wallet-skull-a-palooza,"""Dustveil"" Wallet",Wallet,Dustveil,11.95,49.95,480
+88,catrinelle-small-leather-bag-skull-a-palooza,"""Catrinelle"" Small Leather Bag",Small Leather Bag,Catrinelle,29.95,131.95,84
+89,catrinelle-mini-wallet-skull-a-palooza,"""Catrinelle"" Mini Wallet",Mini Wallet,Catrinelle,9.95,39.95,446
+90,bloodrose-small-leather-bag-skull-a-palooza,"""Bloodrose"" Small Leather Bag",Small Leather Bag,Bloodrose,39.95,131.95,275
+91,bloodrose-mini-wallet-skull-a-palooza,"""Bloodrose"" Mini Wallet",Mini Wallet,Bloodrose,9.95,39.95,1331
+92,heliovoid-mini-wallet-skull-a-palooza,"""Heliovoid"" Mini Wallet",Mini Wallet,Heliovoid,13.95,39.95,109
+93,la-roja-small-leather-bag-skull-a-palooza,"""La Roja"" Small Leather Bag",Small Leather Bag,La Roja,29.95,131.95,60
+94,la-roja-mini-wallet-skull-a-palooza,"""La Roja"" Mini Wallet",Mini Wallet,La Roja,9.95,39.95,491
+95,hexram-black-interior-small-leather-handbag-skull-a-palooza,"""Hexram"" - Black Interior - Small Leather Handbag",Small Leather Bag,Hexram,29.95,131.95,1
+96,hexram-mini-wallet-skull-a-palooza,"""Hexram"" Mini Wallet",Mini Wallet,Hexram,14.95,39.95,175
+97,roselace-small-leather-bag-skull-a-palooza,"""Roselace"" Small Leather Bag",Small Leather Bag,Roselace,29.95,131.95,58
+98,roselace-mini-wallet-skull-a-palooza,"""Roselace"" Mini Wallet",Mini Wallet,Roselace,9.95,39.95,377
+99,altarhorn-black-interior-small-leather-handbag-skull-a-palooza,"""Altarhorn"" - Black Interior - Small Leather Handbag",Small Leather Bag,Altarhorn,9.95,131.95,0
+100,altarhorn-mini-wallet-skull-a-palooza,"""Altarhorn"" Mini Wallet",Mini Wallet,Altarhorn,14.95,39.95,176
+101,corvexia-mini-wallet-skull-a-palooza,"""Corvexia"" Mini Wallet",Mini Wallet,Corvexia,12.95,39.95,149
+102,noctaflora-small-leather-bag-skull-a-palooza,"""Noctaflora"" - Black Interior - Small Leather Handbag",Small Leather Bag,Noctaflora,29.95,131.95,748
+103,noctaflora-mini-wallet-skull-a-palooza,"""Noctaflora"" Mini Wallet",Mini Wallet,Noctaflora,9.95,39.95,1094
+104,moonreaver-mini-wallet-skull-a-palooza,"""Moonreaver"" Mini Wallet",Mini Wallet,Moonreaver,12.95,39.95,120
+105,green-skull-scarlet-bloom-small-leather-bag-skull-a-palooza,"""Bloodrose"" Poison Ivy - Black Interior - Small Leather Handbag",Small Leather Bag,"Bloodrose"" Poison Ivy",29.95,131.95,34
+106,bloodrose-poison-ivy-mini-wallet-skull-a-palooza,"""Bloodrose"" Poison Ivy Mini Wallet",Mini Wallet,"Bloodrose"" Poison Ivy",9.95,39.95,446
+107,nightrosary-black-interior-small-leather-handbag-skull-a-palooza,"""Nightrosary"" - Black Interior - Small Leather Handbag",Small Leather Bag,Nightrosary,9.95,131.95,0
+108,nightrosary-mini-wallet-skull-a-palooza,"""Nightrosary"" Mini Wallet",Mini Wallet,Nightrosary,14.95,39.95,169
+109,triskelion-black-interior-small-leather-handbag-skull-a-palooza,"""Triskelion"" - Black Interior - Small Leather Handbag",Small Leather Bag,Triskelion,9.95,131.95,0
+110,triskelion-mini-wallet-skull-a-palooza,"""Triskelion"" Mini Wallet",Mini Wallet,Triskelion,14.95,39.95,178
+111,mournaire-small-leather-bag-skull-a-palooza,"""Mournaire"" - Black Interior - Small Leather Handbag",Small Leather Bag,Mournaire,29.95,131.95,0
+112,mournaire-mini-wallet-skull-a-palooza,"""Mournaire"" Mini Wallet",Mini Wallet,Mournaire,9.95,39.95,418
+113,purple-skull-scarlet-bloom-small-leather-bag-skull-a-palooza,"""Bloodrose"" Poison Plum Small Leather Bag",Small Leather Bag,"Bloodrose"" Poison Plum",29.95,131.95,0
+114,bloodrose-poison-plum-mini-wallet-skull-a-palooza,"""Bloodrose"" Poison Plum Mini Wallet",Mini Wallet,"Bloodrose"" Poison Plum",9.95,39.95,462
+115,morthwing-black-interior-small-leather-handbag-skull-a-palooza,"""Morthwing"" - Black Interior - Small Leather Handbag",Small Leather Bag,Morthwing,9.95,131.95,0
+116,nyxrose-mini-wallet-skull-a-palooza,"""Nyxrose"" Mini Wallet",Mini Wallet,Nyxrose,9.95,39.95,191
+117,venomina-black-interior-small-leather-handbag-skull-a-palooza,"""Venomina"" - Black Interior - Small Leather Handbag",Small Leather Bag,Venomina,31.95,131.95,59
+118,venomina-mini-wallet-skull-a-palooza,"""Venomina"" Mini Wallet",Mini Wallet,Venomina,11.95,39.95,399
+119,bloodraven-mini-wallet-skull-a-palooza,"""Bloodraven"" Mini Wallet",Mini Wallet,Bloodraven,13.95,39.95,86
+120,rosethorn-black-interior-small-leather-handbag-skull-a-palooza,"""Rosethorn"" - Black Interior - Small Leather Handbag",Small Leather Bag,Rosethorn,29.95,131.95,0
+121,rosethorn-mini-wallet-skull-a-palooza,"""Rosethorn"" Mini Wallet",Mini Wallet,Rosethorn,12.95,39.95,176
+122,obscuria-small-leather-bag-skull-a-palooza,"""Obscuria"" - Black Interior - Small Leather Handbag",Small Leather Bag,Obscuria,29.95,131.95,175
+123,obscuria-mini-wallet-skull-a-palooza,"""Obscuria"" Mini Wallet",Mini Wallet,Obscuria,11.95,39.95,401
+124,wraithbone-black-interior-small-leather-handbag-skull-a-palooza,"""Wraithbone"" - Black Interior - Small Leather Handbag",Small Leather Bag,Wraithbone,9.95,131.95,0
+125,dustveil-small-leather-bag-skull-a-palooza,"""Dustveil"" Small Leather Bag",Small Leather Bag,Dustveil,29.95,131.95,0
+126,gravebloom-mini-wallet-skull-a-palooza,"""Gravebloom"" Mini Wallet",Mini Wallet,Gravebloom,12.95,39.95,151
+127,blacklitany-mini-wallet-skull-a-palooza,"""Blacklitany"" Mini Wallet",Mini Wallet,Blacklitany,14.95,39.95,152
+128,deathmark-small-leather-bag-skull-a-palooza,"""Deathmark"" Small Leather Bag",Small Leather Bag,Deathmark,29.95,131.95,184
+129,deathmark-mini-wallet-skull-a-palooza,"""Deathmark"" Mini Wallet",Mini Wallet,Deathmark,9.95,39.95,473
+130,lunacat-mini-wallet-skull-a-palooza,"""Lunacat"" Mini Wallet",Mini Wallet,Lunacat,9.95,39.95,386
+131,noxaria-black-interior-small-leather-handbag-skull-a-palooza,"""Noxaria"" - Black Interior - Small Leather Handbag",Small Leather Bag,Noxaria,35.95,131.95,54
+132,noxaria-mini-wallet-skull-a-palooza,"""Noxaria"" Mini Wallet",Mini Wallet,Noxaria,11.95,39.95,424
+133,thornfall-black-interior-small-leather-handbag-skull-a-palooza,"""Thornfall"" - Black Interior - Small Leather Handbag",Small Leather Bag,Thornfall,9.95,131.95,0
+134,thornfall-mini-wallet-skull-a-palooza,"""Thornfall"" Mini Wallet",Mini Wallet,Thornfall,12.95,39.95,160
+135,frostmourne-small-leather-bag-skull-a-palooza,"""Frostmourne"" Small Leather Bag",Small Leather Bag,Frostmourne,33.95,131.95,78
+136,frostmourne-mini-wallet-skull-a-palooza,"""Frostmourne"" Mini Wallet",Mini Wallet,Frostmourne,9.95,39.95,470
+137,grimcrown-black-interior-small-leather-handbag-skull-a-palooza,"""Grimcrown"" - Black Interior - Small Leather Handbag",Small Leather Bag,Grimcrown,29.95,131.95,0
+138,grimcrown-mini-wallet-skull-a-palooza,"""Grimcrown"" Mini Wallet",Mini Wallet,Grimcrown,14.95,39.95,176

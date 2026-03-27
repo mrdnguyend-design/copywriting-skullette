@@ -1,0 +1,19 @@
+{
+  "id": "01KD5XZR3QGQ0993X5PQM294GV",
+  "name": "Story | New Arrivals | 231225",
+  "status": "Sent",
+  "send_time": "2025-12-23T16:17:51.844670+00:00",
+  "created_at": "2025-12-23T15:42:01.850018+00:00",
+  "updated_at": "2025-12-23T16:19:26.982167+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-23T16:17:51.844670+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01KE7F1KJEP85BWYAPSC5EWFKF",
+  "name": "Story | Rosethorn | 050126",
+  "status": "Sent",
+  "send_time": "2026-01-05T16:29:36.389726+00:00",
+  "created_at": "2026-01-05T16:15:04.786537+00:00",
+  "updated_at": "2026-01-05T16:31:23.229798+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-05T16:29:36.389726+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

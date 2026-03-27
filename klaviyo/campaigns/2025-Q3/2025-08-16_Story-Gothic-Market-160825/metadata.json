@@ -1,0 +1,19 @@
+{
+  "id": "01K2SQ44EEC7E14PW5WY4BKQBH",
+  "name": "Story | Gothic Market | 160825",
+  "status": "Sent",
+  "send_time": "2025-08-16T09:00:00+00:00",
+  "created_at": "2025-08-16T15:14:14.097016+00:00",
+  "updated_at": "2025-08-16T19:00:05.962416+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-08-16T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

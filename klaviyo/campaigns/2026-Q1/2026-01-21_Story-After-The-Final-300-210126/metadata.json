@@ -1,0 +1,19 @@
+{
+  "id": "01KFGJVJ6ZW11RNQKCANNJR4HE",
+  "name": "Story | After The Final 300 | 210126",
+  "status": "Sent",
+  "send_time": "2026-01-21T10:00:00+00:00",
+  "created_at": "2026-01-21T15:30:32.804368+00:00",
+  "updated_at": "2026-01-21T20:01:10.599448+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-21T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

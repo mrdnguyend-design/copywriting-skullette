@@ -1,0 +1,19 @@
+{
+  "id": "01K7F2EBYVB58E36Y0RR2KB952",
+  "name": "Story | Early Access To Darkness | 131025",
+  "status": "Sent",
+  "send_time": "2025-10-13T09:00:00+00:00",
+  "created_at": "2025-10-13T15:18:54.175794+00:00",
+  "updated_at": "2025-10-13T19:00:10.676026+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-13T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

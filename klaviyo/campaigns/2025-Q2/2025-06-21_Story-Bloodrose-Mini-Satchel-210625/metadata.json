@@ -1,0 +1,19 @@
+{
+  "id": "01JY9QXKXX36Z4J94GNHEWZTSK",
+  "name": "Story | Bloodrose Mini Satchel | 210625",
+  "status": "Sent",
+  "send_time": "2025-06-21T09:00:00+00:00",
+  "created_at": "2025-06-21T17:17:30.943697+00:00",
+  "updated_at": "2025-06-21T19:00:10.897693+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-21T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

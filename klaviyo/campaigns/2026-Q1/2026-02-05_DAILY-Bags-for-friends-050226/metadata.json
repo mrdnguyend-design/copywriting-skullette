@@ -1,0 +1,19 @@
+{
+  "id": "01KGPY8P502K1Y910EDQ2BYF6C",
+  "name": "DAILY | Bags for friends | 050226",
+  "status": "Sent",
+  "send_time": "2026-02-05T10:00:00+00:00",
+  "created_at": "2026-02-05T13:01:05.573524+00:00",
+  "updated_at": "2026-02-05T20:01:02.959224+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-05T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

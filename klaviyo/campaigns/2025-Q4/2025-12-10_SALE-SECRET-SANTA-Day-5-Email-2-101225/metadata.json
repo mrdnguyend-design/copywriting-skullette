@@ -1,0 +1,19 @@
+{
+  "id": "01KC4N85PWGHMNWKJWD8MBR200",
+  "name": "SALE | SECRET SANTA Day 5 Email 2 | 101225",
+  "status": "Sent",
+  "send_time": "2025-12-10T19:15:00+00:00",
+  "created_at": "2025-12-10T17:34:24.478544+00:00",
+  "updated_at": "2025-12-10T19:15:48.841590+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-10T19:15:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

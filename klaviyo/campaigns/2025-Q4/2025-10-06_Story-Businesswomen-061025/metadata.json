@@ -1,0 +1,19 @@
+{
+  "id": "01K6WRMF7Y2QY9SJ0NH4EMZZ9A",
+  "name": "Story | Businesswomen | 061025",
+  "status": "Sent",
+  "send_time": "2025-10-06T09:00:00+00:00",
+  "created_at": "2025-10-06T12:41:08.610405+00:00",
+  "updated_at": "2025-10-06T19:00:09.407439+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-06T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

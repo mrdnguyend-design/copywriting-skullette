@@ -1,0 +1,19 @@
+{
+  "id": "01K0VES3WXB48R3HR5XNF86EP5",
+  "name": "Story | New Bloodroses | 230725",
+  "status": "Sent",
+  "send_time": "2025-07-23T14:00:00+00:00",
+  "created_at": "2025-07-23T10:55:29.695295+00:00",
+  "updated_at": "2025-07-23T14:00:45.661453+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-07-23T14:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

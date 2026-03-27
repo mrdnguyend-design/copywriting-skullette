@@ -1,0 +1,19 @@
+{
+  "id": "01K0EZX1B2C0P54RP8KYS6F05G",
+  "name": "Story | Mini Satchel | 180725",
+  "status": "Sent",
+  "send_time": "2025-07-18T09:00:00+00:00",
+  "created_at": "2025-07-18T14:44:36.323995+00:00",
+  "updated_at": "2025-07-18T19:00:04.600618+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-07-18T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

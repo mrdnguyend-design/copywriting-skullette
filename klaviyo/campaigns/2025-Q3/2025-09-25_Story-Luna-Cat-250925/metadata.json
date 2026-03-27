@@ -1,0 +1,19 @@
+{
+  "id": "01K60RN9CMMFT2Y7EYXNZBZ74A",
+  "name": "Story | Luna Cat | 250925",
+  "status": "Sent",
+  "send_time": "2025-09-25T15:48:33.574647+00:00",
+  "created_at": "2025-09-25T15:42:51.288607+00:00",
+  "updated_at": "2025-09-25T19:14:50.242537+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-09-25T15:48:33.574647+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

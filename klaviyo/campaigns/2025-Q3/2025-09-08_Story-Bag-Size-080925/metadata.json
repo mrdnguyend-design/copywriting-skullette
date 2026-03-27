@@ -1,0 +1,19 @@
+{
+  "id": "01K4N0ZEDQQ47S8SH69WYQQMQN",
+  "name": "Story | Bag Size | 080925",
+  "status": "Sent",
+  "send_time": "2025-09-08T09:30:00+00:00",
+  "created_at": "2025-09-08T16:01:37.721487+00:00",
+  "updated_at": "2025-09-08T19:30:01.081469+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-09-08T09:30:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01K9PWPBJRE4Q9KHP66FB98C1F",
+  "name": "Story | Small Gift After BBFD | 101125",
+  "status": "Sent",
+  "send_time": "2025-11-10T09:00:00+00:00",
+  "created_at": "2025-11-10T12:43:43.579074+00:00",
+  "updated_at": "2025-11-10T18:59:53.954303+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-10T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

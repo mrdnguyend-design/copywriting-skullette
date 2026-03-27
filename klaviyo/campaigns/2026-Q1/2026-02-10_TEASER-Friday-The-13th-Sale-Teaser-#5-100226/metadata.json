@@ -1,0 +1,19 @@
+{
+  "id": "01KH43QS0E6WC8ZVNVPTQSF1G5",
+  "name": "TEASER | Friday The 13th Sale Teaser #5 | 100226",
+  "status": "Sent",
+  "send_time": "2026-02-10T10:00:00+00:00",
+  "created_at": "2026-02-10T15:46:50.514295+00:00",
+  "updated_at": "2026-02-10T20:01:06.401275+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-10T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

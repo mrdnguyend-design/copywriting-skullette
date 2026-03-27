@@ -1,0 +1,19 @@
+{
+  "id": "01KD8ARNNRJRWET32KRA089G73",
+  "name": "Story | Merry Christmas | 241225",
+  "status": "Sent",
+  "send_time": "2025-12-24T09:00:00+00:00",
+  "created_at": "2025-12-24T14:03:50.332532+00:00",
+  "updated_at": "2025-12-24T19:01:04.156161+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-24T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

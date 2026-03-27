@@ -1,0 +1,19 @@
+{
+  "id": "01KEME650HQ3WGW5GZEXA337NA",
+  "name": "SALE | Small Bag Clearance Sale Day 2 Email 2 | 100126 (clone)",
+  "status": "Sent",
+  "send_time": "2026-01-10T20:05:00+00:00",
+  "created_at": "2026-01-10T17:10:12.757819+00:00",
+  "updated_at": "2026-01-10T20:06:00.878659+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-10T20:05:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

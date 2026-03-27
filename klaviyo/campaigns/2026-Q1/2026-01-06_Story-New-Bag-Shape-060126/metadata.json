@@ -1,0 +1,19 @@
+{
+  "id": "01KEA0B30K001ANGPH8J2K1ETT",
+  "name": "Story | New Bag Shape | 060126",
+  "status": "Sent",
+  "send_time": "2026-01-06T09:00:00+00:00",
+  "created_at": "2026-01-06T15:55:50.166724+00:00",
+  "updated_at": "2026-01-06T19:00:52.614731+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-06T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

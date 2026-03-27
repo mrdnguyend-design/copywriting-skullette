@@ -1,0 +1,19 @@
+{
+  "id": "01JWTT0DXCTC74QDWBM5B2PN3F",
+  "name": "Story | Restock | 030625",
+  "status": "Sent",
+  "send_time": "2025-06-03T09:00:00+00:00",
+  "created_at": "2025-06-03T11:49:41.934041+00:00",
+  "updated_at": "2025-06-03T19:00:15.587731+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-03T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

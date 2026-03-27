@@ -1,0 +1,19 @@
+{
+  "id": "01K9FSJF80DP3MATH6Y5SJZHAS",
+  "name": "SALE | Best Before Black Friday Day 1 Email 3 | 071125",
+  "status": "Sent",
+  "send_time": "2025-11-08T00:00:00+00:00",
+  "created_at": "2025-11-07T18:34:29.508295+00:00",
+  "updated_at": "2025-11-08T00:00:08.178573+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-08T00:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

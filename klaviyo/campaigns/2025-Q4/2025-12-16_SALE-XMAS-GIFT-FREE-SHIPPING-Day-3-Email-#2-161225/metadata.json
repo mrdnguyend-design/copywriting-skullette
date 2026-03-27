@@ -1,0 +1,19 @@
+{
+  "id": "01KCKMZ87J97K1ZS91N0QSGV49",
+  "name": "SALE | XMAS GIFT FREE SHIPPING Day 3 Email #2 | 161225",
+  "status": "Sent",
+  "send_time": "2025-12-16T19:00:00+00:00",
+  "created_at": "2025-12-16T13:18:08.628680+00:00",
+  "updated_at": "2025-12-16T19:01:07.586389+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-16T19:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

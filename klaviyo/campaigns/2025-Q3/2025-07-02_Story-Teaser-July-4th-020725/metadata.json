@@ -1,0 +1,19 @@
+{
+  "id": "01JZ5GQPJ6DKKV1S3QFZS3P40X",
+  "name": "Story | Teaser July 4th | 020725",
+  "status": "Sent",
+  "send_time": "2025-07-02T09:00:00+00:00",
+  "created_at": "2025-07-02T12:10:41.096222+00:00",
+  "updated_at": "2025-07-02T19:00:32.143303+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-07-02T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

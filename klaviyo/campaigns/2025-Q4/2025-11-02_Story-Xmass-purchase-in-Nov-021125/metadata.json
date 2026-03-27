@@ -1,0 +1,19 @@
+{
+  "id": "01K92AQ1H1145B5CP5YY8N1A2N",
+  "name": "Story | Xmass purchase in Nov | 021125",
+  "status": "Sent",
+  "send_time": "2025-11-02T09:00:00+00:00",
+  "created_at": "2025-11-02T13:04:43.045079+00:00",
+  "updated_at": "2025-11-02T19:00:06.002288+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-02T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

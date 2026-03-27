@@ -1,0 +1,8 @@
+[command]
+description = "Sync email campaign data from Klaviyo into the workspace"
+
+[command.prompt]
+text = """
+Run the /sync-klaviyo workflow defined in .agent/workflows/sync-klaviyo.md
+Follow all steps exactly as documented.
+"""

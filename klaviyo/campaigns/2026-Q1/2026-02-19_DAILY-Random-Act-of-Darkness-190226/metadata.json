@@ -1,0 +1,19 @@
+{
+  "id": "01KHSVAYJPAHSHVTD36VQHZ6PT",
+  "name": "DAILY | Random Act of Darkness | 190226",
+  "status": "Sent",
+  "send_time": "2026-02-19T10:00:00+00:00",
+  "created_at": "2026-02-19T02:23:19.129639+00:00",
+  "updated_at": "2026-02-19T20:01:09.942628+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-19T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

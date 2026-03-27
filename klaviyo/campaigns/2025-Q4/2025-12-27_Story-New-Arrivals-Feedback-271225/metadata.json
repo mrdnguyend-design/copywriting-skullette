@@ -1,0 +1,19 @@
+{
+  "id": "01KDG05NGH4NG3YWA53CEBKPPN",
+  "name": "Story | New Arrivals Feedback | 271225",
+  "status": "Sent",
+  "send_time": "2025-12-27T15:20:32.745399+00:00",
+  "created_at": "2025-12-27T13:32:37.269448+00:00",
+  "updated_at": "2025-12-27T15:22:38.404063+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-27T15:20:32.745399+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

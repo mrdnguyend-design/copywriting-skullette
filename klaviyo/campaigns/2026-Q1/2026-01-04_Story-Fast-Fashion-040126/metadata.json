@@ -1,0 +1,19 @@
+{
+  "id": "01KE4RAGAS546YM7MR7DG6XPJP",
+  "name": "Story | Fast Fashion | 040126",
+  "status": "Sent",
+  "send_time": "2026-01-04T15:04:12.063055+00:00",
+  "created_at": "2026-01-04T14:59:30.268597+00:00",
+  "updated_at": "2026-01-04T15:06:00.295749+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-04T15:04:12.063055+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

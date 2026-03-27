@@ -1,0 +1,19 @@
+{
+  "id": "01K2F35VZGXGCDACE52HERPYW8",
+  "name": "Story | Brand Ambassadors | 120825",
+  "status": "Sent",
+  "send_time": "2025-08-12T09:00:00+00:00",
+  "created_at": "2025-08-12T12:13:15.122777+00:00",
+  "updated_at": "2025-08-12T19:00:49.969004+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-08-12T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

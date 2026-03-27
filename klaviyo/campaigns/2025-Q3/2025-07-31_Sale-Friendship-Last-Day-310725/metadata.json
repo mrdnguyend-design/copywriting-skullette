@@ -1,0 +1,19 @@
+{
+  "id": "01K1FX3R66JDV7ZF3YYZHE1D4P",
+  "name": "Sale | Friendship Last Day | 310725",
+  "status": "Sent",
+  "send_time": "2025-07-31T14:00:00+00:00",
+  "created_at": "2025-07-31T09:30:46.857854+00:00",
+  "updated_at": "2025-07-31T14:00:30.874769+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-07-31T14:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

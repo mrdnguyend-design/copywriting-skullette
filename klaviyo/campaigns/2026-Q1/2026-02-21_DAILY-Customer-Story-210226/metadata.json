@@ -1,0 +1,19 @@
+{
+  "id": "01KHZQXYPQFZYP1CAD280AQHWD",
+  "name": "DAILY | Customer Story | 210226",
+  "status": "Sent",
+  "send_time": "2026-02-21T10:00:00+00:00",
+  "created_at": "2026-02-21T09:19:14.139391+00:00",
+  "updated_at": "2026-02-21T20:00:54.334371+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-21T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

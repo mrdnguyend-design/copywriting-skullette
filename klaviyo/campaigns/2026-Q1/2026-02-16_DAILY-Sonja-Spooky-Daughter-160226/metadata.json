@@ -1,0 +1,19 @@
+{
+  "id": "01KHK3WV8PV00Z3SE8PFS33MX5",
+  "name": "DAILY | Sonja Spooky Daughter | 160226",
+  "status": "Sent",
+  "send_time": "2026-02-16T10:00:00+00:00",
+  "created_at": "2026-02-16T11:38:13.146317+00:00",
+  "updated_at": "2026-02-16T20:01:04.574988+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-16T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

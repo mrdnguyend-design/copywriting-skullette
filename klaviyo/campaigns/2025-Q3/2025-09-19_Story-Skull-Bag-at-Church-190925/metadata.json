@@ -1,0 +1,19 @@
+{
+  "id": "01K5H74HPPVAZV0YPTP88ZN9EQ",
+  "name": "Story | Skull Bag at Church | 190925",
+  "status": "Sent",
+  "send_time": "2025-09-19T09:00:00+00:00",
+  "created_at": "2025-09-19T14:48:00.472681+00:00",
+  "updated_at": "2025-09-19T19:00:52.660146+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-09-19T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

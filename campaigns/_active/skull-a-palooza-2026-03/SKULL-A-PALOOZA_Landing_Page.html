@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SKULL-A-PALOOZA — Skull Bags From $9.95 | Skullette</title>
+    <meta name="description" content="SKULL-A-PALOOZA: 72-hour private flash sale. Premium skull leather bags from $9.95. March 17-19, 2026. Invite only.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Inter:wght@400;500;600&family=Permanent+Marker&display=swap" rel="stylesheet">
+    <style>
+        /* ========================================
+           SKULL-A-PALOOZA LANDING PAGE
+           Color Palette:
+             Black BG:      #0D0D0D
+             Hot Pink CTA:  #FF2D7B
+             Purple Accent: #9B59FF
+             Off-white:     #F5F0E8
+             Neon Green:    #39FF14
+             Gold CTA:      #FFD700
+           ======================================== */
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #0D0D0D;
+            color: #F5F0E8;
+            font-family: 'Inter', Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* --- NOISE TEXTURE OVERLAY --- */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        section {
+            position: relative;
+            z-index: 1;
+        }
+
+        /* --- TICKET STUB BORDER --- */
+        .ticket-border {
+            border-top: 3px dashed rgba(155, 89, 255, 0.3);
+            border-bottom: 3px dashed rgba(155, 89, 255, 0.3);
+            padding: 2px 0;
+            margin: 0 auto;
+            max-width: 900px;
+        }
+
+        .ticket-border-inner {
+            border-top: 1px solid rgba(155, 89, 255, 0.15);
+            border-bottom: 1px solid rgba(155, 89, 255, 0.15);
+        }
+
+        /* --- SECTION CONTAINER --- */
+        .section {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 60px 24px;
+        }
+
+        @media (max-width: 600px) {
+            .section {
+                padding: 40px 18px;
+            }
+        }
+
+        /* --- TYPOGRAPHY --- */
+        h1 {
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            font-size: clamp(2.8rem, 8vw, 5rem);
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            line-height: 1.05;
+            color: #F5F0E8;
+        }
+
+        h2 {
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            font-size: clamp(1.8rem, 5vw, 3rem);
+            text-transform: uppercase;
+            letter-spacing: 0.02em;
+            line-height: 1.1;
+            color: #F5F0E8;
+            margin-bottom: 20px;
+        }
+
+        .sub {
+            font-family: 'Inter', sans-serif;
+            font-size: 1.1rem;
+            color: rgba(245, 240, 232, 0.7);
+            margin-top: 8px;
+            font-style: italic;
+        }
+
+        .body-text {
+            font-size: 1.05rem;
+            line-height: 1.75;
+            color: rgba(245, 240, 232, 0.85);
+            margin-top: 20px;
+        }
+
+        .body-text strong {
+            color: #F5F0E8;
+        }
+
+        /* --- PRICE TAG --- */
+        .price-tag {
+            font-family: 'Permanent Marker', cursive;
+            color: #39FF14;
+            font-size: clamp(1.5rem, 4vw, 2.2rem);
+            display: inline-block;
+            transform: rotate(-2deg);
+            text-shadow: 0 0 20px rgba(57, 255, 20, 0.3);
+        }
+
+        .price-strikethrough {
+            text-decoration: line-through;
+            color: rgba(245, 240, 232, 0.4);
+            font-size: 0.9em;
+        }
+
+        /* --- CTA BUTTONS --- */
+        .cta-btn {
+            display: inline-block;
+            padding: 18px 48px;
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            text-decoration: none;
+            border-radius: 4px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 28px;
+        }
+
+        .cta-pink {
+            background: #FF2D7B;
+            color: #fff;
+            box-shadow: 0 4px 25px rgba(255, 45, 123, 0.35);
+        }
+
+        .cta-pink:hover {
+            background: #ff4a90;
+            box-shadow: 0 6px 35px rgba(255, 45, 123, 0.5);
+            transform: translateY(-2px);
+        }
+
+        .cta-gold {
+            background: linear-gradient(135deg, #FFD700, #FFA500);
+            color: #0D0D0D;
+            box-shadow: 0 4px 25px rgba(255, 215, 0, 0.35);
+        }
+
+        .cta-gold:hover {
+            box-shadow: 0 6px 35px rgba(255, 215, 0, 0.55);
+            transform: translateY(-2px);
+        }
+
+        /* --- BADGE --- */
+        .badge {
+            display: inline-block;
+            padding: 8px 20px;
+            border: 1px solid #9B59FF;
+            border-radius: 30px;
+            font-family: 'Oswald', sans-serif;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: #9B59FF;
+            margin-bottom: 24px;
+            animation: pulse-badge 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse-badge {
+            0%, 100% { box-shadow: 0 0 10px rgba(155, 89, 255, 0.2); }
+            50% { box-shadow: 0 0 25px rgba(155, 89, 255, 0.4); }
+        }
+
+        /* ==============================
+           SECTION 1: HERO
+           ============================== */
+        .hero {
+            text-align: center;
+            padding: 80px 24px 60px;
+            min-height: 85vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+
+        .hero::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(to top, #0D0D0D, transparent);
+            pointer-events: none;
+        }
+
+        .hero .sub {
+            font-size: 1.15rem;
+        }
+
+        .hero .body-text {
+            max-width: 500px;
+        }
+
+        /* --- SKULL DIVIDER --- */
+        .skull-divider {
+            text-align: center;
+            font-size: 2rem;
+            padding: 30px 0;
+            color: #9B59FF;
+            opacity: 0.6;
+            letter-spacing: 0.4em;
+        }
+
+        /* ==============================
+           SECTION 2: OFFER DETAILS
+           ============================== */
+        .offer-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 60px 24px;
+        }
+
+        .offer-image {
+            width: 100%;
+            aspect-ratio: 1;
+            background: linear-gradient(135deg, #1a1a1a, #0D0D0D);
+            border: 1px solid rgba(155, 89, 255, 0.2);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #9B59FF;
+            font-size: 4rem;
+            overflow: hidden;
+        }
+
+        .offer-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        @media (max-width: 600px) {
+            .offer-grid {
+                grid-template-columns: 1fr;
+                gap: 24px;
+                padding: 40px 18px;
+            }
+        }
+
+        /* ==============================
+           SECTION 3: FORM
+           ============================== */
+        .gate-section {
+            background: linear-gradient(180deg, rgba(155, 89, 255, 0.05) 0%, rgba(155, 89, 255, 0.02) 100%);
+            border-top: 1px solid rgba(155, 89, 255, 0.15);
+            border-bottom: 1px solid rgba(155, 89, 255, 0.15);
+        }
+
+        .form-container {
+            max-width: 480px;
+            margin: 40px auto 0;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(155, 89, 255, 0.25);
+            border-radius: 12px;
+            padding: 40px 32px;
+            text-align: center;
+        }
+
+        .form-title {
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            font-size: 1.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 8px;
+        }
+
+        .form-sub {
+            font-size: 0.95rem;
+            color: rgba(245, 240, 232, 0.6);
+            margin-bottom: 24px;
+        }
+
+        .form-field {
+            width: 100%;
+            padding: 14px 18px;
+            margin-bottom: 12px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(155, 89, 255, 0.2);
+            border-radius: 6px;
+            color: #F5F0E8;
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s ease;
+        }
+
+        .form-field::placeholder {
+            color: rgba(245, 240, 232, 0.35);
+        }
+
+        .form-field:focus {
+            border-color: #9B59FF;
+            box-shadow: 0 0 15px rgba(155, 89, 255, 0.15);
+        }
+
+        .form-btn {
+            width: 100%;
+            padding: 16px;
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            background: #FF2D7B;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            margin-top: 8px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 25px rgba(255, 45, 123, 0.3);
+        }
+
+        .form-btn:hover {
+            background: #ff4a90;
+            box-shadow: 0 6px 35px rgba(255, 45, 123, 0.5);
+            transform: translateY(-1px);
+        }
+
+        .social-proof {
+            margin-top: 20px;
+            font-size: 0.95rem;
+            color: #39FF14;
+            text-shadow: 0 0 15px rgba(57, 255, 20, 0.2);
+        }
+
+        .legal-text {
+            margin-top: 16px;
+            font-size: 0.7rem;
+            color: rgba(245, 240, 232, 0.3);
+            line-height: 1.4;
+        }
+
+        .keyword-hint {
+            margin-top: 24px;
+            font-size: 0.85rem;
+            color: rgba(245, 240, 232, 0.45);
+        }
+
+        .keyword-hint strong {
+            color: #9B59FF;
+        }
+
+        /* --- COUNTDOWN --- */
+        .countdown {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            margin-top: 28px;
+        }
+
+        .countdown-unit {
+            text-align: center;
+        }
+
+        .countdown-number {
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            font-size: clamp(2rem, 5vw, 2.8rem);
+            color: #FF2D7B;
+            line-height: 1;
+            min-width: 60px;
+            display: block;
+            text-shadow: 0 0 20px rgba(255, 45, 123, 0.3);
+        }
+
+        .countdown-label {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: rgba(245, 240, 232, 0.4);
+            margin-top: 6px;
+        }
+
+        /* ==============================
+           SECTION 4: REASON WHY
+           ============================== */
+        .reason-section .body-text {
+            max-width: 600px;
+        }
+
+        /* ==============================
+           SECTION 5: REVIEWS
+           ============================== */
+        .reviews-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-top: 32px;
+        }
+
+        .review-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(155, 89, 255, 0.15);
+            border-radius: 10px;
+            padding: 28px 22px;
+            transition: border-color 0.3s ease;
+        }
+
+        .review-card:hover {
+            border-color: rgba(155, 89, 255, 0.4);
+        }
+
+        .review-stars {
+            color: #FFD700;
+            font-size: 1rem;
+            margin-bottom: 14px;
+            letter-spacing: 0.1em;
+        }
+
+        .review-text {
+            font-size: 0.95rem;
+            color: rgba(245, 240, 232, 0.8);
+            line-height: 1.6;
+            font-style: italic;
+            margin-bottom: 16px;
+        }
+
+        .review-author {
+            font-size: 0.85rem;
+            color: rgba(245, 240, 232, 0.5);
+        }
+
+        .review-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            background: rgba(57, 255, 20, 0.1);
+            color: #39FF14;
+            font-size: 0.7rem;
+            border-radius: 3px;
+            margin-left: 6px;
+        }
+
+        @media (max-width: 600px) {
+            .reviews-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* ==============================
+           SECTION 6: FINAL CTA
+           ============================== */
+        .final-section {
+            text-align: center;
+            padding: 80px 24px 100px;
+            background: linear-gradient(180deg, #0D0D0D 0%, rgba(155, 89, 255, 0.04) 50%, #0D0D0D 100%);
+        }
+
+        .final-section h2 {
+            font-size: clamp(2rem, 6vw, 3.5rem);
+        }
+
+        /* --- GLOW ANIMATION --- */
+        @keyframes glow-pink {
+            0%, 100% { box-shadow: 0 4px 25px rgba(255, 45, 123, 0.35); }
+            50% { box-shadow: 0 4px 40px rgba(255, 45, 123, 0.55); }
+        }
+
+        @keyframes glow-gold {
+            0%, 100% { box-shadow: 0 4px 25px rgba(255, 215, 0, 0.35); }
+            50% { box-shadow: 0 4px 40px rgba(255, 215, 0, 0.55); }
+        }
+
+        .cta-gold {
+            animation: glow-gold 2.5s ease-in-out infinite;
+        }
+
+        /* --- FADE-IN ANIMATION --- */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s ease, transform 0.6s ease;
+        }
+
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* --- FOOTER --- */
+        .footer {
+            text-align: center;
+            padding: 30px 24px;
+            font-size: 0.75rem;
+            color: rgba(245, 240, 232, 0.2);
+            border-top: 1px solid rgba(155, 89, 255, 0.08);
+        }
+
+        .footer a {
+            color: rgba(245, 240, 232, 0.3);
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ============================
+         SECTION 1: HERO
+         ============================ -->
+    <section class="hero" id="hero">
+        <div class="badge">💀 SKULL-A-PALOOZA · March 17–19 · 72 Hours Only</div>
+        <h1>Skull Bags<br>From $9.95.</h1>
+        <p class="sub">(no, we haven't lost our minds.)<br>(ok maybe a little.)</p>
+        <p class="body-text">
+            End of Q1. We need to move volume to lock in our shipping rates.<br>
+            Your reward? Prices that make our accountant cry.
+        </p>
+        <a href="#signup-form" class="cta-btn cta-pink" id="hero-cta">I'M IN →</a>
+
+        <div class="countdown" id="hero-countdown" style="margin-top: 40px;">
+            <div class="countdown-unit">
+                <span class="countdown-number" id="hero-days">--</span>
+                <span class="countdown-label">Days</span>
+            </div>
+            <div class="countdown-unit">
+                <span class="countdown-number" id="hero-hours">--</span>
+                <span class="countdown-label">Hours</span>
+            </div>
+            <div class="countdown-unit">
+                <span class="countdown-number" id="hero-mins">--</span>
+                <span class="countdown-label">Mins</span>
+            </div>
+            <div class="countdown-unit">
+                <span class="countdown-number" id="hero-secs">--</span>
+                <span class="countdown-label">Secs</span>
+            </div>
+        </div>
+    </section>
+
+    <div class="skull-divider">💀 💀 💀</div>
+
+    <!-- ============================
+         SECTION 2: OFFER DETAILS
+         ============================ -->
+    <section id="offer">
+        <div class="offer-grid">
+            <div class="offer-image">
+                <!-- Replace with actual product image -->
+                💀
+            </div>
+            <div>
+                <h2><span class="price-strikethrough">$140</span> Bags For <span class="price-tag">$9.95.</span></h2>
+                <p class="sub">That's not a typo.</p>
+                <p class="body-text">
+                    You're grabbing a $140 bag or $50 wallet for $9.95.
+                </p>
+                <p class="body-text">
+                    That's what happens during SKULL-A-PALOOZA.
+                </p>
+                <p class="body-text">
+                    This is our private flash event where premium Skullette leather goodies drop to prices that shouldn't exist.
+                </p>
+                <p class="body-text">
+                    The bags that make people stare and ask <strong>"where'd you get THAT?"</strong>
+                </p>
+                <p class="body-text">
+                    Those bags.<br>
+                    For prices that'll make you think we lost our minds.
+                </p>
+                <a href="#signup-form" class="cta-btn cta-pink" id="offer-cta">I'M IN →</a>
+            </div>
+        </div>
+    </section>
+
+    <div class="skull-divider">💀 💀 💀</div>
+
+    <!-- ============================
+         SECTION 3: PRIVATE GATE + FORM
+         ============================ -->
+    <section class="gate-section" id="gate">
+        <div class="section">
+            <h2>But there's a catch.</h2>
+            <p class="sub">You gotta be on THE LIST.</p>
+            <p class="body-text">
+                This sale is <strong>PRIVATE.</strong><br>
+                Invite-only. If you're not subscribed, you won't even SEE the sale page when it goes live.
+            </p>
+            <p class="body-text">
+                No link. No access. Nothing.
+            </p>
+            <p class="body-text">
+                We're dropping TONS of deals across our skull collection — starting from <strong>$9.95</strong>, others <strong>up to 70% OFF</strong>, all of them WILD.
+            </p>
+            <p class="body-text">
+                Drop your info below or miss it.
+            </p>
+
+            <!-- SIGNUP FORM -->
+            <div class="form-container" id="signup-form">
+                <div class="form-title">GET INTO SKULL-A-PALOOZA 💀</div>
+                <p class="form-sub">March 17-19. Skull bags from $9.95. You in?</p>
+
+                <form id="signup" action="#" method="POST">
+                    <input type="text" class="form-field" name="first_name" placeholder="First Name *" required id="field-name">
+                    <input type="email" class="form-field" name="email" placeholder="Email *" required id="field-email">
+                    <input type="tel" class="form-field" name="phone" placeholder="Phone Number *" required id="field-phone">
+                    <button type="submit" class="form-btn" id="submit-btn">PUT ME ON THE LIST →</button>
+                </form>
+
+                <p class="social-proof" id="social-proof-counter">💀 1,247 witches already signed up</p>
+
+                <p class="legal-text">
+                    By submitting, you agree to receive marketing messages from Skullette via email and SMS. 
+                    Msg & data rates may apply. Reply STOP to unsubscribe. View our 
+                    <a href="#" style="color: rgba(245,240,232,0.4); text-decoration: underline;">Privacy Policy</a>.
+                </p>
+
+                <div class="countdown" id="form-countdown">
+                    <div class="countdown-unit">
+                        <span class="countdown-number" id="form-days">--</span>
+                        <span class="countdown-label">Days</span>
+                    </div>
+                    <div class="countdown-unit">
+                        <span class="countdown-number" id="form-hours">--</span>
+                        <span class="countdown-label">Hours</span>
+                    </div>
+                    <div class="countdown-unit">
+                        <span class="countdown-number" id="form-mins">--</span>
+                        <span class="countdown-label">Mins</span>
+                    </div>
+                    <div class="countdown-unit">
+                        <span class="countdown-number" id="form-secs">--</span>
+                        <span class="countdown-label">Secs</span>
+                    </div>
+                </div>
+            </div>
+
+            <p class="keyword-hint" style="text-align: center; margin-top: 24px;">
+                Already on our SMS list? Text <strong>SKULL995</strong> to <strong>1-866-580-9334</strong> and you're automatically in.
+            </p>
+        </div>
+    </section>
+
+    <div class="skull-divider">💀</div>
+
+    <!-- ============================
+         SECTION 4: REASON WHY
+         ============================ -->
+    <section class="reason-section" id="reason">
+        <div class="section">
+            <h2>Why $9.95? And why only 72 hours?</h2>
+            <p class="body-text">Here's what happened.</p>
+            <p class="body-text">
+                Every quarter, we lock in shipping rates with our carrier based on volume. 
+                More orders → better rates → better prices for you long term.
+            </p>
+            <p class="body-text">
+                At our current pace, we're <strong>600 orders short</strong> of hitting that target before March ends.
+            </p>
+            <p class="body-text">
+                So we made a call: open the vault, drop everything to $9.95, and get those 600 orders in 72 hours.
+            </p>
+            <p class="body-text">
+                Once we hit 600 — or March 19 passes — these prices are done. 
+                No extensions. No "one more day." The vault closes and prices go back to where they belong.
+            </p>
+            <p class="body-text">
+                This only happens when the numbers line up like this.<br>
+                And right now, they do.
+            </p>
+            <div style="text-align: center;">
+                <a href="#signup-form" class="cta-btn cta-pink" id="reason-cta">PUT ME ON THE LIST →</a>
+            </div>
+        </div>
+    </section>
+
+    <div class="skull-divider">💀 💀 💀</div>
+
+    <!-- ============================
+         SECTION 5: REVIEWS
+         ============================ -->
+    <section id="reviews">
+        <div class="section">
+            <h2 style="text-align: center;">Don't just take our word for it.</h2>
+
+            <div class="reviews-grid">
+                <!-- Review Card 1: Quality -->
+                <div class="review-card fade-in" id="review-1">
+                    <div class="review-stars">★★★★★</div>
+                    <p class="review-text">
+                        "I've bought bags 3x the price that don't come close to this quality. 
+                        The skull hardware is SOLID. I'm obsessed."
+                    </p>
+                    <p class="review-author">
+                        — Sarah K. <span class="review-badge">✅ Verified Buyer</span>
+                    </p>
+                </div>
+
+                <!-- Review Card 2: Gift / Reaction -->
+                <div class="review-card fade-in" id="review-2">
+                    <div class="review-stars">★★★★★</div>
+                    <p class="review-text">
+                        "Bought the skull tote for my daughter. She literally screamed 
+                        when she opened it. Already planning my next order."
+                    </p>
+                    <p class="review-author">
+                        — Marianne S. <span class="review-badge">✅ Verified Buyer</span>
+                    </p>
+                </div>
+
+                <!-- Review Card 3: Repeat Buyer -->
+                <div class="review-card fade-in" id="review-3">
+                    <div class="review-stars">★★★★★</div>
+                    <p class="review-text">
+                        "Fourth Skullette purchase and I'm not stopping. 
+                        If you're on the fence — just do it. You won't regret it. 💀"
+                    </p>
+                    <p class="review-author">
+                        — Jennifer R. <span class="review-badge">✅ Verified Buyer</span>
+                    </p>
+                </div>
+            </div>
+
+            <div style="text-align: center;">
+                <a href="#signup-form" class="cta-btn cta-pink" id="reviews-cta">PUT ME ON THE LIST →</a>
+            </div>
+        </div>
+    </section>
+
+    <div class="skull-divider">💀</div>
+
+    <!-- ============================
+         SECTION 6: FINAL CTA
+         ============================ -->
+    <section class="final-section" id="final">
+        <h2>$9.95 Skullette Leather Goodies. 💀<br>For 72 Hours.</h2>
+        <p class="body-text" style="max-width: 500px; margin: 20px auto 0; text-align: center;">
+            I made these bags for witches who refuse to blend in.
+        </p>
+        <p class="body-text" style="max-width: 500px; margin: 10px auto 0; text-align: center;">
+            For 72 hours, I'm making them stupid affordable.
+        </p>
+        <p class="body-text" style="max-width: 500px; margin: 10px auto 0; text-align: center;">
+            <strong>This is the one you tell your coven about.</strong>
+        </p>
+
+        <div style="text-align: center;">
+            <a href="#signup-form" class="cta-btn cta-gold" id="final-cta">PUT ME ON THE LIST →</a>
+        </div>
+
+        <div class="countdown" id="final-countdown" style="margin-top: 40px;">
+            <div class="countdown-unit">
+                <span class="countdown-number" id="final-days">--</span>
+                <span class="countdown-label">Days</span>
+            </div>
+            <div class="countdown-unit">
+                <span class="countdown-number" id="final-hours">--</span>
+                <span class="countdown-label">Hours</span>
+            </div>
+            <div class="countdown-unit">
+                <span class="countdown-number" id="final-mins">--</span>
+                <span class="countdown-label">Mins</span>
+            </div>
+            <div class="countdown-unit">
+                <span class="countdown-number" id="final-secs">--</span>
+                <span class="countdown-label">Secs</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p>© 2026 Skullette. All rights reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+    </footer>
+
+    <!-- ============================
+         JAVASCRIPT
+         ============================ -->
+    <script>
+        // ---- COUNTDOWN TIMER ----
+        // Sale starts: March 17, 2026 10:00 AM ET (UTC-4)
+        const saleStart = new Date('2026-03-17T10:00:00-04:00').getTime();
+
+        function updateCountdowns() {
+            const now = new Date().getTime();
+            const diff = saleStart - now;
+
+            if (diff <= 0) {
+                // Sale has started — update all countdowns
+                const labels = ['hero', 'form', 'final'];
+                labels.forEach(prefix => {
+                    document.getElementById(prefix + '-days').textContent = '00';
+                    document.getElementById(prefix + '-hours').textContent = '00';
+                    document.getElementById(prefix + '-mins').textContent = '00';
+                    document.getElementById(prefix + '-secs').textContent = '00';
+                });
+                return;
+            }
+
+            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+            const secs = Math.floor((diff % (1000 * 60)) / 1000);
+
+            const pad = n => String(n).padStart(2, '0');
+
+            const labels = ['hero', 'form', 'final'];
+            labels.forEach(prefix => {
+                document.getElementById(prefix + '-days').textContent = pad(days);
+                document.getElementById(prefix + '-hours').textContent = pad(hours);
+                document.getElementById(prefix + '-mins').textContent = pad(mins);
+                document.getElementById(prefix + '-secs').textContent = pad(secs);
+            });
+        }
+
+        updateCountdowns();
+        setInterval(updateCountdowns, 1000);
+
+        // ---- SCROLL FADE-IN ----
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.15 });
+
+        document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+        // ---- SMOOTH SCROLL FOR CTA BUTTONS ----
+        document.querySelectorAll('a[href="#signup-form"]').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.getElementById('signup-form').scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'center'
+                });
+            });
+        });
+
+        // ---- FORM SUBMISSION (placeholder) ----
+        document.getElementById('signup').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const btn = document.getElementById('submit-btn');
+            btn.textContent = 'YOU\'RE IN! 💀';
+            btn.style.background = '#39FF14';
+            btn.style.color = '#0D0D0D';
+            btn.disabled = true;
+
+            // In production, submit to Klaviyo/Shopify here
+            // fetch('/api/subscribe', { ... })
+        });
+    </script>
+
+</body>
+</html>

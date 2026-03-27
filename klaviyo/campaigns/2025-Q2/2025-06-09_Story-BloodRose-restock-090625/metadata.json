@@ -1,0 +1,19 @@
+{
+  "id": "01JX9X0NR4FVGX57S12WBNT3GE",
+  "name": "Story | BloodRose restock | 090625",
+  "status": "Sent",
+  "send_time": "2025-06-09T09:00:00+00:00",
+  "created_at": "2025-06-09T08:30:52.165619+00:00",
+  "updated_at": "2025-06-09T19:00:15.341669+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-09T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

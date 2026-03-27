@@ -1,0 +1,19 @@
+{
+  "id": "01JXEH11EGPPBCA7QNVNT8B2T1",
+  "name": "Story | Confidence | 110625",
+  "status": "Sent",
+  "send_time": "2025-06-11T09:00:00+00:00",
+  "created_at": "2025-06-11T03:37:33.394141+00:00",
+  "updated_at": "2025-06-11T19:00:11.083376+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-11T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

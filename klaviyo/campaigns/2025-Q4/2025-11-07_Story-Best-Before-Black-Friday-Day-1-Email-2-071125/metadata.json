@@ -1,0 +1,19 @@
+{
+  "id": "01K9FCTDECZBXV8P85G5BWC9F4",
+  "name": "Story | Best Before Black Friday Day 1 Email 2 | 071125",
+  "status": "Sent",
+  "send_time": "2025-11-07T20:00:00+00:00",
+  "created_at": "2025-11-07T14:51:38.319051+00:00",
+  "updated_at": "2025-11-07T19:59:51.497633+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-07T20:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

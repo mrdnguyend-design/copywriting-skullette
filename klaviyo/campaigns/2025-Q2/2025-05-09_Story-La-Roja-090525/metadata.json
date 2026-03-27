@@ -1,0 +1,19 @@
+{
+  "id": "01JTS4HAYBWA1P4J7RQFQNK9MT",
+  "name": "Story | La Roja | 090525",
+  "status": "Sent",
+  "send_time": "2025-05-09T09:00:00+00:00",
+  "created_at": "2025-05-08T23:43:49.197233+00:00",
+  "updated_at": "2025-05-09T19:00:10.654060+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-09T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

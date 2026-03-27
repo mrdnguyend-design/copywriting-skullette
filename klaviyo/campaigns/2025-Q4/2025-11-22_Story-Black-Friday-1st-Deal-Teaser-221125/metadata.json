@@ -1,0 +1,19 @@
+{
+  "id": "01KAP1S58B0P4G5AHMZNEHXJQY",
+  "name": "Story | Black Friday 1st Deal Teaser | 221125",
+  "status": "Sent",
+  "send_time": "2025-11-22T09:00:00+00:00",
+  "created_at": "2025-11-22T15:09:05.678089+00:00",
+  "updated_at": "2025-11-22T19:01:06.327148+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-22T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

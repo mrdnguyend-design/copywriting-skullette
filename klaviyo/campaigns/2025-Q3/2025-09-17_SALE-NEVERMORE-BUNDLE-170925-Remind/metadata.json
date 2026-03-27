@@ -1,0 +1,19 @@
+{
+  "id": "01K5CAH3JF8D04267RVWYGQYVX",
+  "name": "SALE | NEVERMORE BUNDLE | 170925 | Remind",
+  "status": "Sent",
+  "send_time": "2025-09-17T19:00:00+00:00",
+  "created_at": "2025-09-17T17:11:05.554125+00:00",
+  "updated_at": "2025-09-17T19:00:11.917856+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-09-17T19:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

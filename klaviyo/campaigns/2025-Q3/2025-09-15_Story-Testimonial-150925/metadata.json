@@ -1,0 +1,19 @@
+{
+  "id": "01K56BJAAQM0VKFWDC9H1X1DCZ",
+  "name": "Story | Testimonial | 150925",
+  "status": "Sent",
+  "send_time": "2025-09-15T09:00:00+00:00",
+  "created_at": "2025-09-15T09:33:47.225765+00:00",
+  "updated_at": "2025-09-15T19:00:20.574154+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-09-15T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

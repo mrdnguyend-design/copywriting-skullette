@@ -1,0 +1,19 @@
+{
+  "id": "01JZB3S9AXHQ4M3Z6XYJ95MD5P",
+  "name": "Sale | July 4th Sale Reminder | 040725",
+  "status": "Sent",
+  "send_time": "2025-07-04T20:00:00+00:00",
+  "created_at": "2025-07-04T16:19:48.191637+00:00",
+  "updated_at": "2025-07-05T06:00:04.506222+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-07-04T20:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

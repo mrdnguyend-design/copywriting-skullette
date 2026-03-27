@@ -1,0 +1,8 @@
+[command]
+description = "Research and brainstorm daily email ideas from reviews, news, and cultural calendar for Skullette"
+
+[command.prompt]
+text = """
+Run the /idea-research workflow defined in .agent/workflows/idea-research.md
+Follow all steps exactly as documented.
+"""

@@ -1,0 +1,19 @@
+{
+  "id": "01KB2H30KFC4V7HRKS8A9ZSZK2",
+  "name": "SALE | Black Friday Madness Day 1 Email 1 | 271125",
+  "status": "Sent",
+  "send_time": "2025-11-27T14:00:00+00:00",
+  "created_at": "2025-11-27T11:27:30.418735+00:00",
+  "updated_at": "2025-11-27T14:01:02.519286+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-27T14:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

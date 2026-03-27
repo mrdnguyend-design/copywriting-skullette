@@ -1,0 +1,19 @@
+{
+  "id": "01JTZH1YR1ZEKW7GA5W7AH71F1",
+  "name": "Story | Mother's Day | 110525",
+  "status": "Sent",
+  "send_time": "2025-05-11T09:00:00+00:00",
+  "created_at": "2025-05-11T11:18:03.267433+00:00",
+  "updated_at": "2025-05-11T19:00:38.176397+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-11T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

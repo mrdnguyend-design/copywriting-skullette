@@ -1,0 +1,19 @@
+{
+  "id": "01K7764TS9ERVJGDR47JHP4R66",
+  "name": "Story | Christmas gifts | 101025",
+  "status": "Sent",
+  "send_time": "2025-10-10T09:00:00+00:00",
+  "created_at": "2025-10-10T13:49:40.524204+00:00",
+  "updated_at": "2025-10-10T19:00:28.139422+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-10T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01JY10WWMGNXJRY3P8YY8SG1DN",
+  "name": "Story | \"Frostmourne\" Leather Tote Bag | 180625",
+  "status": "Sent",
+  "send_time": "2025-06-18T09:00:00+00:00",
+  "created_at": "2025-06-18T08:01:14.385587+00:00",
+  "updated_at": "2025-06-18T19:00:10.430082+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-18T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

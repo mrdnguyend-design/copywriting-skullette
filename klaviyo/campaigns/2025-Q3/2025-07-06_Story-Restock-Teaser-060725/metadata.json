@@ -1,0 +1,19 @@
+{
+  "id": "01JZGAEFJHQWEEBMWXWGXERSWM",
+  "name": "Story | Restock Teaser | 060725",
+  "status": "Sent",
+  "send_time": "2025-07-06T09:00:00+00:00",
+  "created_at": "2025-07-06T16:52:26.324089+00:00",
+  "updated_at": "2025-07-06T19:00:13.414169+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-07-06T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

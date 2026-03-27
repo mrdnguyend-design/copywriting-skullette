@@ -1,0 +1,19 @@
+{
+  "id": "01KB06GSWCHRVAS4TAD3W78EB4",
+  "name": "Story | Black Friday Madness LAST TEASER | 261125",
+  "status": "Sent",
+  "send_time": "2025-11-26T09:00:00+00:00",
+  "created_at": "2025-11-26T13:44:19.087017+00:00",
+  "updated_at": "2025-11-26T19:01:04.141712+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-26T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

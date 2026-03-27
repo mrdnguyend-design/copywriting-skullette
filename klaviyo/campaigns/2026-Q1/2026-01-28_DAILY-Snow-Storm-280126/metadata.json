@@ -1,0 +1,19 @@
+{
+  "id": "01KG2NWQRV17SK4VJ6RR4Z6NW0",
+  "name": "DAILY | Snow Storm | 280126",
+  "status": "Sent",
+  "send_time": "2026-01-28T10:00:00+00:00",
+  "created_at": "2026-01-28T16:09:56.766596+00:00",
+  "updated_at": "2026-01-28T20:00:53.747427+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-28T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

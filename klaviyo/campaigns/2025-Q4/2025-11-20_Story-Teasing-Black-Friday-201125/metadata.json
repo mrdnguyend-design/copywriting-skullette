@@ -1,0 +1,19 @@
+{
+  "id": "01KAGCBA86TQT9GMD5CQ77H6VC",
+  "name": "Story | Teasing Black Friday | 201125",
+  "status": "Sent",
+  "send_time": "2025-11-20T09:00:00+00:00",
+  "created_at": "2025-11-20T10:18:19.787112+00:00",
+  "updated_at": "2025-11-20T19:01:10.734173+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-20T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

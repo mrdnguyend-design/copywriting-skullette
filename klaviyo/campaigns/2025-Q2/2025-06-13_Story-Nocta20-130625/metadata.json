@@ -1,0 +1,19 @@
+{
+  "id": "01JXM87SAFSRCTQ5C8K3D4DWXH",
+  "name": "Story | Nocta20 | 130625",
+  "status": "Sent",
+  "send_time": "2025-06-13T09:00:00+00:00",
+  "created_at": "2025-06-13T08:59:23.856831+00:00",
+  "updated_at": "2025-06-13T19:00:09.244429+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-13T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01KE1WMBN199MTKYZFQMT5RDQX",
+  "name": "Story | Skullette for MEN | 030126",
+  "status": "Sent",
+  "send_time": "2026-01-03T10:00:00+00:00",
+  "created_at": "2026-01-03T12:17:04.164976+00:00",
+  "updated_at": "2026-01-03T20:01:08.344094+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-03T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

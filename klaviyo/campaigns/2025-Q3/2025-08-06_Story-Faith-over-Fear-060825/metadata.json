@@ -1,0 +1,19 @@
+{
+  "id": "01K1ZQDQXF0F3TQWMW9JJDBX69",
+  "name": "Story | Faith over Fear? | 060825",
+  "status": "Sent",
+  "send_time": "2025-08-06T09:00:00+00:00",
+  "created_at": "2025-08-06T12:59:13.713212+00:00",
+  "updated_at": "2025-08-06T19:00:24.589179+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-08-06T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

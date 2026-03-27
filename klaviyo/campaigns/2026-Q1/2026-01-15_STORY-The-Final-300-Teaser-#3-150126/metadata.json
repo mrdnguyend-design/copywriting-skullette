@@ -1,0 +1,19 @@
+{
+  "id": "01KF15A4QK9WNP9Q7TCW24JPAF",
+  "name": "STORY | The Final 300 Teaser #3 | 150126",
+  "status": "Sent",
+  "send_time": "2026-01-15T10:00:00+00:00",
+  "created_at": "2026-01-15T15:45:13.973982+00:00",
+  "updated_at": "2026-01-15T20:00:59.451414+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-15T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

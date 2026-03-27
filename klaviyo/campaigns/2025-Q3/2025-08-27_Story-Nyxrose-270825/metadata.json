@@ -1,0 +1,19 @@
+{
+  "id": "01K3NV128T1NKVF1T9JRP4W999",
+  "name": "Story | Nyxrose | 270825",
+  "status": "Sent",
+  "send_time": "2025-08-27T09:00:00+00:00",
+  "created_at": "2025-08-27T13:21:11.965063+00:00",
+  "updated_at": "2025-08-27T19:00:02.453554+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-08-27T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,8 @@
+[command]
+description = "Write a daily infotainment email for Skullette in Julie's voice"
+
+[command.prompt]
+text = """
+Run the /write-email workflow defined in .agent/workflows/write-email.md
+Follow all phases exactly as documented.
+"""

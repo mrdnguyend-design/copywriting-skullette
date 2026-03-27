@@ -1,0 +1,19 @@
+{
+  "id": "01KBMPJBA540MZ65K5N2E5M4VZ",
+  "name": "STORY | SECRET SANTA TEASER 3 | 041225",
+  "status": "Sent",
+  "send_time": "2025-12-04T09:00:00+00:00",
+  "created_at": "2025-12-04T12:49:35.560762+00:00",
+  "updated_at": "2025-12-04T19:00:55.522733+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-04T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

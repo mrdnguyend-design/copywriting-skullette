@@ -1,0 +1,19 @@
+{
+  "id": "01K8JVJQ25G4X8G539JPGYNVKY",
+  "name": "Story | Online Scammer | 271025",
+  "status": "Sent",
+  "send_time": "2025-10-27T09:00:00+00:00",
+  "created_at": "2025-10-27T12:51:36.136913+00:00",
+  "updated_at": "2025-10-27T18:59:47.209409+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-27T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

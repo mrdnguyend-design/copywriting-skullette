@@ -1,0 +1,19 @@
+{
+  "id": "01JVM0SRQHQDAB3SVAPVQ3C9Q4",
+  "name": "Story | Roselace | 190525",
+  "status": "Sent",
+  "send_time": "2025-05-19T09:00:00+00:00",
+  "created_at": "2025-05-19T10:18:00.818826+00:00",
+  "updated_at": "2025-05-19T19:00:24.029316+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-19T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

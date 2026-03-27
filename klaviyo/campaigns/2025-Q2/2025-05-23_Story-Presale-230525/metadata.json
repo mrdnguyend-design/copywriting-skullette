@@ -1,0 +1,19 @@
+{
+  "id": "01JVZ1KSVNX91MKFBP3445W2FW",
+  "name": "Story | Presale | 230525",
+  "status": "Sent",
+  "send_time": "2025-05-23T09:00:00+00:00",
+  "created_at": "2025-05-23T17:03:52.694605+00:00",
+  "updated_at": "2025-05-23T19:01:01.423075+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-23T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

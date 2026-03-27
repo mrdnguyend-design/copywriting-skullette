@@ -1,0 +1,19 @@
+{
+  "id": "01KDJKQXHAW6PST7XYYE4ZDS7M",
+  "name": "Story | All over Pattern Design | 281225",
+  "status": "Sent",
+  "send_time": "2025-12-28T09:00:00+00:00",
+  "created_at": "2025-12-28T13:53:07.117643+00:00",
+  "updated_at": "2025-12-28T19:00:56.443308+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-28T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01K27R9KQF0S24YWPZ3AHXDA5T",
+  "name": "Story | Laugh or Apologize | 090825",
+  "status": "Sent",
+  "send_time": "2025-08-09T09:30:00+00:00",
+  "created_at": "2025-08-09T15:48:22.385691+00:00",
+  "updated_at": "2025-08-09T19:29:50.754356+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-08-09T09:30:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01KCS1HDW6HXCRB9JN52Z16268",
+  "name": "Story | 3-star Review | 181225",
+  "status": "Sent",
+  "send_time": "2025-12-18T16:06:00.820845+00:00",
+  "created_at": "2025-12-18T15:33:59.306010+00:00",
+  "updated_at": "2025-12-18T16:07:48.645805+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-18T16:06:00.820845+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

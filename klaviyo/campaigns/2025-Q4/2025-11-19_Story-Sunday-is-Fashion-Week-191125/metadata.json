@@ -1,0 +1,19 @@
+{
+  "id": "01KAEDPB1AY397EFA1RXP4NTYH",
+  "name": "Story | Sunday is Fashion Week | 191125",
+  "status": "Sent",
+  "send_time": "2025-11-19T09:00:00+00:00",
+  "created_at": "2025-11-19T16:03:20.749832+00:00",
+  "updated_at": "2025-11-19T19:01:05.384506+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-19T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

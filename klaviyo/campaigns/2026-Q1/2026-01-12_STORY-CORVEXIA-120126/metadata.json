@@ -1,0 +1,19 @@
+{
+  "id": "01KESNJ45YKN5ZCGYMTHP282JA",
+  "name": "STORY | CORVEXIA | 120126",
+  "status": "Sent",
+  "send_time": "2026-01-12T18:03:11.678515+00:00",
+  "created_at": "2026-01-12T17:55:17.313483+00:00",
+  "updated_at": "2026-01-12T18:04:57.458400+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-12T18:03:11.678515+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

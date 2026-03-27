@@ -1,0 +1,19 @@
+{
+  "id": "01JYN2TJFEWM0J4AVZ3XVBY2SX",
+  "name": "Story | La Catrina | 260625",
+  "status": "Sent",
+  "send_time": "2025-06-26T09:00:00+00:00",
+  "created_at": "2025-06-26T02:59:44.240162+00:00",
+  "updated_at": "2025-06-26T18:59:58.062244+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-06-26T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

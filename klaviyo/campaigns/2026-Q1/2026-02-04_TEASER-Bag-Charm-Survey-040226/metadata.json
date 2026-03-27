@@ -1,0 +1,19 @@
+{
+  "id": "01KGM680ZDC9704RRN1SSBZ2B9",
+  "name": "TEASER | Bag Charm Survey | 040226",
+  "status": "Sent",
+  "send_time": "2026-02-04T16:00:00+00:00",
+  "created_at": "2026-02-04T11:22:49.201068+00:00",
+  "updated_at": "2026-02-04T16:01:02.312275+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-04T16:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

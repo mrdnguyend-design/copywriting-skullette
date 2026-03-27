@@ -1,0 +1,19 @@
+{
+  "id": "01K3X788255C44WP7X2XZXD9QN",
+  "name": "Story | Scamming | 300825",
+  "status": "Sent",
+  "send_time": "2025-08-30T09:00:00+00:00",
+  "created_at": "2025-08-30T10:09:31.207768+00:00",
+  "updated_at": "2025-08-30T19:00:21.999546+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-08-30T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01K9SK5H6EH10VZZ6YHSFQ1WQR",
+  "name": "Story | Most Questions These Days | 111125",
+  "status": "Sent",
+  "send_time": "2025-11-11T09:00:00+00:00",
+  "created_at": "2025-11-11T13:54:58.385850+00:00",
+  "updated_at": "2025-11-11T19:00:12.909298+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-11T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

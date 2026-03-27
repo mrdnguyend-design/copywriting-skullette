@@ -1,0 +1,19 @@
+{
+  "id": "01JWG7WZ5VK1FX6RHJT6197732",
+  "name": "Story | Mour naire | 300525",
+  "status": "Sent",
+  "send_time": "2025-05-30T09:00:00+00:00",
+  "created_at": "2025-05-30T09:20:49.852458+00:00",
+  "updated_at": "2025-05-30T19:00:06.142115+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-30T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

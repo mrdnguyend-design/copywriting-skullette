@@ -1,0 +1,19 @@
+{
+  "id": "01KEPQV488EM778PXR0D9V1ETK",
+  "name": "STORY | DESERVE | 110126",
+  "status": "Sent",
+  "send_time": "2026-01-11T10:00:00+00:00",
+  "created_at": "2026-01-11T14:37:26.155946+00:00",
+  "updated_at": "2026-01-11T20:00:51.705568+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-11T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01KARF65HQ6XYDK8MKBCH29G58",
+  "name": "Story | Black Friday Madness Hunger Game | 231125",
+  "status": "Sent",
+  "send_time": "2025-11-23T09:00:00+00:00",
+  "created_at": "2025-11-23T13:41:52.314234+00:00",
+  "updated_at": "2025-11-23T19:01:11.601187+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-23T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01K2MXT3NK65STH696PYKG6RJW",
+  "name": "Story | For the Love of God | 140825",
+  "status": "Sent",
+  "send_time": "2025-08-14T09:00:00+00:00",
+  "created_at": "2025-08-14T18:34:53.493259+00:00",
+  "updated_at": "2025-08-14T19:00:35.552493+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-08-14T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

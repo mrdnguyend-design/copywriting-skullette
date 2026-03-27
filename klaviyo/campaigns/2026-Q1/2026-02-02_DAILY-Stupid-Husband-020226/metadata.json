@@ -1,0 +1,19 @@
+{
+  "id": "01KGEZM2ST6WF9XWB71WCREKSS",
+  "name": "DAILY | Stupid Husband | 020226",
+  "status": "Sent",
+  "send_time": "2026-02-02T10:00:00+00:00",
+  "created_at": "2026-02-02T10:50:52.093514+00:00",
+  "updated_at": "2026-02-02T20:00:55.265766+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-02T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

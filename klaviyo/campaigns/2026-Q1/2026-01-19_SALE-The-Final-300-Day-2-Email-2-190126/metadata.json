@@ -1,0 +1,19 @@
+{
+  "id": "01KFBJKSFAKBSG5Q5CHRNKDNVQ",
+  "name": "SALE | The Final 300 Day 2 Email 2 | 190126",
+  "status": "Sent",
+  "send_time": "2026-01-19T22:00:00+00:00",
+  "created_at": "2026-01-19T16:50:05.934275+00:00",
+  "updated_at": "2026-01-19T22:00:57.977958+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-19T22:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

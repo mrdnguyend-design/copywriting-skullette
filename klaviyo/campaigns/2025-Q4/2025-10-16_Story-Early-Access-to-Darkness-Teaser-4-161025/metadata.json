@@ -1,0 +1,19 @@
+{
+  "id": "01K7PS26S7YAP495A2H0J2V53H",
+  "name": "Story | Early Access to Darkness Teaser 4 | 161025",
+  "status": "Sent",
+  "send_time": "2025-10-16T09:00:00+00:00",
+  "created_at": "2025-10-16T15:08:53.930047+00:00",
+  "updated_at": "2025-10-16T18:59:50.379334+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-16T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01KH1AY30G7T6J1HF66NEYVAM0",
+  "name": "TEASER | Friday The 13th Sale Teaser #4 | 090226",
+  "status": "Sent",
+  "send_time": "2026-02-09T10:00:00+00:00",
+  "created_at": "2026-02-09T13:54:54.099979+00:00",
+  "updated_at": "2026-02-09T20:00:57.956247+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-02-09T10:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "01KFRC3A87P4NP20TR0MTPV26E",
+  "name": "SALE | The Weekend Specials Day 1 Email 2 | 240126",
+  "status": "Sent",
+  "send_time": "2026-01-24T20:00:00+00:00",
+  "created_at": "2026-01-24T16:06:22.219260+00:00",
+  "updated_at": "2026-01-24T20:00:47.618516+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2026-01-24T20:00:00+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

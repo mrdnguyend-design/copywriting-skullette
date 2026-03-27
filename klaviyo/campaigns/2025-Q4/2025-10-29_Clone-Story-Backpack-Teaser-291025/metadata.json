@@ -1,0 +1,19 @@
+{
+  "id": "01K8R12MAGEFHCVBSYQ3ANMV4Q",
+  "name": "Clone Story | Backpack Teaser | 291025",
+  "status": "Sent",
+  "send_time": "2025-10-29T09:00:00+00:00",
+  "created_at": "2025-10-29T13:03:52.659458+00:00",
+  "updated_at": "2025-10-29T18:59:54.831614+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-10-29T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

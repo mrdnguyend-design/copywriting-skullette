@@ -1,0 +1,19 @@
+{
+  "id": "01KAY2T9K9TQ0A22EC60E1CZKG",
+  "name": "Story | Black Friday Madness JOIN LIST REMINDER | 251125",
+  "status": "Sent",
+  "send_time": "2025-11-25T18:14:56.846483+00:00",
+  "created_at": "2025-11-25T18:01:06.925179+00:00",
+  "updated_at": "2025-11-25T18:16:37.016286+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-25T18:14:56.846483+00:00",
+      "is_local": false,
+      "send_past_recipients_immediately": null
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

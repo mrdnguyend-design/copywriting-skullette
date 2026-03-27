@@ -1,0 +1,19 @@
+{
+  "id": "01KBFQY92QWEWPBBFM2WDEG1BP",
+  "name": "STORY | SECRET SANTA TEASER 1 | 021225",
+  "status": "Sent",
+  "send_time": "2025-12-02T09:00:00+00:00",
+  "created_at": "2025-12-02T14:37:22.906498+00:00",
+  "updated_at": "2025-12-02T19:00:50.931538+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-12-02T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

@@ -1,0 +1,8 @@
+[command]
+description = "Process customer emails/reviews into organized voice library for Skullette content"
+
+[command.prompt]
+text = """
+Run the /process-customer-voices workflow defined in .agent/workflows/process-customer-voices.md
+Follow all steps exactly as documented.
+"""

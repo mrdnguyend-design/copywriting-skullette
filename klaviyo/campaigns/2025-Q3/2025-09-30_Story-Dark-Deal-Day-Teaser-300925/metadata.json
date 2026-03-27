@@ -1,0 +1,19 @@
+{
+  "id": "01K6DG5WV2P4YXSB1JGRW3TDKM",
+  "name": "Story | Dark Deal Day Teaser | 300925",
+  "status": "Sent",
+  "send_time": "2025-09-30T09:00:00+00:00",
+  "created_at": "2025-09-30T14:24:45.925806+00:00",
+  "updated_at": "2025-09-30T19:00:13.379459+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-09-30T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

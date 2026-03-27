@@ -1,0 +1,8 @@
+[command]
+description = "Critique a Skullette email/SMS draft as Ben Settle and Daniel Throssell"
+
+[command.prompt]
+text = """
+Run the /critique workflow defined in .agent/workflows/critique.md
+Follow all steps exactly as documented.
+"""

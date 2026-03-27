@@ -1,0 +1,19 @@
+{
+  "id": "01K97F0XR3JAAJNCX5SFY5Y04P",
+  "name": "Story | Best Before Black Friday Teaser 2 | 041125",
+  "status": "Sent",
+  "send_time": "2025-11-04T09:00:00+00:00",
+  "created_at": "2025-11-04T12:56:13.319507+00:00",
+  "updated_at": "2025-11-04T18:59:48.832542+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-11-04T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

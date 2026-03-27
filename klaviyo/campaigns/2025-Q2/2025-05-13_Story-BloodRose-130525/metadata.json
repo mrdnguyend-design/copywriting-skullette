@@ -1,0 +1,19 @@
+{
+  "id": "01JV511WM15751HF9X10VN9SZ1",
+  "name": "Story | BloodRose | 130525",
+  "status": "Sent",
+  "send_time": "2025-05-13T09:00:00+00:00",
+  "created_at": "2025-05-13T14:33:50.467313+00:00",
+  "updated_at": "2025-05-13T19:00:11.945292+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-13T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}

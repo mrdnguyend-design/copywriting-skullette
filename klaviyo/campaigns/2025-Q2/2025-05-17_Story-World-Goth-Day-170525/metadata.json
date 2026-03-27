@@ -1,0 +1,19 @@
+{
+  "id": "01JVFBJZ9HYSQTC3K2D4JQQQYG",
+  "name": "Story | World Goth Day | 170525",
+  "status": "Sent",
+  "send_time": "2025-05-17T09:00:00+00:00",
+  "created_at": "2025-05-17T14:50:20.338551+00:00",
+  "updated_at": "2025-05-17T18:59:53.727185+00:00",
+  "archived": false,
+  "send_strategy": {
+    "method": "static",
+    "options_static": {
+      "datetime": "2025-05-17T09:00:00+00:00",
+      "is_local": true,
+      "send_past_recipients_immediately": true
+    },
+    "options_throttled": null,
+    "options_sto": null
+  }
+}
