@@ -42,3 +42,11 @@ After running, you'll find:
 - `klaviyo/campaigns/` — Individual campaign folders with `email.html`, `metadata.json`, `metrics.json`
 - `klaviyo/summary.md` — Readable overview with performance rankings
 - `klaviyo/sync_log.json` — Sync history for incremental updates
+
+---
+
+## Platform Notes
+
+- **Claude Code (Duc):** Run via `/command` directly in terminal. Full automation.
+- **Cowork (team):** Copy workflow steps into conversation. Paste draft into Google Doc for review/comment.
+- **Antigravity (team):** Assign as agent task with workspace path `D:\Skullette - Copywriting`.

@@ -1,0 +1,1 @@
+Read the workflow file at `.agent/workflows/weekly-planning.md` and execute it fully. Read the current month's strategy from `planning/monthly/` before starting. Follow every step in the workflow from start to finish.

@@ -15,5 +15,7 @@
     },
     "options_throttled": null,
     "options_sto": null
-  }
+  },
+  "subject": "Is this bag too bold for you, {{ first_name }}?",
+  "preview_text": ""
 }

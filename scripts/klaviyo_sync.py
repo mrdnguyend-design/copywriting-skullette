@@ -8,9 +8,11 @@ Usage:
     python scripts/klaviyo_sync.py              # Full sync (all campaigns)
     python scripts/klaviyo_sync.py --since 2025-01-01   # Only campaigns after date
     python scripts/klaviyo_sync.py --incremental        # Only new since last sync
+    python scripts/klaviyo_sync.py --enrich             # Enrich metadata with subject lines
+    python scripts/klaviyo_sync.py --extract-content    # Extract campaigns to .md files
 
 Requires:
-    pip install requests python-dotenv
+    pip install requests python-dotenv beautifulsoup4
     .env file with KLAVIYO_API_KEY=pk_xxxxx
 """
 
@@ -41,8 +43,10 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 OUTPUT_DIR = PROJECT_ROOT / "klaviyo"
 CAMPAIGNS_DIR = OUTPUT_DIR / "campaigns"
+CONTENT_DIR = OUTPUT_DIR / "content"
 SYNC_LOG_FILE = OUTPUT_DIR / "sync_log.json"
 SUMMARY_FILE = OUTPUT_DIR / "summary.md"
+ANALYSIS_FILE = OUTPUT_DIR / "content-analysis.json"
 
 BASE_URL = "https://a.klaviyo.com/api"
 API_REVISION = "2024-10-15"
@@ -404,6 +408,434 @@ def save_sync_log(campaign_count: int, since_date: str = None):
         json.dump(log, f, indent=2)
 
 
+# ─── Enrich & Extract ───────────────────────────────────────────────────────
+
+def enrich_metadata(limit: int = None):
+    """Enrich existing metadata.json files with subject lines and preview text."""
+    print("\n[*] Enriching metadata with subject lines...")
+
+    quarter_dirs = sorted(CAMPAIGNS_DIR.iterdir())
+    count = 0
+    enriched = 0
+
+    for qdir in quarter_dirs:
+        if not qdir.is_dir():
+            continue
+        for campaign_dir in sorted(qdir.iterdir()):
+            if not campaign_dir.is_dir():
+                continue
+            meta_file = campaign_dir / "metadata.json"
+            if not meta_file.exists():
+                continue
+
+            with open(meta_file, "r", encoding="utf-8") as f:
+                meta = json.load(f)
+
+            # Skip if already enriched
+            if meta.get("subject") is not None:
+                count += 1
+                continue
+
+            campaign_id = meta.get("id", "")
+            if not campaign_id:
+                count += 1
+                continue
+
+            # Fetch campaign messages to get subject/preview
+            try:
+                resp = api_get(f"campaigns/{campaign_id}/campaign-messages")
+                messages = resp.get("data", [])
+                if messages:
+                    msg_id = messages[0].get("id", "")
+                    if msg_id:
+                        msg_resp = api_get(f"campaign-messages/{msg_id}")
+                        msg_attrs = msg_resp.get("data", {}).get("attributes", {}).get("content", {})
+                        meta["subject"] = msg_attrs.get("subject", "")
+                        meta["preview_text"] = msg_attrs.get("preview_text", "")
+
+                        with open(meta_file, "w", encoding="utf-8") as f:
+                            json.dump(meta, f, indent=2, ensure_ascii=False)
+                        enriched += 1
+                        print(f"  [{enriched}] {meta.get('name', '?')}: \"{meta['subject'][:60]}\"")
+                time.sleep(0.4)  # Rate limiting
+            except Exception as e:
+                print(f"  [!] Error enriching {meta.get('name', '?')}: {e}")
+
+            count += 1
+            if limit and enriched >= limit:
+                print(f"  Reached limit of {limit}")
+                break
+        if limit and enriched >= limit:
+            break
+
+    print(f"\n  [OK] Enriched {enriched} campaigns (of {count} total)")
+
+
+# ─── Content Classification ─────────────────────────────────────────────────
+
+# Phase detection keywords
+PHASE_KEYWORDS = {
+    "teaser": ["teaser", "coming soon", "register", "tease", "get ready", "announcement"],
+    "sale": ["sale", "clearance", "% off", "day 1", "day 2", "day 3", "flash",
+             "final 300", "weekend specials", "live now", "last call", "gamified"],
+    "post": ["thank", "recap", "wrap-up", "results"],
+}
+
+# Story source detection — keywords in subject + body
+STORY_SOURCE_KEYWORDS = {
+    "Gothic Mundane": ["morning", "coffee", "kroger", "walmart", "grocery", "uber",
+                       "kitchen", "routine", "midnight", "3 am", "everyday",
+                       "parking lot", "checkout line"],
+    "Witch Victory": ["review", "customer", "testimonial", "she said", "her words",
+                      "5-star", "five star", "trust pilot", "ordered", "unboxing"],
+    "Basic Brenda Encounter": ["brenda", "basic", "beige", "boring", "normie",
+                               "coach bag", "michael kors", "they said", "concerned aunt"],
+    "Product Origin": ["designed", "leather", "handmade", "crafted", "new collection",
+                       "jade", "designer", "workshop", "buckle", "hardware", "material"],
+    "Cultural Darkness": ["halloween", "friday the 13th", "full moon", "mercury retrograde",
+                          "solstice", "samhain", "día de los muertos", "goth", "dark romance",
+                          "witchy", "pagan", "equinox", "bat", "skull"],
+    "Julie Personal": ["my daughter", "my husband", "my mom", "family", "growing up",
+                       "when i was", "confession", "personal", "i remember",
+                       "childhood", "my life"],
+    "Industry Commentary": ["fast fashion", "shein", "amazon", "industry", "sustainability",
+                            "mass-produced", "disposable", "trend", "fashion week"],
+}
+
+# Hook type detection — first 5 lines of body
+HOOK_KEYWORDS = {
+    "quote_open": ['"', "'", "she said", "her exact words", "i quote"],
+    "question": ["?"],
+    "scene_setting": ["am", "pm", "o'clock", "morning", "night", "sitting", "standing",
+                      "walking", "looking", "scrolling"],
+    "direct_offer": ["% off", "sale", "deal", "save", "discount", "free shipping"],
+    "mystery_statement": ["here's the thing", "confession", "i wasn't going to",
+                          "don't tell", "secret"],
+    "urgency": ["last chance", "ending", "final", "only", "hours left", "midnight"],
+}
+
+# Character detection
+CHARACTER_KEYWORDS = {
+    "Julie": ["julie", "i ", "my ", "love,"],  # Julie is always present as narrator
+    "Alice": ["alice"],
+    "Jade": ["jade"],
+    "Basic Brenda": ["brenda", "basic brenda"],
+    "The Witch": ["the witch", "witches", "coven"],
+}
+
+# Campaign series detection
+SERIES_KEYWORDS = {
+    "Skull-a-palooza": ["skull-a-palooza", "skullapalooza", "palooza"],
+    "Small Bag Clearance": ["small bag clearance"],
+    "Weekend Specials": ["weekend specials", "weekend special"],
+    "Friday 13th": ["friday the 13th", "friday 13"],
+    "Mothers Day": ["mother's day", "mothers day", "mom"],
+    "Final 300": ["final 300"],
+}
+
+EMAIL_PILLAR_MAP = {
+    "Gothic Mundane": ("1", "Gothic Infotainment"),
+    "Witch Victory": ("3", "Coven Chronicles"),
+    "Basic Brenda Encounter": ("4", "Darkness vs Beige"),
+    "Product Origin": ("2", "Witch's Arsenal"),
+    "Cultural Darkness": ("1", "Gothic Infotainment"),
+    "Julie Personal": ("1", "Gothic Infotainment"),
+    "Industry Commentary": ("4", "Darkness vs Beige"),
+}
+
+
+def html_to_text(html_content: str) -> tuple[str, list[str]]:
+    """Convert HTML email to plain text, preserving paragraph structure. Returns (text, links)."""
+    from bs4 import BeautifulSoup, NavigableString
+
+    # Pre-clean: remove Klaviyo template tags
+    cleaned = re.sub(r'\{%.*?%\}', '', html_content, flags=re.DOTALL)
+    cleaned = re.sub(r'\{\{.*?\}\}', '', cleaned)
+
+    soup = BeautifulSoup(cleaned, "html.parser")
+
+    # Remove non-content tags
+    for tag in soup(["style", "script", "head", "meta", "title", "noscript"]):
+        tag.decompose()
+
+    # Extract links before converting
+    links = []
+    for a_tag in soup.find_all("a", href=True):
+        href = a_tag["href"]
+        text = a_tag.get_text(strip=True)
+        if href and not href.startswith("#") and not href.startswith("mailto:"):
+            if text and len(text) > 2 and text.lower() not in ("unsubscribe", "view in browser"):
+                links.append(f"[{text}]({href})")
+
+    # Find the main content area — look for kl-text divs (Klaviyo content blocks)
+    content_divs = soup.find_all(class_=re.compile(r'kl-text'))
+
+    if content_divs:
+        # Use only kl-text content blocks (the actual email body)
+        paragraphs = []
+        for div in content_divs:
+            for element in div.find_all(["p", "h1", "h2", "h3", "li"]):
+                text = element.get_text(strip=True)
+                if text and len(text) > 1:
+                    paragraphs.append(text)
+    else:
+        # Fallback: extract from all p/div tags but skip navigation/footer
+        paragraphs = []
+        for element in soup.find_all(["p", "h1", "h2", "h3"]):
+            text = element.get_text(strip=True)
+            if text and len(text) > 1:
+                paragraphs.append(text)
+
+    # Deduplicate — remove exact duplicates while preserving order
+    seen = set()
+    deduped = []
+    for p in paragraphs:
+        if p not in seen:
+            seen.add(p)
+            deduped.append(p)
+
+    # Remove footer/menu content (anything after sign-off patterns)
+    body_parts = []
+    for p in deduped:
+        # Stop at footer markers
+        p_lower = p.lower()
+        if any(marker in p_lower for marker in [
+            "post-email menu", "no longer want to receive",
+            "need help?", "❓ need help", "unsubscribe",
+            "organization.name", "leather handbags-",
+        ]):
+            break
+        body_parts.append(p)
+
+    body_text = "\n\n".join(body_parts)
+
+    # Clean up artifacts
+    body_text = re.sub(r'\n{3,}', '\n\n', body_text)
+    body_text = body_text.strip()
+
+    # Deduplicate links
+    seen_links = set()
+    unique_links = []
+    for link in links:
+        if link not in seen_links:
+            seen_links.add(link)
+            unique_links.append(link)
+
+    return body_text, unique_links
+
+
+def classify_phase(name: str, body_lower: str) -> str:
+    """Classify campaign phase from name and body text."""
+    name_lower = name.lower()
+    # Check name first (more reliable)
+    for phase, keywords in PHASE_KEYWORDS.items():
+        for kw in keywords:
+            if kw in name_lower:
+                return phase
+    # Check body text
+    for phase, keywords in PHASE_KEYWORDS.items():
+        for kw in keywords:
+            if kw in body_lower[:500]:  # First 500 chars
+                return phase
+    return "daily"
+
+
+def classify_story_source(name: str, subject: str, body_lower: str) -> str:
+    """Classify story source from campaign text."""
+    combined = f"{name.lower()} {subject.lower()} {body_lower[:2000]}"
+    scores = {}
+    for source, keywords in STORY_SOURCE_KEYWORDS.items():
+        score = sum(1 for kw in keywords if kw in combined)
+        if score > 0:
+            scores[source] = score
+    if scores:
+        return max(scores, key=scores.get)
+    return "Gothic Mundane"  # Default
+
+
+def classify_hook_type(body_text: str) -> str:
+    """Classify hook type from first 5 lines of body."""
+    first_lines = "\n".join(body_text.split("\n")[:5]).lower()
+    scores = {}
+    for hook_type, keywords in HOOK_KEYWORDS.items():
+        score = sum(1 for kw in keywords if kw in first_lines)
+        if score > 0:
+            scores[hook_type] = score
+    if scores:
+        return max(scores, key=scores.get)
+    return "scene_setting"  # Default
+
+
+def detect_characters(body_lower: str) -> list[str]:
+    """Detect which characters appear in the email body."""
+    found = []
+    for char, keywords in CHARACTER_KEYWORDS.items():
+        if char == "Julie":
+            found.append("Julie")  # Julie is always narrator
+            continue
+        for kw in keywords:
+            if kw in body_lower:
+                found.append(char)
+                break
+    return found
+
+
+def detect_series(name: str, body_lower: str) -> str:
+    """Detect which campaign series this belongs to."""
+    combined = f"{name.lower()} {body_lower[:500]}"
+    for series, keywords in SERIES_KEYWORDS.items():
+        for kw in keywords:
+            if kw in combined:
+                return series
+    return ""
+
+
+def extract_content(limit: int = None):
+    """Extract all campaigns to .md files with classification."""
+    print("\n[*] Extracting campaign content to .md files...")
+
+    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+    all_campaigns = []
+    count = 0
+    errors = 0
+
+    quarter_dirs = sorted(CAMPAIGNS_DIR.iterdir())
+
+    for qdir in quarter_dirs:
+        if not qdir.is_dir():
+            continue
+        for campaign_dir in sorted(qdir.iterdir()):
+            if not campaign_dir.is_dir():
+                continue
+
+            meta_file = campaign_dir / "metadata.json"
+            html_file = campaign_dir / "email.html"
+            metrics_file = campaign_dir / "metrics.json"
+
+            if not meta_file.exists():
+                continue
+
+            with open(meta_file, "r", encoding="utf-8") as f:
+                meta = json.load(f)
+
+            # Load metrics
+            metrics = {}
+            if metrics_file.exists():
+                with open(metrics_file, "r", encoding="utf-8") as f:
+                    metrics = json.load(f)
+
+            # Extract HTML to text
+            body_text = ""
+            links = []
+            if html_file.exists():
+                with open(html_file, "r", encoding="utf-8") as f:
+                    html_content = f.read()
+                try:
+                    body_text, links = html_to_text(html_content)
+                except Exception as e:
+                    print(f"  [!] HTML parse error for {meta.get('name', '?')}: {e}")
+                    errors += 1
+
+            body_lower = body_text.lower()
+            name = meta.get("name", "Untitled")
+            subject = meta.get("subject", "")
+            preview = meta.get("preview_text", "")
+            send_time = meta.get("send_time", "")
+            date_str = send_time[:10] if send_time else "no-date"
+
+            # Classify
+            phase = classify_phase(name, body_lower)
+            story_source = classify_story_source(name, subject, body_lower)
+            hook_type = classify_hook_type(body_text)
+            characters = detect_characters(body_lower)
+            series = detect_series(name, body_lower)
+            pillar_num, pillar_name = EMAIL_PILLAR_MAP.get(story_source, ("1", "Gothic Infotainment"))
+
+            # Build classification record
+            record = {
+                "id": meta.get("id", ""),
+                "name": name,
+                "date": date_str,
+                "send_time": send_time,
+                "subject": subject,
+                "preview_text": preview,
+                "phase": phase,
+                "series": series,
+                "story_source": story_source,
+                "pillar": pillar_num,
+                "pillar_name": pillar_name,
+                "hook_type": hook_type,
+                "characters": characters,
+                "metrics": {
+                    "recipients": metrics.get("recipients", 0),
+                    "opens": metrics.get("opens", 0),
+                    "open_rate": metrics.get("open_rate", 0),
+                    "clicks": metrics.get("clicks", 0),
+                    "click_rate": metrics.get("click_rate", 0),
+                    "bounce_rate": metrics.get("bounce_rate", 0),
+                },
+                "channel": "email",
+                "word_count": len(body_text.split()) if body_text else 0,
+            }
+
+            # Generate .md file
+            safe_name = sanitize_filename(name)
+            md_filename = f"{date_str}_{safe_name}.md"
+            md_path = CONTENT_DIR / md_filename
+
+            open_rate_str = f"{record['metrics']['open_rate']:.1%}" if record['metrics']['open_rate'] else "N/A"
+            click_rate_str = f"{record['metrics']['click_rate']:.1%}" if record['metrics']['click_rate'] else "N/A"
+            recipients_str = f"{int(record['metrics']['recipients']):,}" if record['metrics']['recipients'] else "N/A"
+
+            series_str = f" | **Series:** {series}" if series else ""
+            chars_str = ", ".join(characters) if characters else "Julie"
+
+            md_content = f"""# {name}
+- **Date:** {date_str}
+- **Phase:** {phase}{series_str}
+- **Pillar:** {pillar_num} ({pillar_name}) | **Story Source:** {story_source}
+- **Characters:** {chars_str}
+- **Hook Type:** {hook_type}
+- **Open Rate:** {open_rate_str} | **Click Rate:** {click_rate_str} | **Recipients:** {recipients_str}
+
+## Subject Line
+{subject if subject else "(not enriched — run --enrich first)"}
+
+## Preview Text
+{preview if preview else "(not enriched — run --enrich first)"}
+
+## Body
+{body_text if body_text else "(no HTML content available)"}
+
+## Links
+{chr(10).join("- " + l for l in links) if links else "(none)"}
+"""
+
+            with open(md_path, "w", encoding="utf-8") as f:
+                f.write(md_content)
+
+            all_campaigns.append(record)
+            count += 1
+
+            if count % 25 == 0:
+                print(f"  Extracted {count} campaigns...")
+
+            if limit and count >= limit:
+                print(f"  Reached limit of {limit}")
+                break
+        if limit and count >= limit:
+            break
+
+    # Save analysis JSON
+    with open(ANALYSIS_FILE, "w", encoding="utf-8") as f:
+        json.dump(all_campaigns, f, indent=2, ensure_ascii=False)
+
+    print(f"\n  [OK] Extracted {count} campaigns to {CONTENT_DIR}")
+    print(f"  [OK] Analysis data saved to {ANALYSIS_FILE}")
+    if errors:
+        print(f"  [!] {errors} HTML parse errors")
+
+
 # ─── Main ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -412,6 +844,8 @@ def main():
     parser.add_argument("--incremental", action="store_true", help="Only fetch campaigns since last sync")
     parser.add_argument("--skip-metrics", action="store_true", help="Skip fetching performance metrics")
     parser.add_argument("--limit", type=int, help="Max number of campaigns to process")
+    parser.add_argument("--enrich", action="store_true", help="Enrich metadata with subject lines and preview text")
+    parser.add_argument("--extract-content", action="store_true", help="Extract campaigns to .md files with classification")
     args = parser.parse_args()
     
     # Validate API key
@@ -420,11 +854,21 @@ def main():
         print("   Create a .env file in the project root with:")
         print("   KLAVIYO_API_KEY=pk_your_private_api_key_here")
         sys.exit(1)
-    
+
     print("=" * 60)
     print("  Klaviyo -> Skullette Workspace Sync")
     print("=" * 60)
-    
+
+    # Handle --enrich mode
+    if args.enrich:
+        enrich_metadata(limit=args.limit)
+        return
+
+    # Handle --extract-content mode
+    if args.extract_content:
+        extract_content(limit=args.limit)
+        return
+
     # Determine since_date
     since_date = args.since
     if args.incremental and SYNC_LOG_FILE.exists():

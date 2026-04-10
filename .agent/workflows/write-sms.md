@@ -1,113 +1,170 @@
 ---
-description: Write SMS campaign messages for Skullette (sale updates, promos, engagement)
+description: Write SMS campaign messages for Skullette — pillar-based, 3 audience tiers
 ---
 
-# /write-sms — SMS Campaign
+# /write-sms — SMS Campaign Writer
 
-> **Mục tiêu:** Viết SMS cho Skullette campaigns — sale updates, promos, engagement
-> **Đặc thù:** SMS có format khác email (ngắn hơn, urgent hơn, personality-dense)
-
----
-
-## Bước 1: Nhận Brief
-
-Hỏi user:
-- **Campaign context:** Event gì? (Friday 13th, BOGO, flash sale, new launch, engagement)
-- **Audience tier:** Segment nào?
-  - 🔴 **Registered participants** — Insider tier. Longer messages OK. Full chaos mode.
-  - 🟡 **High-engaged customers** — Warm audience. Medium length. Exciting but focused.
-  - 🟢 **Mass subscribers** — Ngắn nhất. Clear offer. Minimal context needed.
-- **Number of messages:** Bao nhiêu SMS trong sequence này?
-- **Offer details:** Discount, products, links, deadlines
-- **Tone:** Chaos/live-event vs. casual update vs. urgent last-chance
-- **Timing:** Timestamps cho mỗi message (nếu live-event style)
+> **Pillar-based approach.** 4 SMS Pillars × 3 Tiers = clear combination logic.
+> Reference: `knowledge/core/content-taxonomy.md` Part 2B
 
 ---
 
-## Bước 2: Load Knowledge
+## Step 1: BRIEF
+
+Ask:
+- **Campaign context:** What event/sale/moment? Is there an email going out same day?
+- **SMS Pillar:** Which pillar fits this send? (See taxonomy Part 2B)
+  - Pillar 1: Live Chaos (active sale, price shuffles)
+  - Pillar 2: Insider Access (pre-launch, exclusive info)
+  - Pillar 3: Witch Check-in (non-sale, relationship)
+  - Pillar 4: Dark Offer (direct deal, flash)
+- **Tiers to write for:** REG / HIGH / MASS (which tiers today?)
+- **Offer details:** Discount, product, link, deadline, specific numbers
+- **Timing:** Send time? Live-event timestamps needed?
+
+---
+
+## Step 2: LOAD KNOWLEDGE
 
 // turbo
-1. Read `knowledge/brand/examples/SMS - Friday 13th Sale - Registered Customers.md`
-// turbo
-2. Read `knowledge/brand/THE SKULLETTE UNIVERSE CAST.txt` — Team characters (Alice, Jade)
+Read: `knowledge/brand/examples/SMS - Friday 13th Sale - Registered Customers.md`
+Read: `knowledge/brand/THE SKULLETTE UNIVERSE CAST.txt` — team characters
+Read: `learnings/style-rules.md` — SMS checklist at bottom
+Read: `knowledge/core/sms-templates.md` — 10 rotating SMS angles (if file exists)
+
+Check `knowledge/core/story-bank.md` — any SMS-relevant ideas?
+
+If email was written today: cross-reference tone and offer details.
 
 ---
 
-## Bước 3: Draft Messages Per Tier
+## Step 3: DRAFT BY TIER + PILLAR
 
-### 🔴 Registered Participants (Insider Tier)
-- **Length:** 150-300 words per message
-- **Tone:** Julie texting her inner circle. CAPSLOCK chaos. (Parenthetical asides).
-- **Must include:**
-  - Real-time updates with timestamps ("10:13 AM UPDATE")
-  - Team character moments ("ALICE just screamed across the building")
-  - Specific customer wins ("Some WITCH in Texas scored a $9.95 Roselace in 6 MINUTES")
-  - Gothic humor throughout ("Russian roulette but make it GOTH")
-  - Countdown to next event (price shuffle, new drop)
-  - Exact numbers ("284 bags left," not "limited stock")
-- **Sign-off:** Short + personality ("Julie (eating popcorn watching this chaos unfold)")
-- **CTA:** Link embedded in context ("Hunt here before someone else does → [LINK]")
+### Pillar 1: Live Chaos
+**REG (150-300 words)**
+- Timestamp every message: "2:13 PM UPDATE"
+- Real-time stats: specific numbers ("16 bags gone in 8 minutes")
+- Team chaos: Alice screaming, Jade commentary
+- Gothic metaphors for sale mechanics
+- Multiple CTAs, countdown to next shuffle
+- Sign-off: "Julie (eating popcorn watching this unfold)"
 
-### 🟡 High-Engaged Customers
-- **Length:** 80-150 words
-- **Tone:** Excited but focused. "Here's what you need to know" energy.
-- **Must include:**
-  - Key offer details up front (first 2 lines)
-  - 1-2 personality touches (not full chaos mode)
-  - Clear CTA link
-  - Scarcity/urgency element (specific number or deadline)
-- **Sign-off:** "Julie" + one-liner
-- **CTA:** Direct with link
+**HIGH (80-150 words)**
+- Key update up front (first 2 lines)
+- 1 team character reaction
+- Specific scarcity number
+- One clear CTA link
 
-### 🟢 Mass Subscribers
-- **Length:** 40-80 words
-- **Tone:** Direct, clear, benefit-first
-- **Must include:**
-  - Offer in the FIRST LINE
-  - One hook or curiosity element
-  - CTA link immediately after
-  - Just enough personality to not sound corporate
-- **Sign-off:** "Julie" or "— Skullette"
-- **CTA:** Single clear link
+**MASS (40-80 words)**
+- Deal in line 1
+- One urgency signal (time or quantity)
+- CTA link
+- 1 personality touch
 
 ---
 
-## Bước 4: Live-Event Elements (nếu applicable)
+### Pillar 2: Insider Access
+**REG (100-200 words)**
+- "You're in the coven" energy — exclusive info, early access
+- Conspiratorial tone: "We're not supposed to say this yet..."
+- Specific advantage: "You get first pick before we announce tomorrow"
+- CTA to private link
 
-For live sale campaigns (Friday 13th style):
-- **Timestamp** mỗi message ("10:13 AM UPDATE," "2:45 PM — ROUND 3")
-- **Real-time stats** ("SIXTEEN BAGS ARE GONE," "284 left")
-- **Narrative escalation** across messages (calm → excited → chaos → "I've lost control")
-- **Team reactions** as proof of excitement (Alice screaming, Jade's commentary)
-- **Tease next round** — "Prices shuffle again at 1:13 PM. Set your witch alarms."
-- **Gothic metaphors** for sale mechanics ("death ring," "danger zone," "extinction")
+**HIGH (60-100 words)**
+- Early access angle
+- What they get that others don't
+- CTA link
 
----
-
-## Bước 5: Checklist
-
-- [ ] Does each message have a clear CTA link?
-- [ ] Is the offer/update obvious within the first 2 lines?
-- [ ] Does it sound like Julie (not a corporate SMS)?
-- [ ] Is the length appropriate for the audience tier?
-- [ ] For live-event: does each message escalate energy?
-- [ ] Is there a reason to check back? (next shuffle time, new drop tease)
-- [ ] Are numbers specific? ("16 bags gone" not "selling fast")
-- [ ] Are team characters in-character? (Alice = energetic, Jade = designer focus)
+**MASS — Pillar 2 not recommended for MASS. Use Pillar 4 instead.**
 
 ---
 
-## Bước 6: Present All Messages
+### Pillar 3: Witch Check-in
+**HIGH only (40-80 words)**
+- Casual, personal, relationship-first
+- No hard sell — product mention optional, not required
+- Dark humor, Julie's daily life
+- Soft CTA: "checking in" not "buy now"
 
-Show all SMS messages in sequence.
-- Label each with: **audience tier + timestamp** (if applicable)
-- Group by tier if writing for multiple segments
-
-**DỪNG — Chờ user review.**
+**REG (50-100 words)**
+- Slightly more personal than HIGH
+- Inside reference to previous campaign or shared moment
 
 ---
 
-## Bước 7: Revise & Finalize
+### Pillar 4: Dark Offer
+**MASS (30-60 words)**
+- Offer in LINE 1 — no exceptions
+- One hook or curiosity line
+- CTA link immediately
+- Minimal context
+- Just enough Julie to not sound automated
 
-Apply user feedback and present revised versions.
-Save final SMS set to `knowledge/brand/examples/SMS - [Campaign Name].md` for future reference.
+**HIGH (50-80 words)**
+- Same as MASS but add 1 personality line
+
+**REG — Use Pillar 1 or 2 for REG when possible. Pillar 4 for REG = last resort.**
+
+---
+
+## Step 4: CROSS-REFERENCE WITH EMAIL
+
+If email is going out same day:
+- SMS should NOT repeat email story
+- SMS = separate angle or live update, not summary of email
+- Different hook, different tone, complementary (not duplicate)
+
+---
+
+## Step 5: VARIETY CHECK
+
+Before finalizing, check last 3 SMS sends (from `knowledge/brand/examples/` or archive):
+- Same pillar two days in a row? → Adjust
+- Same tier always gets same format? → Vary structure
+- Any tier getting too many sends this week?
+
+---
+
+## Step 6: CHECKLIST
+
+- [ ] Offer/update in first 2 lines for all tiers
+- [ ] Correct length for each tier
+- [ ] Specific numbers (not "limited stock" / "selling fast")
+- [ ] CTA link present in every message
+- [ ] Sounds like Julie (not a text alert)
+- [ ] Timestamps present for live-event messages
+- [ ] No "VIP" / "EXCLUSIVE" language
+- [ ] CAPSLOCK used sparingly (2-3 max per message)
+- [ ] Not duplicating today's email story
+
+---
+
+## Step 7: OUTPUT
+
+Present all messages grouped by tier:
+
+```
+📱 SMS CAMPAIGN — [Campaign/Event Name] — [Date]
+Pillar: [#] — [Pillar Name]
+
+--- REG TIER ---
+[full SMS text]
+
+--- HIGH TIER ---
+[full SMS text]
+
+--- MASS TIER ---
+[full SMS text]
+```
+
+⛔ **STOP — Wait for user review.**
+
+After approval: run `/review-craft` for SMS, then `/finalize-sms`.
+
+---
+
+## Platform Notes
+
+- **Claude Code (Duc):** Run via `/command` directly in terminal. Full automation.
+- **Cowork (team):** Copy workflow steps into conversation. Paste draft into Google Doc for review/comment.
+- **Antigravity (team):** Assign as agent task with workspace path `D:\Skullette - Copywriting`.

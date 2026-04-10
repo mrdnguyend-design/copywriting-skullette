@@ -9,6 +9,21 @@ description: Research and brainstorm daily email ideas from reviews, news, and c
 
 ---
 
+## Bước 0: AUDIT STORY BANK
+
+Before harvesting new ideas, check what's missing.
+
+Read `knowledge/core/story-bank.md` — Story Source Coverage table.
+
+**Identify gaps:**
+- Which Story Sources have 0 READY items?
+- Which haven't been used in 5+ days?
+- Which Email Pillars are underrepresented?
+
+→ **Target the gaps** in this session's research.
+
+---
+
 ## Bước 1: Scan Customer Voices (Stored Stories)
 
 // turbo
@@ -210,26 +225,49 @@ Cho mỗi ý tưởng, read `knowledge/frameworks/infotainment-jackpot/INFOTAINM
 
 ## Bước 5: Output Format
 
-Trình bày 3-5 ý tưởng:
+Trình bày 3-5 ý tưởng (ưu tiên Story Sources có gap):
 
 ```
 ## IDEA [#]: [Tên ngắn]
-- **Source:** [Customer Voice / Review / News / History / Cultural Calendar]
+- **Source:** [Customer Voice / Review / News / Cultural Calendar / etc.]
+- **Story Source:** [Gothic Mundane / Witch Victory / Basic Brenda Encounter / Product Origin / Cultural Darkness / Julie Personal / Industry Commentary]
+- **Email Pillar:** [1 / 2 / 3 / 4]
 - **Hot Dog:** [Hook story 1-2 câu — vivid, specific]
 - **Broccoli:** [Product/feature to sell]
 - **Law:** [Từ Playbook — e.g., Law #1 Personality + #15 Intimate Details]
-- **Mechanism:** [Từ Glossary — e.g., Seinfeld Email]
+- **Mechanism:** [Seinfeld Email / Simplicio Dialogue / etc.]
 - **Dark Emotion:** [e.g., "Age empowerment + rebellion against 'act your age'"]
 - **Subject Line Ideas:** [2-3 options]
+- **Story Bank Status:** SEED (raw) / CONCEPT (has angle) / READY (can write now)
 - **Potential Rating:** ⭐⭐⭐⭐⭐ (1-5)
 ```
 
 ---
 
-## Bước 6: Chờ User Chọn
+## Bước 6: Cập nhật Story Bank
+
+Sau khi trình bày ideas, hỏi user:
+- Idea nào muốn add vào Story Bank?
+- SEED, CONCEPT, hay READY?
+
+Add selected ideas vào `knowledge/core/story-bank.md` theo format tương ứng.
+
+Update Story Source Coverage table (nếu research tập trung vào source cụ thể).
+
+---
+
+## Bước 7: Chờ User Chọn
 
 Sắp xếp ideas theo Potential Rating (cao nhất trước).
 
 **DỪNG — Chờ user chọn idea.**
 
 Khi user chọn → chuyển sang `/write-email` workflow với idea đã chọn làm brief.
+
+---
+
+## Platform Notes
+
+- **Claude Code (Duc):** Run via `/command` directly in terminal. Full automation.
+- **Cowork (team):** Copy workflow steps into conversation. Paste draft into Google Doc for review/comment.
+- **Antigravity (team):** Assign as agent task with workspace path `D:\Skullette - Copywriting`.

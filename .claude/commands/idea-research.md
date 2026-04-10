@@ -1,0 +1,1 @@
+Read the workflow file at `.agent/workflows/idea-research.md` and execute it fully. Audit the Story Bank coverage (Step 0) before harvesting new ideas. Follow every step in the workflow from start to finish.

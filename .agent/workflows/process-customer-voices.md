@@ -45,6 +45,7 @@ Lưu mỗi entry theo format:
 - **Date:** YYYY-MM-DD
 - **Source:** Email reply / DM / Review / Survey
 - **Product:** [Tên sản phẩm] ([Variant]) hoặc "General"
+- **Story Source:** [Gothic Mundane / Witch Victory / Basic Brenda Encounter / Product Origin / Cultural Darkness / Julie Personal / Industry Commentary]
 - **Quote:** "Giữ nguyên lời gốc, chỉ lược bỏ phần không liên quan..."
 - **Context:** [1 dòng bối cảnh — ví dụ: "Cashier at Kroger complimented her Lunacat"]
 - **Tags:** #customer-story #lunacat #kroger #age-empowerment
@@ -85,3 +86,11 @@ Lưu mỗi entry theo format:
 | CV002 | Gina, FL | Nyxrose Handbag | Compliment | ⭐⭐⭐⭐ | #valentine #husband |
 
 - Highlight entries ⭐⭐⭐⭐+ và đề xuất dùng cho email tiếp theo
+
+---
+
+## Platform Notes
+
+- **Claude Code (Duc):** Run via `/command` directly in terminal. Full automation.
+- **Cowork (team):** Copy workflow steps into conversation. Paste draft into Google Doc for review/comment.
+- **Antigravity (team):** Assign as agent task with workspace path `D:\Skullette - Copywriting`.

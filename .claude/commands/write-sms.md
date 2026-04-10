@@ -1,0 +1,1 @@
+Read the workflow file at `.agent/workflows/write-sms.md` and execute it fully. If a daily brief or email draft exists for today, cross-reference it. Follow every step in the workflow from start to finish.

@@ -1,0 +1,1 @@
+Read the workflow file at `.agent/workflows/process-customer-voices.md` and execute it fully. Check the `customer-voices/` directory for unprocessed feedback. Tag Story Source for each entry. Follow every step in the workflow from start to finish.

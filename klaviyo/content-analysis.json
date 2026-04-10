@@ -1,0 +1,6172 @@
+[
+  {
+    "id": "01JTFY1E1YAD0N99FNEKR9HFSM",
+    "name": "Story | Confession | 060525",
+    "date": "2025-05-06",
+    "send_time": "2025-05-06T09:00:00+00:00",
+    "subject": "I don’t celebrate Día de los Muertos. But…",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "mystery_statement",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 477.0,
+      "opens": 218.0,
+      "open_rate": 0.36325,
+      "clicks": 9.0,
+      "click_rate": 0.01709,
+      "bounce_rate": 0.01887
+    },
+    "channel": "email",
+    "word_count": 167
+  },
+  {
+    "id": "01JTS4HAYBWA1P4J7RQFQNK9MT",
+    "name": "Story | La Roja | 090525",
+    "date": "2025-05-09",
+    "send_time": "2025-05-09T09:00:00+00:00",
+    "subject": "The most romantic bag in hell",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 731.0,
+      "opens": 313.0,
+      "open_rate": 0.33842,
+      "clicks": 30.0,
+      "click_rate": 0.0319,
+      "bounce_rate": 0.01368
+    },
+    "channel": "email",
+    "word_count": 158
+  },
+  {
+    "id": "01JTZH1YR1ZEKW7GA5W7AH71F1",
+    "name": "Story | Mother's Day | 110525",
+    "date": "2025-05-11",
+    "send_time": "2025-05-11T09:00:00+00:00",
+    "subject": "She gave you life...",
+    "preview_text": "For the woman who raised you and raised hell.",
+    "phase": "daily",
+    "series": "Mothers Day",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 944.0,
+      "opens": 368.0,
+      "open_rate": 0.31557,
+      "clicks": 7.0,
+      "click_rate": 0.0064,
+      "bounce_rate": 0.00636
+    },
+    "channel": "email",
+    "word_count": 198
+  },
+  {
+    "id": "01JV511WM15751HF9X10VN9SZ1",
+    "name": "Story | BloodRose | 130525",
+    "date": "2025-05-13",
+    "send_time": "2025-05-13T09:00:00+00:00",
+    "subject": "You’ve been lied to about elegance...",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 1085.0,
+      "opens": 402.0,
+      "open_rate": 0.31175,
+      "clicks": 23.0,
+      "click_rate": 0.01665,
+      "bounce_rate": 0.00369
+    },
+    "channel": "email",
+    "word_count": 210
+  },
+  {
+    "id": "01JV9QGSAXYPMG38FTVMV47S1Q",
+    "name": "Story | First OOS | 150525",
+    "date": "2025-05-15",
+    "send_time": "2025-05-15T09:00:00+00:00",
+    "subject": "Wait... Bloodrose is GONE?",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1206.0,
+      "opens": 423.0,
+      "open_rate": 0.29784,
+      "clicks": 10.0,
+      "click_rate": 0.00416,
+      "bounce_rate": 0.00332
+    },
+    "channel": "email",
+    "word_count": 163
+  },
+  {
+    "id": "01JVFBJZ9HYSQTC3K2D4JQQQYG",
+    "name": "Story | World Goth Day | 170525",
+    "date": "2025-05-17",
+    "send_time": "2025-05-17T09:00:00+00:00",
+    "subject": "Wait... there's a holiday for goths?!",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1321.0,
+      "opens": 455.0,
+      "open_rate": 0.29233,
+      "clicks": 10.0,
+      "click_rate": 0.00456,
+      "bounce_rate": 0.00303
+    },
+    "channel": "email",
+    "word_count": 120
+  },
+  {
+    "id": "01JVM0SRQHQDAB3SVAPVQ3C9Q4",
+    "name": "Story | Roselace | 190525",
+    "date": "2025-05-19",
+    "send_time": "2025-05-19T09:00:00+00:00",
+    "subject": "It's almost gone…",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1423.0,
+      "opens": 523.0,
+      "open_rate": 0.31127,
+      "clicks": 5.0,
+      "click_rate": 0.00352,
+      "bounce_rate": 0.00211
+    },
+    "channel": "email",
+    "word_count": 0
+  },
+  {
+    "id": "01JVZ1KSVNX91MKFBP3445W2FW",
+    "name": "Story | Presale | 230525",
+    "date": "2025-05-23",
+    "send_time": "2025-05-23T09:00:00+00:00",
+    "subject": "I don’t trust anyone else to touch these bags...",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1648.0,
+      "opens": 601.0,
+      "open_rate": 0.29666,
+      "clicks": 37.0,
+      "click_rate": 0.01459,
+      "bounce_rate": 0.00182
+    },
+    "channel": "email",
+    "word_count": 159
+  },
+  {
+    "id": "01JW1ARHSZJB6AR9QMN8AJZEDQ",
+    "name": "Story | Presale | 230525 (clone)",
+    "date": "2025-05-24",
+    "send_time": "2025-05-24T16:32:17+00:00",
+    "subject": "[Announcement] Skullette Memorial Day Sale is LIVE",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1687.0,
+      "opens": 577.0,
+      "open_rate": 0.28012,
+      "clicks": 16.0,
+      "click_rate": 0.00831,
+      "bounce_rate": 0.00119
+    },
+    "channel": "email",
+    "word_count": 87
+  },
+  {
+    "id": "01JW40FXV9KR57NV9TF2FX3NN7",
+    "name": "Sale | Memorial Sale Day 2 | 250525",
+    "date": "2025-05-25",
+    "send_time": "2025-05-25T09:00:00+00:00",
+    "subject": "Skulls are cool. You know what’s cooler?",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1743.0,
+      "opens": 607.0,
+      "open_rate": 0.28103,
+      "clicks": 22.0,
+      "click_rate": 0.01034,
+      "bounce_rate": 0.00172
+    },
+    "channel": "email",
+    "word_count": 106
+  },
+  {
+    "id": "01JW6S72B7KH8HRHQX68SVR4SS",
+    "name": "Sale | Memorial Sale Day 3 | 260525",
+    "date": "2025-05-26",
+    "send_time": "2025-05-26T09:00:00+00:00",
+    "subject": "We need to talk...",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1818.0,
+      "opens": 701.0,
+      "open_rate": 0.30964,
+      "clicks": 13.0,
+      "click_rate": 0.00606,
+      "bounce_rate": 0.00165
+    },
+    "channel": "email",
+    "word_count": 93
+  },
+  {
+    "id": "01JWG7WZ5VK1FX6RHJT6197732",
+    "name": "Story | Mour naire | 300525",
+    "date": "2025-05-30",
+    "send_time": "2025-05-30T09:00:00+00:00",
+    "subject": "Do you know about the famous Lady Dior???",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 1980.0,
+      "opens": 691.0,
+      "open_rate": 0.27581,
+      "clicks": 13.0,
+      "click_rate": 0.00455,
+      "bounce_rate": 0.00202
+    },
+    "channel": "email",
+    "word_count": 82
+  },
+  {
+    "id": "01JWTT0DXCTC74QDWBM5B2PN3F",
+    "name": "Story | Restock | 030625",
+    "date": "2025-06-03",
+    "send_time": "2025-06-03T09:00:00+00:00",
+    "subject": "[BIG NEWS ]The Most-Loved Designs Are Back",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 2113.0,
+      "opens": 742.0,
+      "open_rate": 0.27865,
+      "clicks": 17.0,
+      "click_rate": 0.00713,
+      "bounce_rate": 0.00473
+    },
+    "channel": "email",
+    "word_count": 118
+  },
+  {
+    "id": "01JWZHDNAA18N5B9YA1CR1D0VF",
+    "name": "Story | Deathmark | 050625",
+    "date": "2025-06-05",
+    "send_time": "2025-06-05T09:00:00+00:00",
+    "subject": "Is this bag too bold for you, {{ first_name }}?",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 2167.0,
+      "opens": 755.0,
+      "open_rate": 0.27551,
+      "clicks": 37.0,
+      "click_rate": 0.01531,
+      "bounce_rate": 0.00508
+    },
+    "channel": "email",
+    "word_count": 181
+  },
+  {
+    "id": "01JX4Q3J265D6YF2E5BDDQDAFD",
+    "name": "Story | Catrinelle | 070625",
+    "date": "2025-06-07",
+    "send_time": "2025-06-07T09:00:00+00:00",
+    "subject": "The hardest Skullette bag to style (and why I love her for it)",
+    "preview_text": "But if you’re brave, she’ll go with you",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 2313.0,
+      "opens": 748.0,
+      "open_rate": 0.25565,
+      "clicks": 18.0,
+      "click_rate": 0.00652,
+      "bounce_rate": 0.00562
+    },
+    "channel": "email",
+    "word_count": 244
+  },
+  {
+    "id": "01JX9X0NR4FVGX57S12WBNT3GE",
+    "name": "Story | BloodRose restock | 090625",
+    "date": "2025-06-09",
+    "send_time": "2025-06-09T09:00:00+00:00",
+    "subject": "The design that sold out in 3 days is back",
+    "preview_text": "But there’s a problem with this restock",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 2511.0,
+      "opens": 661.0,
+      "open_rate": 0.20048,
+      "clicks": 18.0,
+      "click_rate": 0.0072,
+      "bounce_rate": 0.00478
+    },
+    "channel": "email",
+    "word_count": 210
+  },
+  {
+    "id": "01JXEH11EGPPBCA7QNVNT8B2T1",
+    "name": "Story | Confidence | 110625",
+    "date": "2025-06-11",
+    "send_time": "2025-06-11T09:00:00+00:00",
+    "subject": "You can wear anything—if you bring this",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 2637.0,
+      "opens": 741.0,
+      "open_rate": 0.21802,
+      "clicks": 7.0,
+      "click_rate": 0.00191,
+      "bounce_rate": 0.00683
+    },
+    "channel": "email",
+    "word_count": 216
+  },
+  {
+    "id": "01JXM87SAFSRCTQ5C8K3D4DWXH",
+    "name": "Story | Nocta20 | 130625",
+    "date": "2025-06-13",
+    "send_time": "2025-06-13T09:00:00+00:00",
+    "subject": "So... someone tried to buy 100 Noctafloras",
+    "preview_text": "and a gift for you",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 2775.0,
+      "opens": 1014.0,
+      "open_rate": 0.28781,
+      "clicks": 32.0,
+      "click_rate": 0.01028,
+      "bounce_rate": 0.01838
+    },
+    "channel": "email",
+    "word_count": 233
+  },
+  {
+    "id": "01JY10WWMGNXJRY3P8YY8SG1DN",
+    "name": "Story | \"Frostmourne\" Leather Tote Bag | 180625",
+    "date": "2025-06-18",
+    "send_time": "2025-06-18T09:00:00+00:00",
+    "subject": "Warning: This bag turns heads...",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "Mothers Day",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 3301.0,
+      "opens": 1183.0,
+      "open_rate": 0.2691,
+      "clicks": 30.0,
+      "click_rate": 0.00548,
+      "bounce_rate": 0.00485
+    },
+    "channel": "email",
+    "word_count": 176
+  },
+  {
+    "id": "01JY9QXKXX36Z4J94GNHEWZTSK",
+    "name": "Story | Bloodrose Mini Satchel | 210625",
+    "date": "2025-06-21",
+    "send_time": "2025-06-21T09:00:00+00:00",
+    "subject": "This bag fits almost nothing...LOL",
+    "preview_text": "And I love her for it.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 3865.0,
+      "opens": 1410.0,
+      "open_rate": 0.28609,
+      "clicks": 43.0,
+      "click_rate": 0.00988,
+      "bounce_rate": 0.00517
+    },
+    "channel": "email",
+    "word_count": 142
+  },
+  {
+    "id": "01JYE67KBK8VZBBWFS1712XXGF",
+    "name": "Story | Catrinelle Mini Satchel | 230625",
+    "date": "2025-06-23",
+    "send_time": "2025-06-23T09:00:00+00:00",
+    "subject": "What do you think of this one? Be honest.",
+    "preview_text": "We just added a new one. Curious what you think.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "urgency",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 4340.0,
+      "opens": 1574.0,
+      "open_rate": 0.28323,
+      "clicks": 38.0,
+      "click_rate": 0.00764,
+      "bounce_rate": 0.00507
+    },
+    "channel": "email",
+    "word_count": 101
+  },
+  {
+    "id": "01JYN2TJFEWM0J4AVZ3XVBY2SX",
+    "name": "Story | La Catrina | 260625",
+    "date": "2025-06-26",
+    "send_time": "2025-06-26T09:00:00+00:00",
+    "subject": "The most romantic bag in hell...",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 5113.0,
+      "opens": 1806.0,
+      "open_rate": 0.27767,
+      "clicks": 84.0,
+      "click_rate": 0.01354,
+      "bounce_rate": 0.00332
+    },
+    "channel": "email",
+    "word_count": 159
+  },
+  {
+    "id": "01JZ0E9K3D07Z9MXA547XB9QZR",
+    "name": "Story | June wrapup | 300625",
+    "date": "2025-06-30",
+    "send_time": "2025-06-30T09:00:00+00:00",
+    "subject": "Top 3 bags of June... and a question only YOU can answer",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 6058.0,
+      "opens": 2085.0,
+      "open_rate": 0.27599,
+      "clicks": 43.0,
+      "click_rate": 0.00546,
+      "bounce_rate": 0.00297
+    },
+    "channel": "email",
+    "word_count": 330
+  },
+  {
+    "id": "01JZ5GQPJ6DKKV1S3QFZS3P40X",
+    "name": "Story | Teaser July 4th | 020725",
+    "date": "2025-07-02",
+    "send_time": "2025-07-02T09:00:00+00:00",
+    "subject": "Not everyone can catch this sale...",
+    "preview_text": "You’ll want to be ready before we vanish into picnic mode.",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 6618.0,
+      "opens": 2219.0,
+      "open_rate": 0.26631,
+      "clicks": 134.0,
+      "click_rate": 0.01639,
+      "bounce_rate": 0.00423
+    },
+    "channel": "email",
+    "word_count": 110
+  },
+  {
+    "id": "01JZADTJHHXCT172WJQKC4MF6S",
+    "name": "Sale | July 4th Sale | 040725",
+    "date": "2025-07-04",
+    "send_time": "2025-07-04T13:00:00+00:00",
+    "subject": "I had to wake up for this Skullette deal 👀",
+    "preview_text": "Our July 4th Sale is here — and it's HOTTER than the grill 🔥",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 7091.0,
+      "opens": 2403.0,
+      "open_rate": 0.26821,
+      "clicks": 73.0,
+      "click_rate": 0.0082,
+      "bounce_rate": 0.0031
+    },
+    "channel": "email",
+    "word_count": 252
+  },
+  {
+    "id": "01JZB3S9AXHQ4M3Z6XYJ95MD5P",
+    "name": "Sale | July 4th Sale Reminder | 040725",
+    "date": "2025-07-04",
+    "send_time": "2025-07-04T20:00:00+00:00",
+    "subject": "I see you haven’t used your code yet...",
+    "preview_text": "Our July 4th Sale is closing...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 7572.0,
+      "opens": 2839.0,
+      "open_rate": 0.28874,
+      "clicks": 100.0,
+      "click_rate": 0.01007,
+      "bounce_rate": 0.00291
+    },
+    "channel": "email",
+    "word_count": 136
+  },
+  {
+    "id": "01JZGAEFJHQWEEBMWXWGXERSWM",
+    "name": "Story | Restock Teaser | 060725",
+    "date": "2025-07-06",
+    "send_time": "2025-07-06T09:00:00+00:00",
+    "subject": "I thought the July 4th would be chill... it wasn’t.",
+    "preview_text": "And now… a restock is coming 👀",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 7790.0,
+      "opens": 2729.0,
+      "open_rate": 0.27927,
+      "clicks": 47.0,
+      "click_rate": 0.0049,
+      "bounce_rate": 0.00347
+    },
+    "channel": "email",
+    "word_count": 350
+  },
+  {
+    "id": "01JZMEG3GC90VE0K594VNDYJKS",
+    "name": "Sale | Prime Day | 080725",
+    "date": "2025-07-08",
+    "send_time": "2025-07-08T12:30:00+00:00",
+    "subject": "I’ve never done this before… but you earned it",
+    "preview_text": "you got FREES... (not a typo)",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 8305.0,
+      "opens": 3102.0,
+      "open_rate": 0.28647,
+      "clicks": 115.0,
+      "click_rate": 0.0122,
+      "bounce_rate": 0.00301
+    },
+    "channel": "email",
+    "word_count": 231
+  },
+  {
+    "id": "01JZNHPH6W74MBXW1A6NV01YXB",
+    "name": "Sale | Prime Day | 080725 (reminder)",
+    "date": "2025-07-08",
+    "send_time": "2025-07-08T22:00:00+00:00",
+    "subject": "There’s one thing I’ve learned for sure after today...",
+    "preview_text": "you got FREES... (not a typo)",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 8867.0,
+      "opens": 3215.0,
+      "open_rate": 0.28227,
+      "clicks": 81.0,
+      "click_rate": 0.0069,
+      "bounce_rate": 0.00237
+    },
+    "channel": "email",
+    "word_count": 130
+  },
+  {
+    "id": "01K03F97BPT50R7VN6GJG9E7WE",
+    "name": "Story | New ideas | 140725",
+    "date": "2025-07-14",
+    "send_time": "2025-07-14T09:00:00+00:00",
+    "subject": "This ruined my Sunday night.",
+    "preview_text": "And now I can’t stop thinking about it. Please help!!!",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 10202.0,
+      "opens": 4007.0,
+      "open_rate": 0.29375,
+      "clicks": 81.0,
+      "click_rate": 0.00571,
+      "bounce_rate": 0.00363
+    },
+    "channel": "email",
+    "word_count": 264
+  },
+  {
+    "id": "01K09TQ2X21EH4Q2GNWVBWZYPK",
+    "name": "Story | Circle Roundbag | 160725",
+    "date": "2025-07-16",
+    "send_time": "2025-07-16T09:00:00+00:00",
+    "subject": "I wasn’t supposed to make this bag.",
+    "preview_text": "our newest leather bag style...",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 10696.0,
+      "opens": 4266.0,
+      "open_rate": 0.30166,
+      "clicks": 217.0,
+      "click_rate": 0.01585,
+      "bounce_rate": 0.00327
+    },
+    "channel": "email",
+    "word_count": 307
+  },
+  {
+    "id": "01K0EZX1B2C0P54RP8KYS6F05G",
+    "name": "Story | Mini Satchel | 180725",
+    "date": "2025-07-18",
+    "send_time": "2025-07-18T09:00:00+00:00",
+    "subject": "I thought I lost a customer...",
+    "preview_text": "read full story here",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 11518.0,
+      "opens": 4362.0,
+      "open_rate": 0.29472,
+      "clicks": 182.0,
+      "click_rate": 0.01193,
+      "bounce_rate": 0.00313
+    },
+    "channel": "email",
+    "word_count": 310
+  },
+  {
+    "id": "01K0PVQPPXNBXNMDWMNK9QM1JG",
+    "name": "Story | Luna Cat | 210725",
+    "date": "2025-07-21",
+    "send_time": "2025-07-21T09:00:00+00:00",
+    "subject": "My daughter just redesigned Skullette...",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 13195.0,
+      "opens": 5069.0,
+      "open_rate": 0.29744,
+      "clicks": 400.0,
+      "click_rate": 0.02464,
+      "bounce_rate": 0.00349
+    },
+    "channel": "email",
+    "word_count": 269
+  },
+  {
+    "id": "01K0VES3WXB48R3HR5XNF86EP5",
+    "name": "Story | New Bloodroses | 230725",
+    "date": "2025-07-23",
+    "send_time": "2025-07-23T14:00:00+00:00",
+    "subject": "Hardest questions I get as the Skullette founder…",
+    "preview_text": "The answer you’ve been waiting for… in two new shades.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 13963.0,
+      "opens": 4921.0,
+      "open_rate": 0.27347,
+      "clicks": 265.0,
+      "click_rate": 0.01697,
+      "bounce_rate": 0.0043
+    },
+    "channel": "email",
+    "word_count": 307
+  },
+  {
+    "id": "01K1366K3E1M4A32ERWR889ZPD",
+    "name": "Story | Makeup Bag | 260725",
+    "date": "2025-07-26",
+    "send_time": "2025-07-26T09:00:00+00:00",
+    "subject": "I thought this is useless bag,,.",
+    "preview_text": "but in the end i became obsessed with it...",
+    "phase": "daily",
+    "series": "Mothers Day",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 15280.0,
+      "opens": 5627.0,
+      "open_rate": 0.2797,
+      "clicks": 344.0,
+      "click_rate": 0.01694,
+      "bounce_rate": 0.00347
+    },
+    "channel": "email",
+    "word_count": 221
+  },
+  {
+    "id": "01K1B90VDDMYZWM9K8C73QVNG3",
+    "name": "Story | Friendship Day Coming | 290725",
+    "date": "2025-07-29",
+    "send_time": "2025-07-29T09:00:00+00:00",
+    "subject": "Something huge is comin’... in Skullette",
+    "preview_text": "Your bestie will love it",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 17148.0,
+      "opens": 5827.0,
+      "open_rate": 0.26158,
+      "clicks": 144.0,
+      "click_rate": 0.0062,
+      "bounce_rate": 0.00327
+    },
+    "channel": "email",
+    "word_count": 166
+  },
+  {
+    "id": "01K1DQRQMC9CGDNQB740W53QC6",
+    "name": "Sale | Friendship Deal | 300725",
+    "date": "2025-07-30",
+    "send_time": "2025-07-30T14:23:32+00:00",
+    "subject": "[Announcement] The Biggest Deal of Skullette is LIVE",
+    "preview_text": "Up to 51% OFF...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 17639.0,
+      "opens": 6253.0,
+      "open_rate": 0.26748,
+      "clicks": 361.0,
+      "click_rate": 0.01672,
+      "bounce_rate": 0.0034
+    },
+    "channel": "email",
+    "word_count": 228
+  },
+  {
+    "id": "01K1FX3R66JDV7ZF3YYZHE1D4P",
+    "name": "Sale | Friendship Last Day | 310725",
+    "date": "2025-07-31",
+    "send_time": "2025-07-31T14:00:00+00:00",
+    "subject": "RE: The Biggest Deal of Skullette is LIVE",
+    "preview_text": "Less than 45 uses left...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 18327.0,
+      "opens": 5832.0,
+      "open_rate": 0.25122,
+      "clicks": 146.0,
+      "click_rate": 0.0069,
+      "bounce_rate": 0.00349
+    },
+    "channel": "email",
+    "word_count": 160
+  },
+  {
+    "id": "01K1G00KX32Z1EG7BNNK8EJVVM",
+    "name": "Sale | Friendship Last Reminder | 310725",
+    "date": "2025-07-31",
+    "send_time": "2025-07-31T20:00:00+00:00",
+    "subject": "[FINAL CALL] Last hours to grab your favorite...at 51% OFF",
+    "preview_text": "Still thinking about it?",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 19550.0,
+      "opens": 6416.0,
+      "open_rate": 0.2593,
+      "clicks": 226.0,
+      "click_rate": 0.00914,
+      "bounce_rate": 0.00343
+    },
+    "channel": "email",
+    "word_count": 89
+  },
+  {
+    "id": "01K1TXA6JS6PTRK0MJN40CM064",
+    "name": "Story | Lunacat gone | 040725",
+    "date": "2025-08-04",
+    "send_time": "2025-08-04T16:12:33+00:00",
+    "subject": "I can’t keep this bag for you till this Cat Day",
+    "preview_text": "It’s nearly sold out",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 21219.0,
+      "opens": 7321.0,
+      "open_rate": 0.2707,
+      "clicks": 141.0,
+      "click_rate": 0.00539,
+      "bounce_rate": 0.0033
+    },
+    "channel": "email",
+    "word_count": 212
+  },
+  {
+    "id": "01K1ZQDQXF0F3TQWMW9JJDBX69",
+    "name": "Story | Faith over Fear? | 060825",
+    "date": "2025-08-06",
+    "send_time": "2025-08-06T09:00:00+00:00",
+    "subject": "I made this bag… then panicked",
+    "preview_text": "What do you think of my new bag?",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 22293.0,
+      "opens": 7727.0,
+      "open_rate": 0.26757,
+      "clicks": 250.0,
+      "click_rate": 0.0094,
+      "bounce_rate": 0.00301
+    },
+    "channel": "email",
+    "word_count": 0
+  },
+  {
+    "id": "01K27R9KQF0S24YWPZ3AHXDA5T",
+    "name": "Story | Laugh or Apologize | 090825",
+    "date": "2025-08-09",
+    "send_time": "2025-08-09T09:30:00+00:00",
+    "subject": "Strong women don’t have to choose her bag",
+    "preview_text": "do you know why?",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 23728.0,
+      "opens": 7752.0,
+      "open_rate": 0.25474,
+      "clicks": 191.0,
+      "click_rate": 0.00596,
+      "bounce_rate": 0.0032
+    },
+    "channel": "email",
+    "word_count": 341
+  },
+  {
+    "id": "01K2F35VZGXGCDACE52HERPYW8",
+    "name": "Story | Brand Ambassadors | 120825",
+    "date": "2025-08-12",
+    "send_time": "2025-08-12T09:00:00+00:00",
+    "subject": "Meet Morthwings: Your new bag 🦋",
+    "preview_text": "…while walking down the street.",
+    "phase": "post",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 24636.0,
+      "opens": 8096.0,
+      "open_rate": 0.2524,
+      "clicks": 476.0,
+      "click_rate": 0.01526,
+      "bounce_rate": 0.00276
+    },
+    "channel": "email",
+    "word_count": 324
+  },
+  {
+    "id": "01K2MXT3NK65STH696PYKG6RJW",
+    "name": "Story | For the Love of God | 140825",
+    "date": "2025-08-14",
+    "send_time": "2025-08-14T09:00:00+00:00",
+    "subject": "My husband would chain the door to stop me…",
+    "preview_text": "From buying the $100M skull I can’t forget.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 25102.0,
+      "opens": 8189.0,
+      "open_rate": 0.25805,
+      "clicks": 250.0,
+      "click_rate": 0.00807,
+      "bounce_rate": 0.00287
+    },
+    "channel": "email",
+    "word_count": 307
+  },
+  {
+    "id": "01K2SQ44EEC7E14PW5WY4BKQBH",
+    "name": "Story | Gothic Market | 160825",
+    "date": "2025-08-16",
+    "send_time": "2025-08-16T09:00:00+00:00",
+    "subject": "This is why I don’t scroll TikTok at night",
+    "preview_text": "Gothic Market. August 16–17. You need to see this.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 25613.0,
+      "opens": 7598.0,
+      "open_rate": 0.23303,
+      "clicks": 100.0,
+      "click_rate": 0.0029,
+      "bounce_rate": 0.00293
+    },
+    "channel": "email",
+    "word_count": 346
+  },
+  {
+    "id": "01K317KR2MHZNTYV6A3TVWZVEC",
+    "name": "Story | SMALL LE LAUNCHING | 190825",
+    "date": "2025-08-19",
+    "send_time": "2025-08-19T14:00:00+00:00",
+    "subject": "[Announcement] The Small Leather Bag is finally LIVE (and yes...free wallet inside).",
+    "preview_text": "She’s smaller. Sassier. And still so Skullette",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 27998.0,
+      "opens": 8489.0,
+      "open_rate": 0.2381,
+      "clicks": 537.0,
+      "click_rate": 0.01646,
+      "bounce_rate": 0.00379
+    },
+    "channel": "email",
+    "word_count": 244
+  },
+  {
+    "id": "01K395ASM62ZB6K29K5KA2XGA4",
+    "name": "Story | SMALL LE FAQ | 220825",
+    "date": "2025-08-22",
+    "send_time": "2025-08-22T09:00:00+00:00",
+    "subject": "I typed this reply 83 times already...",
+    "preview_text": "Read this before pick your fav Small Bags",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 28242.0,
+      "opens": 9125.0,
+      "open_rate": 0.25555,
+      "clicks": 257.0,
+      "click_rate": 0.00714,
+      "bounce_rate": 0.00365
+    },
+    "channel": "email",
+    "word_count": 361
+  },
+  {
+    "id": "01K3E82XRCD38E8C9VX5Q2D2CN",
+    "name": "Sale | Flash Sale | 240825",
+    "date": "2025-08-24",
+    "send_time": "2025-08-24T15:00:00+00:00",
+    "subject": "Emergency sale...because I need some C.A.S.H",
+    "preview_text": "Only 50 can. Only today.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 29731.0,
+      "opens": 9349.0,
+      "open_rate": 0.24621,
+      "clicks": 440.0,
+      "click_rate": 0.01181,
+      "bounce_rate": 0.00289
+    },
+    "channel": "email",
+    "word_count": 284
+  },
+  {
+    "id": "01K3NV128T1NKVF1T9JRP4W999",
+    "name": "Story | Nyxrose | 270825",
+    "date": "2025-08-27",
+    "send_time": "2025-08-27T09:00:00+00:00",
+    "subject": "The weirdest negotiation I’ve ever walked into",
+    "preview_text": "Meet Nyxrose — my newest Skullette handbag.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 30110.0,
+      "opens": 8595.0,
+      "open_rate": 0.22492,
+      "clicks": 249.0,
+      "click_rate": 0.0067,
+      "bounce_rate": 0.00345
+    },
+    "channel": "email",
+    "word_count": 357
+  },
+  {
+    "id": "01K3X788255C44WP7X2XZXD9QN",
+    "name": "Story | Scamming | 300825",
+    "date": "2025-08-30",
+    "send_time": "2025-08-30T09:00:00+00:00",
+    "subject": "But then she saw her bag… and said this.",
+    "preview_text": "But then she saw her bag… and said this.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 31266.0,
+      "opens": 13851.0,
+      "open_rate": 0.31705,
+      "clicks": 341.0,
+      "click_rate": 0.00826,
+      "bounce_rate": 0.00464
+    },
+    "channel": "email",
+    "word_count": 516
+  },
+  {
+    "id": "01K42R08ZW4HTF86CMR629DRKY",
+    "name": "SALE | Labor Day | 010925",
+    "date": "2025-09-01",
+    "send_time": "2025-09-01T14:15:00+00:00",
+    "subject": "Why I’ll never forget that Labor Day shift...",
+    "preview_text": "So I want to celebrate the opposite today",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 32368.0,
+      "opens": 9059.0,
+      "open_rate": 0.22481,
+      "clicks": 206.0,
+      "click_rate": 0.00481,
+      "bounce_rate": 0.00516
+    },
+    "channel": "email",
+    "word_count": 256
+  },
+  {
+    "id": "01K42TH61Z38Y8B86HCDQ684QM",
+    "name": "SALE | Labor Day | 010925 - Reminder",
+    "date": "2025-09-01",
+    "send_time": "2025-09-01T20:00:00+00:00",
+    "subject": "Hey, I didn’t think this would go so fast...",
+    "preview_text": "Our Labor Day Sale is ending...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 33626.0,
+      "opens": 9936.0,
+      "open_rate": 0.23207,
+      "clicks": 256.0,
+      "click_rate": 0.00577,
+      "bounce_rate": 0.00509
+    },
+    "channel": "email",
+    "word_count": 113
+  },
+  {
+    "id": "01K485EZND9A9924CHW5ZEX6PV",
+    "name": "Story | First Roselace | 030925",
+    "date": "2025-09-03",
+    "send_time": "2025-09-03T16:19:41+00:00",
+    "subject": "“It looks like a funeral”",
+    "preview_text": "They used to say about my design like that...",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 33540.0,
+      "opens": 9745.0,
+      "open_rate": 0.23334,
+      "clicks": 293.0,
+      "click_rate": 0.00737,
+      "bounce_rate": 0.00489
+    },
+    "channel": "email",
+    "word_count": 267
+  },
+  {
+    "id": "01K4D6V3GZ8M8HS2119B6KKWWZ",
+    "name": "Story | Nevermore | 050925",
+    "date": "2025-09-05",
+    "send_time": "2025-09-05T09:00:00+00:00",
+    "subject": "The Raven made me do it...",
+    "preview_text": "And the bag that now owns my entire brain.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 34554.0,
+      "opens": 10152.0,
+      "open_rate": 0.22672,
+      "clicks": 212.0,
+      "click_rate": 0.00456,
+      "bounce_rate": 0.00446
+    },
+    "channel": "email",
+    "word_count": 327
+  },
+  {
+    "id": "01K4N0ZEDQQ47S8SH69WYQQMQN",
+    "name": "Story | Bag Size | 080925",
+    "date": "2025-09-08",
+    "send_time": "2025-09-08T09:30:00+00:00",
+    "subject": "She tried to fit her CAT in the bag.",
+    "preview_text": "Here's what happened.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 35890.0,
+      "opens": 10359.0,
+      "open_rate": 0.22814,
+      "clicks": 174.0,
+      "click_rate": 0.00395,
+      "bounce_rate": 0.00451
+    },
+    "channel": "email",
+    "word_count": 311
+  },
+  {
+    "id": "01K4WJPWS9BDR0YGHGXQ0WNHW4",
+    "name": "Story | Faill Into Darkness | 110925",
+    "date": "2025-09-11",
+    "send_time": "2025-09-11T14:33:43+00:00",
+    "subject": "You won’t like what I have to say",
+    "preview_text": "But if you wait... you’ll hate it even more.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 36857.0,
+      "opens": 10744.0,
+      "open_rate": 0.23117,
+      "clicks": 255.0,
+      "click_rate": 0.00595,
+      "bounce_rate": 0.00532
+    },
+    "channel": "email",
+    "word_count": 286
+  },
+  {
+    "id": "01K51RZ6V3NT698XQ8BPDHYG7P",
+    "name": "Story | Black Interior | 130925",
+    "date": "2025-09-13",
+    "send_time": "2025-09-13T09:00:00+00:00",
+    "subject": "The BLACK INTERIOR is here. Finally.",
+    "preview_text": "Black outside. Black inside.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 37606.0,
+      "opens": 10843.0,
+      "open_rate": 0.22628,
+      "clicks": 415.0,
+      "click_rate": 0.00866,
+      "bounce_rate": 0.00511
+    },
+    "channel": "email",
+    "word_count": 241
+  },
+  {
+    "id": "01K56BJAAQM0VKFWDC9H1X1DCZ",
+    "name": "Story | Testimonial | 150925",
+    "date": "2025-09-15",
+    "send_time": "2025-09-15T09:00:00+00:00",
+    "subject": "She said we were fake...LOL",
+    "preview_text": "and then bought 3 bags 😅",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 38266.0,
+      "opens": 10316.0,
+      "open_rate": 0.2132,
+      "clicks": 195.0,
+      "click_rate": 0.00399,
+      "bounce_rate": 0.00483
+    },
+    "channel": "email",
+    "word_count": 334
+  },
+  {
+    "id": "01K5BXE2DENA5JVKZCN5026KCC",
+    "name": "SALE | NEVERMORE BUNDLE | 170925",
+    "date": "2025-09-17",
+    "send_time": "2025-09-17T14:00:00+00:00",
+    "subject": "May this NEVER happen again 🖤",
+    "preview_text": "The NEVERMORE Bundle is here. Up to 48% OFF. And some Extra...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 40737.0,
+      "opens": 10817.0,
+      "open_rate": 0.20917,
+      "clicks": 577.0,
+      "click_rate": 0.0117,
+      "bounce_rate": 0.0055
+    },
+    "channel": "email",
+    "word_count": 255
+  },
+  {
+    "id": "01K5CBQHV7A24H1CHCFP3T22EV",
+    "name": "SALE | NEVERMORE BUNDLE | 170925 | LAST CALL",
+    "date": "2025-09-17",
+    "send_time": "2025-09-17T22:00:00+00:00",
+    "subject": "[LAST CALL] Code NEVERMORE drops dead tonight",
+    "preview_text": "Final chance to grab your bundle + free wallet.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 40876.0,
+      "opens": 11323.0,
+      "open_rate": 0.21991,
+      "clicks": 300.0,
+      "click_rate": 0.0063,
+      "bounce_rate": 0.0057
+    },
+    "channel": "email",
+    "word_count": 210
+  },
+  {
+    "id": "01K5CAH3JF8D04267RVWYGQYVX",
+    "name": "SALE | NEVERMORE BUNDLE | 170925 | Remind",
+    "date": "2025-09-17",
+    "send_time": "2025-09-17T19:00:00+00:00",
+    "subject": "[REMINDER] Your coupon is about to be down to....",
+    "preview_text": "You missed the $40 & $30 OFF… but you’ve still got a shot.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 40933.0,
+      "opens": 11258.0,
+      "open_rate": 0.2158,
+      "clicks": 476.0,
+      "click_rate": 0.00872,
+      "bounce_rate": 0.00537
+    },
+    "channel": "email",
+    "word_count": 153
+  },
+  {
+    "id": "01K5H74HPPVAZV0YPTP88ZN9EQ",
+    "name": "Story | Skull Bag at Church | 190925",
+    "date": "2025-09-19",
+    "send_time": "2025-09-19T09:00:00+00:00",
+    "subject": "a SKULL bag at church???",
+    "preview_text": "The church bag story that left me speechless.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 38627.0,
+      "opens": 11038.0,
+      "open_rate": 0.22505,
+      "clicks": 234.0,
+      "click_rate": 0.00478,
+      "bounce_rate": 0.00438
+    },
+    "channel": "email",
+    "word_count": 281
+  },
+  {
+    "id": "01K5NRB144YJZSA76BT1XZKNK1",
+    "name": "Story | Fall Into Darkness Ending | 210925",
+    "date": "2025-09-21",
+    "send_time": "2025-09-21T14:00:00+00:00",
+    "subject": "12:01am hits different",
+    "preview_text": "bc...30% OFF dies at midnight.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 42366.0,
+      "opens": 11899.0,
+      "open_rate": 0.22187,
+      "clicks": 198.0,
+      "click_rate": 0.00332,
+      "bounce_rate": 0.00507
+    },
+    "channel": "email",
+    "word_count": 272
+  },
+  {
+    "id": "01K5VN04WNN4YJ2KPJ0HMS20V5",
+    "name": "Story | First Day of Fall | 230925",
+    "date": "2025-09-23",
+    "send_time": "2025-09-23T11:00:00+00:00",
+    "subject": "Who said skulls can’t be cozy?",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 38936.0,
+      "opens": 10855.0,
+      "open_rate": 0.22173,
+      "clicks": 299.0,
+      "click_rate": 0.00614,
+      "bounce_rate": 0.00396
+    },
+    "channel": "email",
+    "word_count": 276
+  },
+  {
+    "id": "01K60RN9CMMFT2Y7EYXNZBZ74A",
+    "name": "Story | Luna Cat | 250925",
+    "date": "2025-09-25",
+    "send_time": "2025-09-25T15:48:33.574647+00:00",
+    "subject": "My daughter just exposed me.",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "Mothers Day",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 41191.0,
+      "opens": 11715.0,
+      "open_rate": 0.22719,
+      "clicks": 402.0,
+      "click_rate": 0.00795,
+      "bounce_rate": 0.00505
+    },
+    "channel": "email",
+    "word_count": 143
+  },
+  {
+    "id": "01K65HZFPZN7DNYZB2HQ4EK8C4",
+    "name": "Story | 4 Star Shipping Delivery | 270925",
+    "date": "2025-09-27",
+    "send_time": "2025-09-27T09:00:00+00:00",
+    "subject": "Am I choosing the right delivery service?",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 46801.0,
+      "opens": 13194.0,
+      "open_rate": 0.21997,
+      "clicks": 221.0,
+      "click_rate": 0.00398,
+      "bounce_rate": 0.006
+    },
+    "channel": "email",
+    "word_count": 266
+  },
+  {
+    "id": "01K6DG5WV2P4YXSB1JGRW3TDKM",
+    "name": "Story | Dark Deal Day Teaser | 300925",
+    "date": "2025-09-30",
+    "send_time": "2025-09-30T09:00:00+00:00",
+    "subject": "next Friday, we play a dangerous game.",
+    "preview_text": "One of these bags is yours… but you won’t know which.",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51146.0,
+      "opens": 15265.0,
+      "open_rate": 0.22922,
+      "clicks": 203.0,
+      "click_rate": 0.00265,
+      "bounce_rate": 0.00551
+    },
+    "channel": "email",
+    "word_count": 451
+  },
+  {
+    "id": "01K6JBE8V0R99RW9XYX1106ZRE",
+    "name": "Story | Dark Deal Day Teaser 2 | 021025",
+    "date": "2025-10-02",
+    "send_time": "2025-10-02T09:00:00+00:00",
+    "subject": "More Secret Designs Are Coming...",
+    "preview_text": "Dark Deal Day is coming too...",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 48061.0,
+      "opens": 13120.0,
+      "open_rate": 0.21626,
+      "clicks": 487.0,
+      "click_rate": 0.00825,
+      "bounce_rate": 0.00612
+    },
+    "channel": "email",
+    "word_count": 358
+  },
+  {
+    "id": "01K6N1JQGRNE97DF9TYDNEFZ12",
+    "name": "Sale | Dark Deal Day Sale | 031025",
+    "date": "2025-10-03",
+    "send_time": "2025-10-03T14:00:00+00:00",
+    "subject": "LIVE: The Dark Deal Day is HAPPENING...",
+    "preview_text": "with LOWEST PRICE EVER",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 56308.0,
+      "opens": 14131.0,
+      "open_rate": 0.20005,
+      "clicks": 322.0,
+      "click_rate": 0.00481,
+      "bounce_rate": 0.00607
+    },
+    "channel": "email",
+    "word_count": 295
+  },
+  {
+    "id": "01K6MM43BT9QJ4BK5ZB1B7XRXE",
+    "name": "Sale | Dark Deal Day Sale Reminder | 031025",
+    "date": "2025-10-03",
+    "send_time": "2025-10-03T18:00:00+00:00",
+    "subject": "[LAST CALL] Only 19 left. Final Hours For Dark Deal Day...",
+    "preview_text": "best deals inside...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 56195.0,
+      "opens": 14265.0,
+      "open_rate": 0.20117,
+      "clicks": 236.0,
+      "click_rate": 0.00322,
+      "bounce_rate": 0.00546
+    },
+    "channel": "email",
+    "word_count": 180
+  },
+  {
+    "id": "01K6WRMF7Y2QY9SJ0NH4EMZZ9A",
+    "name": "Story | Businesswomen | 061025",
+    "date": "2025-10-06",
+    "send_time": "2025-10-06T09:00:00+00:00",
+    "subject": "If the logo disappeared… would you still love the bag?",
+    "preview_text": "If your bag needs a logo to matter… maybe it never did.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 56884.0,
+      "opens": 15646.0,
+      "open_rate": 0.21612,
+      "clicks": 313.0,
+      "click_rate": 0.00465,
+      "bounce_rate": 0.00517
+    },
+    "channel": "email",
+    "word_count": 332
+  },
+  {
+    "id": "01K724XGHT5DR3SCAN90TKCMD4",
+    "name": "Story | Xmas Buyers | 081025",
+    "date": "2025-10-08",
+    "send_time": "2025-10-08T09:00:00+00:00",
+    "subject": "Wait. Why are you buying Christmas gifts in October?",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 50845.0,
+      "opens": 13942.0,
+      "open_rate": 0.21765,
+      "clicks": 212.0,
+      "click_rate": 0.00342,
+      "bounce_rate": 0.005
+    },
+    "channel": "email",
+    "word_count": 282
+  },
+  {
+    "id": "01K7764TS9ERVJGDR47JHP4R66",
+    "name": "Story | Christmas gifts | 101025",
+    "date": "2025-10-10",
+    "send_time": "2025-10-10T09:00:00+00:00",
+    "subject": "Sometimes I feel jealous of my customers…",
+    "preview_text": "This is one of those times.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58505.0,
+      "opens": 14832.0,
+      "open_rate": 0.20009,
+      "clicks": 259.0,
+      "click_rate": 0.0035,
+      "bounce_rate": 0.00455
+    },
+    "channel": "email",
+    "word_count": 337
+  },
+  {
+    "id": "01K7F2EBYVB58E36Y0RR2KB952",
+    "name": "Story | Early Access To Darkness | 131025",
+    "date": "2025-10-13",
+    "send_time": "2025-10-13T09:00:00+00:00",
+    "subject": "I just canceled the Halloween sale… here’s why",
+    "preview_text": "Skullette doesn’t do “normal.”",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58690.0,
+      "opens": 17113.0,
+      "open_rate": 0.22828,
+      "clicks": 179.0,
+      "click_rate": 0.00216,
+      "bounce_rate": 0.00506
+    },
+    "channel": "email",
+    "word_count": 247
+  },
+  {
+    "id": "01K7HBDSNJ5QK6K4C64ZVQ54NS",
+    "name": "Story | Why SMS | 141025",
+    "date": "2025-10-14",
+    "send_time": "2025-10-14T09:00:00+00:00",
+    "subject": "Only 3 days left to text into the dark…",
+    "preview_text": "To get at least 40% OFF your favorite Skullette bag",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58807.0,
+      "opens": 14537.0,
+      "open_rate": 0.1961,
+      "clicks": 105.0,
+      "click_rate": 0.00132,
+      "bounce_rate": 0.00444
+    },
+    "channel": "email",
+    "word_count": 263
+  },
+  {
+    "id": "01K7KS6A6M3ZMR71T634NSY6DW",
+    "name": "Story | Early Access to Darkness Teaser 3 | 151025",
+    "date": "2025-10-15",
+    "send_time": "2025-10-15T09:00:00+00:00",
+    "subject": "Are you ready for the dark adventure?",
+    "preview_text": "To get at least 40% OFF your favorite Skullette bag",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58744.0,
+      "opens": 15771.0,
+      "open_rate": 0.21168,
+      "clicks": 164.0,
+      "click_rate": 0.00198,
+      "bounce_rate": 0.00434
+    },
+    "channel": "email",
+    "word_count": 222
+  },
+  {
+    "id": "01K7PS26S7YAP495A2H0J2V53H",
+    "name": "Story | Early Access to Darkness Teaser 4 | 161025",
+    "date": "2025-10-16",
+    "send_time": "2025-10-16T09:00:00+00:00",
+    "subject": "Your Exclusive Invitation to Shadowy Deals",
+    "preview_text": "The doors open tomorrow.",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 46901.0,
+      "opens": 12467.0,
+      "open_rate": 0.20704,
+      "clicks": 111.0,
+      "click_rate": 0.00154,
+      "bounce_rate": 0.00429
+    },
+    "channel": "email",
+    "word_count": 258
+  },
+  {
+    "id": "01K7YJ8P2W5ZDD3TB8WPMMRKYN",
+    "name": "Story | Frostmourne Testimonial | 161025",
+    "date": "2025-10-19",
+    "send_time": "2025-10-19T09:00:00+00:00",
+    "subject": "The email that made me rethink “cool.”",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58956.0,
+      "opens": 16351.0,
+      "open_rate": 0.21964,
+      "clicks": 299.0,
+      "click_rate": 0.00376,
+      "bounce_rate": 0.004
+    },
+    "channel": "email",
+    "word_count": 211
+  },
+  {
+    "id": "01K83CKTSBQTTE25MJPVG2AX6P",
+    "name": "Story | Black Bat Requirement | 211025",
+    "date": "2025-10-21",
+    "send_time": "2025-10-21T09:00:00+00:00",
+    "subject": "She asked about a black bat bag…",
+    "preview_text": "Did she just read my mind?",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59070.0,
+      "opens": 21042.0,
+      "open_rate": 0.25948,
+      "clicks": 537.0,
+      "click_rate": 0.00676,
+      "bounce_rate": 0.00322
+    },
+    "channel": "email",
+    "word_count": 316
+  },
+  {
+    "id": "01K88BH7MMC0H14HM6B3XQDN56",
+    "name": "Story | Continue Bat Design | 231025",
+    "date": "2025-10-23",
+    "send_time": "2025-10-23T09:00:00+00:00",
+    "subject": "What do you think about a fox-face bat bag?",
+    "preview_text": "Triggered, right? Let me know",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59238.0,
+      "opens": 15521.0,
+      "open_rate": 0.20529,
+      "clicks": 416.0,
+      "click_rate": 0.00567,
+      "bounce_rate": 0.00311
+    },
+    "channel": "email",
+    "word_count": 378
+  },
+  {
+    "id": "01K8DRBHSNFYJ7TEK2VSGWDNH5",
+    "name": "Story | Handbag always fits | 251025",
+    "date": "2025-10-25",
+    "send_time": "2025-10-25T09:00:00+00:00",
+    "subject": "I’d rather invest in handbags than clothes...here's why",
+    "preview_text": "Also let me know what you think",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59673.0,
+      "opens": 15900.0,
+      "open_rate": 0.2095,
+      "clicks": 259.0,
+      "click_rate": 0.00286,
+      "bounce_rate": 0.00362
+    },
+    "channel": "email",
+    "word_count": 260
+  },
+  {
+    "id": "01K8F6G540WK4DDQXTCVDVF388",
+    "name": "Story | Faith over Fear? | 261025",
+    "date": "2025-10-26",
+    "send_time": "2025-10-26T09:00:00+00:00",
+    "subject": "This bag is inspired by a faithful quote...",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59684.0,
+      "opens": 15665.0,
+      "open_rate": 0.20562,
+      "clicks": 286.0,
+      "click_rate": 0.00372,
+      "bounce_rate": 0.00328
+    },
+    "channel": "email",
+    "word_count": 0
+  },
+  {
+    "id": "01K8JVJQ25G4X8G539JPGYNVKY",
+    "name": "Story | Online Scammer | 271025",
+    "date": "2025-10-27",
+    "send_time": "2025-10-27T09:00:00+00:00",
+    "subject": "She trusted us....even though she got scammed",
+    "preview_text": "And she even bought three bags",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60208.0,
+      "opens": 15913.0,
+      "open_rate": 0.20781,
+      "clicks": 180.0,
+      "click_rate": 0.00222,
+      "bounce_rate": 0.00292
+    },
+    "channel": "email",
+    "word_count": 251
+  },
+  {
+    "id": "01K8R12MAGEFHCVBSYQ3ANMV4Q",
+    "name": "Clone Story | Backpack Teaser | 291025",
+    "date": "2025-10-29",
+    "send_time": "2025-10-29T09:00:00+00:00",
+    "subject": "So… apparently I’m making backpacks now.",
+    "preview_text": "What happened next may have changed Skullette forever",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60480.0,
+      "opens": 16186.0,
+      "open_rate": 0.20535,
+      "clicks": 220.0,
+      "click_rate": 0.00309,
+      "bounce_rate": 0.00349
+    },
+    "channel": "email",
+    "word_count": 298
+  },
+  {
+    "id": "01K8WXW9WNWQGEKHZ5WQY2K4EP",
+    "name": "Story | Animal World | 311025",
+    "date": "2025-10-31",
+    "send_time": "2025-10-31T09:00:00+00:00",
+    "subject": "My design team got lost. I can’t stop them",
+    "preview_text": "Sketches everywhere. But no skulls",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60537.0,
+      "opens": 16021.0,
+      "open_rate": 0.20458,
+      "clicks": 222.0,
+      "click_rate": 0.00275,
+      "bounce_rate": 0.00344
+    },
+    "channel": "email",
+    "word_count": 309
+  },
+  {
+    "id": "01K92AQ1H1145B5CP5YY8N1A2N",
+    "name": "Story | Xmass purchase in Nov | 021125",
+    "date": "2025-11-02",
+    "send_time": "2025-11-02T09:00:00+00:00",
+    "subject": "I decided to buy a Xmas gift in Nov because...",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "Mothers Day",
+    "story_source": "Julie Personal",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60554.0,
+      "opens": 15983.0,
+      "open_rate": 0.20631,
+      "clicks": 232.0,
+      "click_rate": 0.00287,
+      "bounce_rate": 0.00294
+    },
+    "channel": "email",
+    "word_count": 286
+  },
+  {
+    "id": "01K94WCVCWR8071X6ZMEDV9SN0",
+    "name": "Story | Best Before Black Friday Teaser 1 | 031125",
+    "date": "2025-11-03",
+    "send_time": "2025-11-03T09:00:00+00:00",
+    "subject": "I’m not waiting for Black Friday. Here’s why…",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "Mothers Day",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60545.0,
+      "opens": 16020.0,
+      "open_rate": 0.2065,
+      "clicks": 150.0,
+      "click_rate": 0.00191,
+      "bounce_rate": 0.00357
+    },
+    "channel": "email",
+    "word_count": 449
+  },
+  {
+    "id": "01K97F0XR3JAAJNCX5SFY5Y04P",
+    "name": "Story | Best Before Black Friday Teaser 2 | 041125",
+    "date": "2025-11-04",
+    "send_time": "2025-11-04T09:00:00+00:00",
+    "subject": "This Sale...might get me banned from Facebook",
+    "preview_text": "This. Is. Our. BIGGGESST. SALE",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 61028.0,
+      "opens": 15364.0,
+      "open_rate": 0.19726,
+      "clicks": 160.0,
+      "click_rate": 0.00181,
+      "bounce_rate": 0.00352
+    },
+    "channel": "email",
+    "word_count": 371
+  },
+  {
+    "id": "01K9A3PWCMH7CC88RH9H88EQKV",
+    "name": "Story | Best Before Black Friday Teaser 3 | 051125",
+    "date": "2025-11-05",
+    "send_time": "2025-11-05T09:00:00+00:00",
+    "subject": "Warning: These Bags Will Never Be Restocked. Ever...Here's Why...",
+    "preview_text": "Read This If You Love Having a Skull Bag Nobody Else Has",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60858.0,
+      "opens": 15471.0,
+      "open_rate": 0.19812,
+      "clicks": 229.0,
+      "click_rate": 0.00274,
+      "bounce_rate": 0.00327
+    },
+    "channel": "email",
+    "word_count": 345
+  },
+  {
+    "id": "01K9CN6D9W9WJ66HP4D8SEXNTK",
+    "name": "Story | Best Before Black Friday Teaser 4 | 061125",
+    "date": "2025-11-06",
+    "send_time": "2025-11-06T09:00:00+00:00",
+    "subject": "🚨 ONLY. ONE. DAY. LEFT. 🚨",
+    "preview_text": "What you should do RIGHT NOW to get the biggest deal tomorrow",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60731.0,
+      "opens": 15331.0,
+      "open_rate": 0.19755,
+      "clicks": 170.0,
+      "click_rate": 0.00198,
+      "bounce_rate": 0.00303
+    },
+    "channel": "email",
+    "word_count": 568
+  },
+  {
+    "id": "01K9F9G397YK5BNV62665B45GV",
+    "name": "Story | Best Before Black Friday Day 1 Email 1 | 071125",
+    "date": "2025-11-07",
+    "send_time": "2025-11-07T16:00:00+00:00",
+    "subject": "[Announcement] The Biggest Skullette Sale is LIVE...",
+    "preview_text": "the discount code inside",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60550.0,
+      "opens": 14967.0,
+      "open_rate": 0.19467,
+      "clicks": 329.0,
+      "click_rate": 0.00416,
+      "bounce_rate": 0.00246
+    },
+    "channel": "email",
+    "word_count": 272
+  },
+  {
+    "id": "01K9FCTDECZBXV8P85G5BWC9F4",
+    "name": "Story | Best Before Black Friday Day 1 Email 2 | 071125",
+    "date": "2025-11-07",
+    "send_time": "2025-11-07T20:00:00+00:00",
+    "subject": "Why we’re doing this BEFORE Black Friday...",
+    "preview_text": "your BIGGEST discount inside...",
+    "phase": "sale",
+    "series": "Mothers Day",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60321.0,
+      "opens": 15538.0,
+      "open_rate": 0.20251,
+      "clicks": 184.0,
+      "click_rate": 0.00241,
+      "bounce_rate": 0.00235
+    },
+    "channel": "email",
+    "word_count": 303
+  },
+  {
+    "id": "01K9FSJF80DP3MATH6Y5SJZHAS",
+    "name": "SALE | Best Before Black Friday Day 1 Email 3 | 071125",
+    "date": "2025-11-08",
+    "send_time": "2025-11-08T00:00:00+00:00",
+    "subject": "your skull bag you love...almost gone.",
+    "preview_text": "And you still haven’t checked out?",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 60234.0,
+      "opens": 16028.0,
+      "open_rate": 0.20799,
+      "clicks": 330.0,
+      "click_rate": 0.00426,
+      "bounce_rate": 0.00224
+    },
+    "channel": "email",
+    "word_count": 177
+  },
+  {
+    "id": "01K9HKW7HP4BES0G1ZN3AXQBVM",
+    "name": "Story | Best Before Black Friday Day 2 Email 1 | 081125",
+    "date": "2025-11-08",
+    "send_time": "2025-11-08T15:15:00+00:00",
+    "subject": "Shop Risk-Free with Our Free Returns!",
+    "preview_text": "and 50% off discount inside",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59982.0,
+      "opens": 14949.0,
+      "open_rate": 0.19692,
+      "clicks": 142.0,
+      "click_rate": 0.0017,
+      "bounce_rate": 0.00218
+    },
+    "channel": "email",
+    "word_count": 355
+  },
+  {
+    "id": "01K9J86H69H0SB6CZZQ2GNEX2G",
+    "name": "SALE | Best Before Black Friday Day 2 Email 3 | 081125",
+    "date": "2025-11-09",
+    "send_time": "2025-11-09T00:00:00+00:00",
+    "subject": "Mini but Mighty... what people say about our mini...",
+    "preview_text": "and we are closing today soon...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59890.0,
+      "opens": 15968.0,
+      "open_rate": 0.20924,
+      "clicks": 199.0,
+      "click_rate": 0.00259,
+      "bounce_rate": 0.00187
+    },
+    "channel": "email",
+    "word_count": 319
+  },
+  {
+    "id": "01K9M7P4Z0D0W89KZRD7AJ73K1",
+    "name": "SALE | Best Before Black Friday Day 3 Email 1 | 091125",
+    "date": "2025-11-09",
+    "send_time": "2025-11-09T14:00:00+00:00",
+    "subject": "[⏰15h left] “Thank you for taking my money” (yes she really said that 🤣)",
+    "preview_text": "50% off discount inside",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "urgency",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59786.0,
+      "opens": 15212.0,
+      "open_rate": 0.2013,
+      "clicks": 167.0,
+      "click_rate": 0.00204,
+      "bounce_rate": 0.00192
+    },
+    "channel": "email",
+    "word_count": 467
+  },
+  {
+    "id": "01K9MNQWMCY4ZC3FFANHRE8HJT",
+    "name": "SALE | Best Before Black Friday Day 3 Email 2 | 091125",
+    "date": "2025-11-09",
+    "send_time": "2025-11-09T18:00:00+00:00",
+    "subject": "[⏰11h left] “Should I wait for Black Friday?” (Hint: NO)",
+    "preview_text": "Your Favorite’s On the Edge",
+    "phase": "sale",
+    "series": "Mothers Day",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "urgency",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 59710.0,
+      "opens": 15430.0,
+      "open_rate": 0.20274,
+      "clicks": 119.0,
+      "click_rate": 0.00166,
+      "bounce_rate": 0.00234
+    },
+    "channel": "email",
+    "word_count": 496
+  },
+  {
+    "id": "01K9MPCZTK50KXN8EMN1S2G1ZW",
+    "name": "SALE | Best Before Black Friday Day 3 Email 3 | 091125",
+    "date": "2025-11-09",
+    "send_time": "2025-11-09T22:00:00+00:00",
+    "subject": "LAST CALL: Our BIGGGEST SALE Is Ending...",
+    "preview_text": "just few slots",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "urgency",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 59610.0,
+      "opens": 15456.0,
+      "open_rate": 0.2034,
+      "clicks": 206.0,
+      "click_rate": 0.00257,
+      "bounce_rate": 0.00163
+    },
+    "channel": "email",
+    "word_count": 317
+  },
+  {
+    "id": "01K9PWPBJRE4Q9KHP66FB98C1F",
+    "name": "Story | Small Gift After BBFD | 101125",
+    "date": "2025-11-10",
+    "send_time": "2025-11-10T09:00:00+00:00",
+    "subject": "WE REACHED UNBELIEVABLE MILESTONE THIS SEASON",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59669.0,
+      "opens": 15917.0,
+      "open_rate": 0.20773,
+      "clicks": 377.0,
+      "click_rate": 0.00488,
+      "bounce_rate": 0.00161
+    },
+    "channel": "email",
+    "word_count": 395
+  },
+  {
+    "id": "01K9SK5H6EH10VZZ6YHSFQ1WQR",
+    "name": "Story | Most Questions These Days | 111125",
+    "date": "2025-11-11",
+    "send_time": "2025-11-11T09:00:00+00:00",
+    "subject": "Confession: Amazon ruined me (until Skullette fixed me)",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 59072.0,
+      "opens": 15309.0,
+      "open_rate": 0.20308,
+      "clicks": 141.0,
+      "click_rate": 0.002,
+      "bounce_rate": 0.00188
+    },
+    "channel": "email",
+    "word_count": 339
+  },
+  {
+    "id": "01K9WE5Y4KSC03WM6PCGPSA1EM",
+    "name": "Story | Failed Saleperson | 121125",
+    "date": "2025-11-12",
+    "send_time": "2025-11-12T16:49:01.979735+00:00",
+    "subject": "This feedback makes me think about splitting Skullette in half...",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58757.0,
+      "opens": 14974.0,
+      "open_rate": 0.199,
+      "clicks": 220.0,
+      "click_rate": 0.0024,
+      "bounce_rate": 0.00184
+    },
+    "channel": "email",
+    "word_count": 344
+  },
+  {
+    "id": "01K9Z1Q5W2GKGZ1X42NRMSRBXB",
+    "name": "Story | STOP EMAIL ME | 131125",
+    "date": "2025-11-13",
+    "send_time": "2025-11-13T16:55:59.885606+00:00",
+    "subject": "“STOP EMAILING ME!!!” (that’s literally what she said 😏)",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58710.0,
+      "opens": 16195.0,
+      "open_rate": 0.21391,
+      "clicks": 204.0,
+      "click_rate": 0.0026,
+      "bounce_rate": 0.00238
+    },
+    "channel": "email",
+    "word_count": 312
+  },
+  {
+    "id": "01KA1GMF28XXQMWYVRF9QY7EAA",
+    "name": "Story | LUCKIEST SKULLETTE CUSTOMER | 141125",
+    "date": "2025-11-14",
+    "send_time": "2025-11-14T09:00:00+00:00",
+    "subject": "ANNOUNCEMENT: I FOUND THE LUCKIEST SKULLETTE CUSTOMER 😤🖤",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58047.0,
+      "opens": 16043.0,
+      "open_rate": 0.21208,
+      "clicks": 188.0,
+      "click_rate": 0.00247,
+      "bounce_rate": 0.00233
+    },
+    "channel": "email",
+    "word_count": 680
+  },
+  {
+    "id": "01KA3W1PKWVA6KC1JDV1E11REM",
+    "name": "Story | Price too low | 151125",
+    "date": "2025-11-15",
+    "send_time": "2025-11-15T09:00:00+00:00",
+    "subject": "The $899 choker… and my “too cheap” skull bag 😤🖤",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 58398.0,
+      "opens": 15823.0,
+      "open_rate": 0.21057,
+      "clicks": 178.0,
+      "click_rate": 0.00228,
+      "bounce_rate": 0.00269
+    },
+    "channel": "email",
+    "word_count": 631
+  },
+  {
+    "id": "01KA6K735A179NQ8XB8HFRWKNQ",
+    "name": "Story | My wildest dream | 161125",
+    "date": "2025-11-16",
+    "send_time": "2025-11-16T09:00:00+00:00",
+    "subject": "YOU’RE INVITED TO SKULLETTE’S GRAND OPENING OF OUR FIRST STORE.",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 0,
+      "opens": 0,
+      "open_rate": 0,
+      "clicks": 0,
+      "click_rate": 0,
+      "bounce_rate": 0
+    },
+    "channel": "email",
+    "word_count": 510
+  },
+  {
+    "id": "01KA976DEX8WTN6KJN9WC4YR8F",
+    "name": "Story | Skull at Church | 171125",
+    "date": "2025-11-17",
+    "send_time": "2025-11-17T09:00:00+00:00",
+    "subject": "She Took Her Skull Bag To CHURCH…",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 57353.0,
+      "opens": 15520.0,
+      "open_rate": 0.21144,
+      "clicks": 134.0,
+      "click_rate": 0.00159,
+      "bounce_rate": 0.00213
+    },
+    "channel": "email",
+    "word_count": 292
+  },
+  {
+    "id": "01KABF5BZN4GVXX262SK9V0K5A",
+    "name": "Story | Bloodrose Tattoo | 181125",
+    "date": "2025-11-18",
+    "send_time": "2025-11-18T09:00:00+00:00",
+    "subject": "Wait… she gets a tattoo because of my bag???",
+    "preview_text": "",
+    "phase": "post",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 56824.0,
+      "opens": 15820.0,
+      "open_rate": 0.2167,
+      "clicks": 138.0,
+      "click_rate": 0.00176,
+      "bounce_rate": 0.00232
+    },
+    "channel": "email",
+    "word_count": 438
+  },
+  {
+    "id": "01KAEDPB1AY397EFA1RXP4NTYH",
+    "name": "Story | Sunday is Fashion Week | 191125",
+    "date": "2025-11-19",
+    "send_time": "2025-11-19T09:00:00+00:00",
+    "subject": "“My whole church knows my skull collection”",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 56579.0,
+      "opens": 15277.0,
+      "open_rate": 0.21109,
+      "clicks": 146.0,
+      "click_rate": 0.00172,
+      "bounce_rate": 0.00228
+    },
+    "channel": "email",
+    "word_count": 429
+  },
+  {
+    "id": "01KAGCBA86TQT9GMD5CQ77H6VC",
+    "name": "Story | Teasing Black Friday | 201125",
+    "date": "2025-11-20",
+    "send_time": "2025-11-20T09:00:00+00:00",
+    "subject": "I NEED YOUR HELP...to plan the CRAZIEST BLACK FRIDAY ever",
+    "preview_text": "I list out the ideas. You get to pick",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 56086.0,
+      "opens": 15788.0,
+      "open_rate": 0.21737,
+      "clicks": 187.0,
+      "click_rate": 0.00272,
+      "bounce_rate": 0.00273
+    },
+    "channel": "email",
+    "word_count": 478
+  },
+  {
+    "id": "01KAK100XKBHAQGNEMNEZ35X3P",
+    "name": "Story | Black Friday Refund Teaser | 211125",
+    "date": "2025-11-21",
+    "send_time": "2025-11-21T09:00:00+00:00",
+    "subject": "What if your Black Friday bag… cost $0? 👀",
+    "preview_text": "Really blew up my Black Friday",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 55670.0,
+      "opens": 15265.0,
+      "open_rate": 0.21349,
+      "clicks": 135.0,
+      "click_rate": 0.00187,
+      "bounce_rate": 0.00313
+    },
+    "channel": "email",
+    "word_count": 433
+  },
+  {
+    "id": "01KAP1S58B0P4G5AHMZNEHXJQY",
+    "name": "Story | Black Friday 1st Deal Teaser | 221125",
+    "date": "2025-11-22",
+    "send_time": "2025-11-22T09:00:00+00:00",
+    "subject": "She asked for the wildest Black Friday deal. I… agreed.",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 55177.0,
+      "opens": 15322.0,
+      "open_rate": 0.21508,
+      "clicks": 112.0,
+      "click_rate": 0.00144,
+      "bounce_rate": 0.00306
+    },
+    "channel": "email",
+    "word_count": 666
+  },
+  {
+    "id": "01KARF65HQ6XYDK8MKBCH29G58",
+    "name": "Story | Black Friday Madness Hunger Game | 231125",
+    "date": "2025-11-23",
+    "send_time": "2025-11-23T09:00:00+00:00",
+    "subject": "We turned Black Friday into the Hunger Games 💀",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54677.0,
+      "opens": 14989.0,
+      "open_rate": 0.21386,
+      "clicks": 51.0,
+      "click_rate": 0.00072,
+      "bounce_rate": 0.00302
+    },
+    "channel": "email",
+    "word_count": 757
+  },
+  {
+    "id": "01KAVGDSRT1P6Q5NA07A7CTYCB",
+    "name": "Story | Black Friday PRIVATE ONLY | 241125",
+    "date": "2025-11-24",
+    "send_time": "2025-11-24T18:12:22.623048+00:00",
+    "subject": "WARNING: “Normal” Black Friday is cancelled",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54094.0,
+      "opens": 15080.0,
+      "open_rate": 0.21797,
+      "clicks": 84.0,
+      "click_rate": 0.00113,
+      "bounce_rate": 0.00294
+    },
+    "channel": "email",
+    "word_count": 589
+  },
+  {
+    "id": "01KAY2T9K9TQ0A22EC60E1CZKG",
+    "name": "Story | Black Friday Madness JOIN LIST REMINDER | 251125",
+    "date": "2025-11-25",
+    "send_time": "2025-11-25T18:14:56.846483+00:00",
+    "subject": "48 hours till Madness: are you in the game?",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 53652.0,
+      "opens": 14726.0,
+      "open_rate": 0.21778,
+      "clicks": 63.0,
+      "click_rate": 0.0009,
+      "bounce_rate": 0.00287
+    },
+    "channel": "email",
+    "word_count": 398
+  },
+  {
+    "id": "01KB06GSWCHRVAS4TAD3W78EB4",
+    "name": "Story | Black Friday Madness LAST TEASER | 261125",
+    "date": "2025-11-26",
+    "send_time": "2025-11-26T09:00:00+00:00",
+    "subject": "Tomorrow: The MEGA-SUPER-FUN Game for Skullette bags begins…",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "Mothers Day",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 53067.0,
+      "opens": 14599.0,
+      "open_rate": 0.21981,
+      "clicks": 46.0,
+      "click_rate": 0.00066,
+      "bounce_rate": 0.00307
+    },
+    "channel": "email",
+    "word_count": 531
+  },
+  {
+    "id": "01KB2H30KFC4V7HRKS8A9ZSZK2",
+    "name": "SALE | Black Friday Madness Day 1 Email 1 | 271125",
+    "date": "2025-11-27",
+    "send_time": "2025-11-27T14:00:00+00:00",
+    "subject": "You asked for CRAZYYYYY. It starts at 10AM ET",
+    "preview_text": "Biggest deals. First game. 1 hour. LET’S GO.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Julie Personal",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52483.0,
+      "opens": 15083.0,
+      "open_rate": 0.22856,
+      "clicks": 130.0,
+      "click_rate": 0.00197,
+      "bounce_rate": 0.00354
+    },
+    "channel": "email",
+    "word_count": 376
+  },
+  {
+    "id": "01KB2W5E036M0F89AJJXMWZ887",
+    "name": "SALE | Black Friday Madness Day 1 Email 2 | 271125",
+    "date": "2025-11-27",
+    "send_time": "2025-11-27T19:00:00+00:00",
+    "subject": "SECOND CHAOS: Your bestseller is about to drop",
+    "preview_text": "One more hour, then sprinnnnt for your bag",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 53139.0,
+      "opens": 15565.0,
+      "open_rate": 0.23209,
+      "clicks": 135.0,
+      "click_rate": 0.00157,
+      "bounce_rate": 0.0035
+    },
+    "channel": "email",
+    "word_count": 345
+  },
+  {
+    "id": "01KB56K266KK5V8N3TXW8594J8",
+    "name": "SALE | Black Friday Madness Day 2 Email 1 | 281125",
+    "date": "2025-11-28",
+    "send_time": "2025-11-28T14:38:24.425884+00:00",
+    "subject": "Fast cool-girls got 80% off. You next?",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 52648.0,
+      "opens": 14979.0,
+      "open_rate": 0.2267,
+      "clicks": 140.0,
+      "click_rate": 0.00207,
+      "bounce_rate": 0.00731
+    },
+    "channel": "email",
+    "word_count": 214
+  },
+  {
+    "id": "01KB5J40TSGX43VJQYYM73W68M",
+    "name": "SALE | Black Friday Madness Day 2 Email 2 | 281125",
+    "date": "2025-11-28",
+    "send_time": "2025-11-28T21:49:16.392479+00:00",
+    "subject": "A Bag just broke the rules of Black Friday",
+    "preview_text": "It’s here. It’s glorious. It’s on your back.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52714.0,
+      "opens": 15786.0,
+      "open_rate": 0.23776,
+      "clicks": 184.0,
+      "click_rate": 0.00259,
+      "bounce_rate": 0.00402
+    },
+    "channel": "email",
+    "word_count": 277
+  },
+  {
+    "id": "01KB7VE0JKG32RZQMMSPJD7ATV",
+    "name": "SALE | Black Friday Madness Day 3 Email 1 | 291125",
+    "date": "2025-11-29",
+    "send_time": "2025-11-29T14:10:53.755783+00:00",
+    "subject": "We FIXED the errors. Backpacks are LIVE soonnnn",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52089.0,
+      "opens": 15220.0,
+      "open_rate": 0.23245,
+      "clicks": 139.0,
+      "click_rate": 0.00198,
+      "bounce_rate": 0.0038
+    },
+    "channel": "email",
+    "word_count": 339
+  },
+  {
+    "id": "01KB8F8YTHNQN8GD5RAX6BAD76",
+    "name": "SALE | Black Friday Madness Day 3 Email 2 | 291125",
+    "date": "2025-11-29",
+    "send_time": "2025-11-29T22:06:39.156941+00:00",
+    "subject": "🏆 Who will be the Baddest Queen Miners?",
+    "preview_text": "Deep discounts are hiding… but only for the quickest hunters.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 52330.0,
+      "opens": 15584.0,
+      "open_rate": 0.23654,
+      "clicks": 95.0,
+      "click_rate": 0.0014,
+      "bounce_rate": 0.00342
+    },
+    "channel": "email",
+    "word_count": 252
+  },
+  {
+    "id": "01KBAJ9HNBTXX34QN321KMRREF",
+    "name": "SALE | Black Friday Madness Day 4 Email 1 | 301125",
+    "date": "2025-11-30",
+    "send_time": "2025-11-30T15:43:49.259629+00:00",
+    "subject": "LUCKY DRAW DAY: your cart could cost $0.00",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51900.0,
+      "opens": 15009.0,
+      "open_rate": 0.23183,
+      "clicks": 100.0,
+      "click_rate": 0.00145,
+      "bounce_rate": 0.00326
+    },
+    "channel": "email",
+    "word_count": 325
+  },
+  {
+    "id": "01KBBD951T9PF4CCB11XY3RVKV",
+    "name": "SALE | Black Friday Madness Day 4 Email 2 | 301125",
+    "date": "2025-11-30",
+    "send_time": "2025-11-30T22:20:47.376012+00:00",
+    "subject": "Last night of Madness… you in or out?",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51935.0,
+      "opens": 15155.0,
+      "open_rate": 0.23331,
+      "clicks": 67.0,
+      "click_rate": 0.00083,
+      "bounce_rate": 0.00312
+    },
+    "channel": "email",
+    "word_count": 313
+  },
+  {
+    "id": "01KBCYPV1TQT7F66BAJZWH3WK7",
+    "name": "SALE | CYBER MONDAY | 011225",
+    "date": "2025-12-01",
+    "send_time": "2025-12-01T19:55:15.689526+00:00",
+    "subject": "[ANNOUNCEMENT] OUR CYBER MONDAY SALE IS LIVE",
+    "preview_text": "Jump in early for the bigger offers",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51263.0,
+      "opens": 14640.0,
+      "open_rate": 0.22812,
+      "clicks": 214.0,
+      "click_rate": 0.00338,
+      "bounce_rate": 0.00285
+    },
+    "channel": "email",
+    "word_count": 179
+  },
+  {
+    "id": "01KBE8X83VJ3WMEY7Y403KE37M",
+    "name": "SALE | CYBER MONDAY UPDATE  | 011225",
+    "date": "2025-12-02",
+    "send_time": "2025-12-02T00:59:06.384319+00:00",
+    "subject": "Ummm… your discount is SLIPPING away 😅",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51232.0,
+      "opens": 15863.0,
+      "open_rate": 0.24589,
+      "clicks": 186.0,
+      "click_rate": 0.00274,
+      "bounce_rate": 0.00281
+    },
+    "channel": "email",
+    "word_count": 84
+  },
+  {
+    "id": "01KBEB5KY1H8KK9PXGSKFMJDSC",
+    "name": "SALE | CYBER MONDAY UPDATE 2 | 011225",
+    "date": "2025-12-02",
+    "send_time": "2025-12-02T02:00:00+00:00",
+    "subject": "We are in the DANGER ZONE now",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "Mothers Day",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51214.0,
+      "opens": 15876.0,
+      "open_rate": 0.24607,
+      "clicks": 102.0,
+      "click_rate": 0.00172,
+      "bounce_rate": 0.00279
+    },
+    "channel": "email",
+    "word_count": 59
+  },
+  {
+    "id": "01KBECEW04E6J74QKZECVXM586",
+    "name": "SALE | CYBER MONDAY UPDATE 3 | 011225",
+    "date": "2025-12-02",
+    "send_time": "2025-12-02T03:15:00+00:00",
+    "subject": "[LAST CALL] I'M ABOUT TO CLOSE THE SALE",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51167.0,
+      "opens": 15256.0,
+      "open_rate": 0.23692,
+      "clicks": 221.0,
+      "click_rate": 0.00353,
+      "bounce_rate": 0.0026
+    },
+    "channel": "email",
+    "word_count": 36
+  },
+  {
+    "id": "01KBFQY92QWEWPBBFM2WDEG1BP",
+    "name": "STORY | SECRET SANTA TEASER 1 | 021225",
+    "date": "2025-12-02",
+    "send_time": "2025-12-02T09:00:00+00:00",
+    "subject": "Ho-ho-HOLD UP… Read this if you like surprise gifts",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "Mothers Day",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 50449.0,
+      "opens": 14964.0,
+      "open_rate": 0.23533,
+      "clicks": 60.0,
+      "click_rate": 0.00085,
+      "bounce_rate": 0.00295
+    },
+    "channel": "email",
+    "word_count": 227
+  },
+  {
+    "id": "01KBJ6N2BMJ94ER3ZYJA80DSNF",
+    "name": "STORY | SECRET SANTA TEASER 2 | 031225",
+    "date": "2025-12-03",
+    "send_time": "2025-12-03T15:46:16.160022+00:00",
+    "subject": "I NEED YOUR HELP...",
+    "preview_text": "I NEED MORE IDEAS FROM YOU…",
+    "phase": "teaser",
+    "series": "Mothers Day",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49973.0,
+      "opens": 15741.0,
+      "open_rate": 0.24865,
+      "clicks": 112.0,
+      "click_rate": 0.00177,
+      "bounce_rate": 0.00232
+    },
+    "channel": "email",
+    "word_count": 358
+  },
+  {
+    "id": "01KBMPJBA540MZ65K5N2E5M4VZ",
+    "name": "STORY | SECRET SANTA TEASER 3 | 041225",
+    "date": "2025-12-04",
+    "send_time": "2025-12-04T09:00:00+00:00",
+    "subject": "3 Ways To Get A FREE Skullette Gift...",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49735.0,
+      "opens": 14984.0,
+      "open_rate": 0.24045,
+      "clicks": 135.0,
+      "click_rate": 0.00189,
+      "bounce_rate": 0.00207
+    },
+    "channel": "email",
+    "word_count": 385
+  },
+  {
+    "id": "01KBQMTD3HZCK9P1JHVVSDZ1Y3",
+    "name": "STORY | SECRET SANTA TEASER 4 | 051225",
+    "date": "2025-12-05",
+    "send_time": "2025-12-05T09:00:00+00:00",
+    "subject": "Pssst… First Secret Santa Gift Drops Tomorrow 👀",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "Mothers Day",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49574.0,
+      "opens": 14990.0,
+      "open_rate": 0.24139,
+      "clicks": 68.0,
+      "click_rate": 0.00101,
+      "bounce_rate": 0.00198
+    },
+    "channel": "email",
+    "word_count": 328
+  },
+  {
+    "id": "01KBSPQPJAC4393G7RYZRNYY4C",
+    "name": "SALE | SECRET SANTA Day 1 Email 1 | 061225",
+    "date": "2025-12-06",
+    "send_time": "2025-12-06T14:00:00+00:00",
+    "subject": "Get Ready! Secret Santa Week Kicks Off Soon",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49386.0,
+      "opens": 15228.0,
+      "open_rate": 0.24716,
+      "clicks": 86.0,
+      "click_rate": 0.00112,
+      "bounce_rate": 0.00239
+    },
+    "channel": "email",
+    "word_count": 262
+  },
+  {
+    "id": "01KBTBQAZRGNK5Y8Y578BA2XAC",
+    "name": "SALE | SECRET SANTA Day 1 Email 2 | 061225",
+    "date": "2025-12-06",
+    "send_time": "2025-12-06T19:00:00+00:00",
+    "subject": "uh oh! our SECRET SANTA GIFT #1 is so HOTTT...",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49401.0,
+      "opens": 15300.0,
+      "open_rate": 0.24855,
+      "clicks": 96.0,
+      "click_rate": 0.0014,
+      "bounce_rate": 0.00249
+    },
+    "channel": "email",
+    "word_count": 275
+  },
+  {
+    "id": "01KBWG67SWM24BD9DTNPB41ZDZ",
+    "name": "SALE | SECRET SANTA Day 2 Email 1 | 071225",
+    "date": "2025-12-07",
+    "send_time": "2025-12-07T14:00:00+00:00",
+    "subject": "The bag everyone loves… now as a FREE GIFT?!",
+    "preview_text": "If you like BIG bonuses… open this one",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49171.0,
+      "opens": 14969.0,
+      "open_rate": 0.24456,
+      "clicks": 77.0,
+      "click_rate": 0.00092,
+      "bounce_rate": 0.00209
+    },
+    "channel": "email",
+    "word_count": 326
+  },
+  {
+    "id": "01KBWWT9MV0Y2P7R1EA5YXPQKY",
+    "name": "SALE | SECRET SANTA Day 2 Email 2 | 071225",
+    "date": "2025-12-07",
+    "send_time": "2025-12-07T19:00:00+00:00",
+    "subject": "BREAKING: You can get… a FREE Leather Handbag Today",
+    "preview_text": "This ONLY happens today",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "mystery_statement",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49213.0,
+      "opens": 15888.0,
+      "open_rate": 0.25975,
+      "clicks": 99.0,
+      "click_rate": 0.00151,
+      "bounce_rate": 0.00221
+    },
+    "channel": "email",
+    "word_count": 291
+  },
+  {
+    "id": "01KBZ4F4Z3MTC0ESA4A55JDWBD",
+    "name": "SALE | SECRET SANTA Day 3 Email 1 | 081225",
+    "date": "2025-12-08",
+    "send_time": "2025-12-08T15:05:08.910235+00:00",
+    "subject": "ALERT: Today’s Deal Is For #1 Our Most-Proud Bags",
+    "preview_text": "And yes, you’re getting 2 free gifts too...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49089.0,
+      "opens": 14798.0,
+      "open_rate": 0.24301,
+      "clicks": 85.0,
+      "click_rate": 0.00118,
+      "bounce_rate": 0.00228
+    },
+    "channel": "email",
+    "word_count": 285
+  },
+  {
+    "id": "01KBZHEGZRCKFVX2VRQ2830XR6",
+    "name": "SALE | SECRET SANTA Day 3 Email 2 | 081225",
+    "date": "2025-12-08",
+    "send_time": "2025-12-08T19:00:00+00:00",
+    "subject": "Real Talk: Today’s Gift Is Disappearing QUICK",
+    "preview_text": "But bonuses left and mystery gifts are even crazier 👀",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49057.0,
+      "opens": 15608.0,
+      "open_rate": 0.25501,
+      "clicks": 81.0,
+      "click_rate": 0.00123,
+      "bounce_rate": 0.00169
+    },
+    "channel": "email",
+    "word_count": 250
+  },
+  {
+    "id": "01KC1VYAEKJGS9K9R1WPMGBJ5P",
+    "name": "SALE | SECRET SANTA Day 4 Email 1 | 091225",
+    "date": "2025-12-09",
+    "send_time": "2025-12-09T15:39:21.294674+00:00",
+    "subject": "Today’s Secret Santa gift: TOTE DAY.",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49104.0,
+      "opens": 14794.0,
+      "open_rate": 0.24382,
+      "clicks": 69.0,
+      "click_rate": 0.00104,
+      "bounce_rate": 0.00187
+    },
+    "channel": "email",
+    "word_count": 417
+  },
+  {
+    "id": "01KC23YP89DQCAMTJY33CM8HNE",
+    "name": "SALE | SECRET SANTA Day 4 Email 2 | 091225",
+    "date": "2025-12-09",
+    "send_time": "2025-12-09T19:30:00+00:00",
+    "subject": "Tote update: my biggest bonus is gone (but not all of it)",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49068.0,
+      "opens": 15068.0,
+      "open_rate": 0.24718,
+      "clicks": 99.0,
+      "click_rate": 0.00143,
+      "bounce_rate": 0.00169
+    },
+    "channel": "email",
+    "word_count": 284
+  },
+  {
+    "id": "01KC477CZEW9QJ1YNNKYNQM7VX",
+    "name": "SALE | SECRET SANTA Day 5 Email 1 | 101225",
+    "date": "2025-12-10",
+    "send_time": "2025-12-10T14:16:00.796860+00:00",
+    "subject": "SSW - DAY #5: BUY ONE, GET FOUR",
+    "preview_text": "ONLY today.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49113.0,
+      "opens": 14792.0,
+      "open_rate": 0.24419,
+      "clicks": 119.0,
+      "click_rate": 0.00171,
+      "bounce_rate": 0.00224
+    },
+    "channel": "email",
+    "word_count": 271
+  },
+  {
+    "id": "01KC4N85PWGHMNWKJWD8MBR200",
+    "name": "SALE | SECRET SANTA Day 5 Email 2 | 101225",
+    "date": "2025-12-10",
+    "send_time": "2025-12-10T19:15:00+00:00",
+    "subject": "Your Exclusive Backpack Update 🚀",
+    "preview_text": "Ends at midnight today",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "mystery_statement",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49114.0,
+      "opens": 15310.0,
+      "open_rate": 0.25156,
+      "clicks": 131.0,
+      "click_rate": 0.0019,
+      "bounce_rate": 0.00202
+    },
+    "channel": "email",
+    "word_count": 270
+  },
+  {
+    "id": "01KC6WGPGFZR5NYE46PPA5JVGE",
+    "name": "SALE | SECRET SANTA Day 6 Email 1 | 111225",
+    "date": "2025-12-11",
+    "send_time": "2025-12-11T15:11:27.108814+00:00",
+    "subject": "SSW #6: Buy 1 → Get 4 goodies.",
+    "preview_text": "Only Today and only 200 slots",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49197.0,
+      "opens": 14828.0,
+      "open_rate": 0.24419,
+      "clicks": 117.0,
+      "click_rate": 0.00157,
+      "bounce_rate": 0.00236
+    },
+    "channel": "email",
+    "word_count": 282
+  },
+  {
+    "id": "01KC793RSX9SJHF32SJKD5KT12",
+    "name": "SALE | SECRET SANTA Day 6 Email 2 | 111225",
+    "date": "2025-12-11",
+    "send_time": "2025-12-11T20:00:00+00:00",
+    "subject": "ALERT: We're Close To The Final Gift Box...",
+    "preview_text": "And once it's gone, that's it.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49203.0,
+      "opens": 14154.0,
+      "open_rate": 0.23379,
+      "clicks": 79.0,
+      "click_rate": 0.0011,
+      "bounce_rate": 0.00228
+    },
+    "channel": "email",
+    "word_count": 265
+  },
+  {
+    "id": "01KC9J0XB7018X30E16VYSBKAZ",
+    "name": "SALE | SECRET SANTA Day 7 Email 1 | 121225",
+    "date": "2025-12-12",
+    "send_time": "2025-12-12T15:42:50.257145+00:00",
+    "subject": "Pssst...Final Secret Santa Gift is LIVE (public link inside)",
+    "preview_text": "Up to 40% OFF + 2 FREE gifts… for EVERYONE",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "mystery_statement",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49286.0,
+      "opens": 14157.0,
+      "open_rate": 0.23368,
+      "clicks": 138.0,
+      "click_rate": 0.00201,
+      "bounce_rate": 0.00203
+    },
+    "channel": "email",
+    "word_count": 250
+  },
+  {
+    "id": "01KC9RYNQGR5C33KA5KGMQ3N13",
+    "name": "SALE | SECRET SANTA Day 7 Email 2 | 121225",
+    "date": "2025-12-12",
+    "send_time": "2025-12-12T17:20:29.000425+00:00",
+    "subject": "These 40% OFF slots are vanishing fast",
+    "preview_text": "Up to 40% OFF + 2 FREE gifts… for EVERYONE",
+    "phase": "sale",
+    "series": "Mothers Day",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49272.0,
+      "opens": 15558.0,
+      "open_rate": 0.25529,
+      "clicks": 133.0,
+      "click_rate": 0.00195,
+      "bounce_rate": 0.00197
+    },
+    "channel": "email",
+    "word_count": 244
+  },
+  {
+    "id": "01KC9Y7DCCAX959D3Z2KERV2F4",
+    "name": "SALE | SECRET SANTA Day 7 Email 3 | 121225",
+    "date": "2025-12-12",
+    "send_time": "2025-12-12T22:21:00.019527+00:00",
+    "subject": "Uh Oh! Your SECRETSANTA Discount is Slipping Away!",
+    "preview_text": "Come in while 30% OFF still here",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49278.0,
+      "opens": 15483.0,
+      "open_rate": 0.25393,
+      "clicks": 166.0,
+      "click_rate": 0.00232,
+      "bounce_rate": 0.00201
+    },
+    "channel": "email",
+    "word_count": 302
+  },
+  {
+    "id": "01KCACY3ZHD5C4R9ACE4R58BD2",
+    "name": "SALE | SECRET SANTA Day 7 Email 4 | 121225",
+    "date": "2025-12-13",
+    "send_time": "2025-12-13T00:30:00+00:00",
+    "subject": "In a few hours… this deal is dead 🖤",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "Mothers Day",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49261.0,
+      "opens": 15541.0,
+      "open_rate": 0.25573,
+      "clicks": 108.0,
+      "click_rate": 0.00177,
+      "bounce_rate": 0.00181
+    },
+    "channel": "email",
+    "word_count": 119
+  },
+  {
+    "id": "01KCC8VEE8SQKJCYT3FXB3CP5X",
+    "name": "STORY | XMAS GIFT FREE SHIPPING | 131225",
+    "date": "2025-12-13",
+    "send_time": "2025-12-13T16:36:39.717445+00:00",
+    "subject": "Free Shipping for Xmas gifts? YES.",
+    "preview_text": "",
+    "phase": "post",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "mystery_statement",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49325.0,
+      "opens": 15288.0,
+      "open_rate": 0.25098,
+      "clicks": 68.0,
+      "click_rate": 0.00102,
+      "bounce_rate": 0.00182
+    },
+    "channel": "email",
+    "word_count": 310
+  },
+  {
+    "id": "01KCENTJCJA483NCN542NB7DF5",
+    "name": "SALE | XMAS GIFT FREE SHIPPING Email #1 | 141225",
+    "date": "2025-12-14",
+    "send_time": "2025-12-14T15:30:00+00:00",
+    "subject": "It's LIVE: 35% Off + Free Express Shipping (first 100 only)",
+    "preview_text": "Click to reveal your codes (before it drops)",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49486.0,
+      "opens": 14492.0,
+      "open_rate": 0.23894,
+      "clicks": 101.0,
+      "click_rate": 0.00162,
+      "bounce_rate": 0.00164
+    },
+    "channel": "email",
+    "word_count": 209
+  },
+  {
+    "id": "01KCEYF4T402HYCM5G75FFNNTN",
+    "name": "SALE | XMAS GIFT FREE SHIPPING Email #2 | 141225",
+    "date": "2025-12-14",
+    "send_time": "2025-12-14T23:00:00+00:00",
+    "subject": "Less than 50 spots left: 35% OFF + FREE XMAS Shipping",
+    "preview_text": "Click to reveal your codes (before it drops)",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49464.0,
+      "opens": 15314.0,
+      "open_rate": 0.2516,
+      "clicks": 91.0,
+      "click_rate": 0.00122,
+      "bounce_rate": 0.00202
+    },
+    "channel": "email",
+    "word_count": 151
+  },
+  {
+    "id": "01KCH1CG5FJTK10B8Y4QX0KXW0",
+    "name": "SALE | XMAS GIFT FREE SHIPPING Day 2 Email #1 | 151225",
+    "date": "2025-12-15",
+    "send_time": "2025-12-15T14:00:00+00:00",
+    "subject": "Merry Christmas to me!",
+    "preview_text": "get your Free Shipping & extra 30% off here...",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49573.0,
+      "opens": 14896.0,
+      "open_rate": 0.24395,
+      "clicks": 134.0,
+      "click_rate": 0.00206,
+      "bounce_rate": 0.00208
+    },
+    "channel": "email",
+    "word_count": 292
+  },
+  {
+    "id": "01KCHGPXQKTMQ6V64JYT1K34AC",
+    "name": "SALE | XMAS GIFT FREE SHIPPING Day 2 Email #2 | 151225",
+    "date": "2025-12-15",
+    "send_time": "2025-12-15T23:00:00+00:00",
+    "subject": "Sorry… but what if your Christmas gift arrives late?",
+    "preview_text": "The fast way to fix this",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49544.0,
+      "opens": 14986.0,
+      "open_rate": 0.24717,
+      "clicks": 106.0,
+      "click_rate": 0.00115,
+      "bounce_rate": 0.0021
+    },
+    "channel": "email",
+    "word_count": 280
+  },
+  {
+    "id": "01KCKE5XPWF9CTMGTFPAYXAVNN",
+    "name": "SALE | XMAS GIFT FREE SHIPPING Day 3 Email #1 | 161225",
+    "date": "2025-12-16",
+    "send_time": "2025-12-16T14:00:00+00:00",
+    "subject": "FINAL DAY: Free Christmas Shipping",
+    "preview_text": "plus last chance to get extra 30% OFF",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49610.0,
+      "opens": 13996.0,
+      "open_rate": 0.22927,
+      "clicks": 64.0,
+      "click_rate": 0.00101,
+      "bounce_rate": 0.00202
+    },
+    "channel": "email",
+    "word_count": 252
+  },
+  {
+    "id": "01KCKMZ87J97K1ZS91N0QSGV49",
+    "name": "SALE | XMAS GIFT FREE SHIPPING Day 3 Email #2 | 161225",
+    "date": "2025-12-16",
+    "send_time": "2025-12-16T19:00:00+00:00",
+    "subject": "Urgent: Less than 10 codes left for 30% OFF",
+    "preview_text": "Plus free shipping - guaranteed before Christmas",
+    "phase": "sale",
+    "series": "Mothers Day",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49586.0,
+      "opens": 14351.0,
+      "open_rate": 0.23609,
+      "clicks": 61.0,
+      "click_rate": 0.00093,
+      "bounce_rate": 0.00238
+    },
+    "channel": "email",
+    "word_count": 180
+  },
+  {
+    "id": "01KCM0WSA6SQM4GB8GETCRYGM3",
+    "name": "SALE | XMAS GIFT FREE SHIPPING Day 3 Email #3 | 161225",
+    "date": "2025-12-17",
+    "send_time": "2025-12-17T01:00:00+00:00",
+    "subject": "LAST CALL - XMAS FREE SHIPPING IS ENDING...",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49563.0,
+      "opens": 14708.0,
+      "open_rate": 0.24171,
+      "clicks": 64.0,
+      "click_rate": 0.00113,
+      "bounce_rate": 0.00216
+    },
+    "channel": "email",
+    "word_count": 183
+  },
+  {
+    "id": "01KCPFAXGCZB9V5MGR3BS5GGXS",
+    "name": "Story | New Year Gifts | 171225",
+    "date": "2025-12-17",
+    "send_time": "2025-12-17T16:46:06.685318+00:00",
+    "subject": "So... what happens after you miss Christmas delivery?",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49789.0,
+      "opens": 14872.0,
+      "open_rate": 0.24293,
+      "clicks": 128.0,
+      "click_rate": 0.00181,
+      "bounce_rate": 0.00227
+    },
+    "channel": "email",
+    "word_count": 318
+  },
+  {
+    "id": "01KCS1HDW6HXCRB9JN52Z16268",
+    "name": "Story | 3-star Review | 181225",
+    "date": "2025-12-18",
+    "send_time": "2025-12-18T16:06:00.820845+00:00",
+    "subject": "I got a 3-star review…",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49919.0,
+      "opens": 14728.0,
+      "open_rate": 0.23623,
+      "clicks": 228.0,
+      "click_rate": 0.00339,
+      "bounce_rate": 0.00214
+    },
+    "channel": "email",
+    "word_count": 476
+  },
+  {
+    "id": "01KCVH1WPHM3VSPADYA4J0W461",
+    "name": "Story | Wrap-up Story | 191225",
+    "date": "2025-12-19",
+    "send_time": "2025-12-19T20:15:13.833171+00:00",
+    "subject": "Wait… 30 BAGS?! One witch lost control",
+    "preview_text": "Your turn, how many did you buy this year?",
+    "phase": "post",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 50013.0,
+      "opens": 17300.0,
+      "open_rate": 0.27075,
+      "clicks": 185.0,
+      "click_rate": 0.0027,
+      "bounce_rate": 0.00176
+    },
+    "channel": "email",
+    "word_count": 460
+  },
+  {
+    "id": "01KCZ7F6DW00ESA1S4B0ENMAFV",
+    "name": "Story | 16-bags-wallets-witch | 211225",
+    "date": "2025-12-21",
+    "send_time": "2025-12-21T14:00:00+00:00",
+    "subject": "RE: Wait… 30 BAGS?! One witch lost control",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 50023.0,
+      "opens": 14751.0,
+      "open_rate": 0.2358,
+      "clicks": 155.0,
+      "click_rate": 0.00228,
+      "bounce_rate": 0.00198
+    },
+    "channel": "email",
+    "word_count": 1024
+  },
+  {
+    "id": "01KD35K3601A0DGCG1W6JVRZF0",
+    "name": "Story | Cat Lovers | 221225",
+    "date": "2025-12-22",
+    "send_time": "2025-12-22T15:02:57.036714+00:00",
+    "subject": "Some of you are FULL-TIME black cat fans.",
+    "preview_text": "Reveal a secret behind the bags that keep selling out",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "urgency",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49854.0,
+      "opens": 15115.0,
+      "open_rate": 0.24128,
+      "clicks": 149.0,
+      "click_rate": 0.00205,
+      "bounce_rate": 0.00213
+    },
+    "channel": "email",
+    "word_count": 359
+  },
+  {
+    "id": "01KD5XZR3QGQ0993X5PQM294GV",
+    "name": "Story | New Arrivals | 231225",
+    "date": "2025-12-23",
+    "send_time": "2025-12-23T16:17:51.844670+00:00",
+    "subject": "OFFICIAL: Skullette's Hottest New Arrivals Just Dropped",
+    "preview_text": "Yes, even the bag you’ve been begging for",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49689.0,
+      "opens": 15481.0,
+      "open_rate": 0.24709,
+      "clicks": 413.0,
+      "click_rate": 0.00599,
+      "bounce_rate": 0.00209
+    },
+    "channel": "email",
+    "word_count": 304
+  },
+  {
+    "id": "01KD8ARNNRJRWET32KRA089G73",
+    "name": "Story | Merry Christmas | 241225",
+    "date": "2025-12-24",
+    "send_time": "2025-12-24T09:00:00+00:00",
+    "subject": "Wish You a Merry Gothmas, my witch",
+    "preview_text": "But open carefully cuz a surprising secret inside...",
+    "phase": "post",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49638.0,
+      "opens": 15896.0,
+      "open_rate": 0.25309,
+      "clicks": 210.0,
+      "click_rate": 0.00335,
+      "bounce_rate": 0.00268
+    },
+    "channel": "email",
+    "word_count": 250
+  },
+  {
+    "id": "01KDB3E1MME69CEFDFXZN2HPG5",
+    "name": "Story | Moonreaver | 251225",
+    "date": "2025-12-26",
+    "send_time": "2025-12-26T14:55:38.504420+00:00",
+    "subject": "If we ever made a bat bag…",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49390.0,
+      "opens": 14907.0,
+      "open_rate": 0.23964,
+      "clicks": 233.0,
+      "click_rate": 0.00355,
+      "bounce_rate": 0.00296
+    },
+    "channel": "email",
+    "word_count": 270
+  },
+  {
+    "id": "01KDG05NGH4NG3YWA53CEBKPPN",
+    "name": "Story | New Arrivals Feedback | 271225",
+    "date": "2025-12-27",
+    "send_time": "2025-12-27T15:20:32.745399+00:00",
+    "subject": "Uh-oh… the Top 3 New Arrivals really surprised me",
+    "preview_text": "Can you guess which one ranked #1?",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49242.0,
+      "opens": 15956.0,
+      "open_rate": 0.25588,
+      "clicks": 245.0,
+      "click_rate": 0.00352,
+      "bounce_rate": 0.00246
+    },
+    "channel": "email",
+    "word_count": 439
+  },
+  {
+    "id": "01KDJKQXHAW6PST7XYYE4ZDS7M",
+    "name": "Story | All over Pattern Design | 281225",
+    "date": "2025-12-28",
+    "send_time": "2025-12-28T09:00:00+00:00",
+    "subject": "WAIT. I didn’t realize you loved this design so much",
+    "preview_text": "and now I need your help for…",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49143.0,
+      "opens": 16041.0,
+      "open_rate": 0.25909,
+      "clicks": 155.0,
+      "click_rate": 0.00243,
+      "bounce_rate": 0.00287
+    },
+    "channel": "email",
+    "word_count": 506
+  },
+  {
+    "id": "01KDN7RYMTDMHKXEDXF52J5FCA",
+    "name": "Story | Gothic Bag For School | 291225",
+    "date": "2025-12-29",
+    "send_time": "2025-12-29T15:28:33.133543+00:00",
+    "subject": "Skullette Bags: Perfect for School?",
+    "preview_text": "one thing I never thought before",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 49065.0,
+      "opens": 15967.0,
+      "open_rate": 0.25656,
+      "clicks": 191.0,
+      "click_rate": 0.00337,
+      "bounce_rate": 0.00257
+    },
+    "channel": "email",
+    "word_count": 393
+  },
+  {
+    "id": "01KDQW1PA0RGNFFKDP6K449TTP",
+    "name": "Story | Treat Yourself Right | 301225",
+    "date": "2025-12-30",
+    "send_time": "2025-12-30T16:00:00+00:00",
+    "subject": "She saved for TWO years for this",
+    "preview_text": "“Best investment you will ever make” (I felt that)",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49171.0,
+      "opens": 15380.0,
+      "open_rate": 0.24731,
+      "clicks": 151.0,
+      "click_rate": 0.00234,
+      "bounce_rate": 0.00252
+    },
+    "channel": "email",
+    "word_count": 457
+  },
+  {
+    "id": "01KDTGSSB0ZKWAE15KT1D9AA3A",
+    "name": "Story | Time For Skullette | 311225",
+    "date": "2025-12-31",
+    "send_time": "2025-12-31T16:42:43.701396+00:00",
+    "subject": "If 2025 was WTF...",
+    "preview_text": "so 2026 starts with…",
+    "phase": "post",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49330.0,
+      "opens": 16027.0,
+      "open_rate": 0.25486,
+      "clicks": 124.0,
+      "click_rate": 0.00189,
+      "bounce_rate": 0.00247
+    },
+    "channel": "email",
+    "word_count": 363
+  },
+  {
+    "id": "01KDX1M97REMPTG5NDVY95XEA5",
+    "name": "Story | Happy New Year | 010126",
+    "date": "2026-01-01",
+    "send_time": "2026-01-01T16:17:49.719857+00:00",
+    "subject": "Happiest. Gothest. Most blessed 2026 to you.",
+    "preview_text": "A little magic to start your new year in full bloom.",
+    "phase": "sale",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49505.0,
+      "opens": 16001.0,
+      "open_rate": 0.25503,
+      "clicks": 173.0,
+      "click_rate": 0.00288,
+      "bounce_rate": 0.0024
+    },
+    "channel": "email",
+    "word_count": 297
+  },
+  {
+    "id": "01KDZQV1D9VXHJYZ6JWFA7DBQ3",
+    "name": "Story | The bag you regretted | 020126",
+    "date": "2026-01-02",
+    "send_time": "2026-01-02T09:00:00+00:00",
+    "subject": "The bag you regretted buying",
+    "preview_text": "It almost ruined my mood for the whole month…",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Jade",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49684.0,
+      "opens": 16813.0,
+      "open_rate": 0.26584,
+      "clicks": 190.0,
+      "click_rate": 0.00295,
+      "bounce_rate": 0.00256
+    },
+    "channel": "email",
+    "word_count": 434
+  },
+  {
+    "id": "01KE1WMBN199MTKYZFQMT5RDQX",
+    "name": "Story | Skullette for MEN | 030126",
+    "date": "2026-01-03",
+    "send_time": "2026-01-03T10:00:00+00:00",
+    "subject": "This email isn't for you…maybe",
+    "preview_text": "This one's for the wizards, not the witches",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 49742.0,
+      "opens": 15732.0,
+      "open_rate": 0.24684,
+      "clicks": 206.0,
+      "click_rate": 0.00292,
+      "bounce_rate": 0.00298
+    },
+    "channel": "email",
+    "word_count": 583
+  },
+  {
+    "id": "01KE4RAGAS546YM7MR7DG6XPJP",
+    "name": "Story | Fast Fashion | 040126",
+    "date": "2026-01-04",
+    "send_time": "2026-01-04T15:04:12.063055+00:00",
+    "subject": "I bought a Shein dress and it fell apart in my hands",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "Mothers Day",
+    "story_source": "Industry Commentary",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 38140.0,
+      "opens": 14475.0,
+      "open_rate": 0.30461,
+      "clicks": 352.0,
+      "click_rate": 0.00637,
+      "bounce_rate": 0.06101
+    },
+    "channel": "email",
+    "word_count": 408
+  },
+  {
+    "id": "01KE7F1KJEP85BWYAPSC5EWFKF",
+    "name": "Story | Rosethorn | 050126",
+    "date": "2026-01-05",
+    "send_time": "2026-01-05T16:29:36.389726+00:00",
+    "subject": "Ever see a ram skull in mainstream fashion? (No.)",
+    "preview_text": "",
+    "phase": "post",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 38408.0,
+      "opens": 13169.0,
+      "open_rate": 0.26557,
+      "clicks": 112.0,
+      "click_rate": 0.00198,
+      "bounce_rate": 0.00266
+    },
+    "channel": "email",
+    "word_count": 250
+  },
+  {
+    "id": "01KEA0B30K001ANGPH8J2K1ETT",
+    "name": "Story | New Bag Shape | 060126",
+    "date": "2026-01-06",
+    "send_time": "2026-01-06T09:00:00+00:00",
+    "subject": "A completely new Skullette bag might be born",
+    "preview_text": "Do you want this shape?",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 38736.0,
+      "opens": 10304.0,
+      "open_rate": 0.20375,
+      "clicks": 93.0,
+      "click_rate": 0.00199,
+      "bounce_rate": 0.00232
+    },
+    "channel": "email",
+    "word_count": 294
+  },
+  {
+    "id": "01KECGBJEDNCNZTTRMPQ95TDDW",
+    "name": "Story | 7 Purses | 070126",
+    "date": "2026-01-07",
+    "send_time": "2026-01-07T09:00:00+00:00",
+    "subject": "She owns 7 purses - but doesn’t wear them?!",
+    "preview_text": "Completely reinvented how to wear Skullette.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 38964.0,
+      "opens": 12356.0,
+      "open_rate": 0.24705,
+      "clicks": 120.0,
+      "click_rate": 0.00208,
+      "bounce_rate": 0.00218
+    },
+    "channel": "email",
+    "word_count": 352
+  },
+  {
+    "id": "01KEF2JJECFGD5NXTMQQQM1XGW",
+    "name": "Story | Small Bag Clearance Teaser | 080126",
+    "date": "2026-01-08",
+    "send_time": "2026-01-08T09:00:00+00:00",
+    "subject": "New year, new problem… and nearly 200 bags gone",
+    "preview_text": "But tomorrow will surprise you.",
+    "phase": "teaser",
+    "series": "Small Bag Clearance",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 39124.0,
+      "opens": 12565.0,
+      "open_rate": 0.24986,
+      "clicks": 214.0,
+      "click_rate": 0.0031,
+      "bounce_rate": 0.0023
+    },
+    "channel": "email",
+    "word_count": 491
+  },
+  {
+    "id": "01KEHGHB9P35SHYH609XFCN140",
+    "name": "SALE| Small Bag Clearance Sale | 090126",
+    "date": "2026-01-09",
+    "send_time": "2026-01-09T15:00:00+00:00",
+    "subject": "LIVE NOW: Clearance Sale with 60% OFF",
+    "preview_text": "Only 200 bags are included",
+    "phase": "sale",
+    "series": "Small Bag Clearance",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 39336.0,
+      "opens": 12067.0,
+      "open_rate": 0.23851,
+      "clicks": 352.0,
+      "click_rate": 0.00713,
+      "bounce_rate": 0.00214
+    },
+    "channel": "email",
+    "word_count": 175
+  },
+  {
+    "id": "01KEHXPQGD6QA2CGBVNY3YK3WD",
+    "name": "SALE | Small Bag Clearance Sale Email 2 | 090126",
+    "date": "2026-01-09",
+    "send_time": "2026-01-09T20:05:00+00:00",
+    "subject": "Update: Half the bags are gone already",
+    "preview_text": "60% OFF is still live but only ~100 slots left",
+    "phase": "sale",
+    "series": "Small Bag Clearance",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 39338.0,
+      "opens": 12477.0,
+      "open_rate": 0.24551,
+      "clicks": 271.0,
+      "click_rate": 0.00504,
+      "bounce_rate": 0.00196
+    },
+    "channel": "email",
+    "word_count": 161
+  },
+  {
+    "id": "01KEM01G4QETWAG75Z21FE2V76",
+    "name": "SALE | Small Bag Clearance Sale Day 2 Email 1 | 100126",
+    "date": "2026-01-10",
+    "send_time": "2026-01-10T15:00:00+00:00",
+    "subject": "Update: 60 final bags left",
+    "preview_text": "My clearance sale ends soon",
+    "phase": "sale",
+    "series": "Small Bag Clearance",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 39465.0,
+      "opens": 12617.0,
+      "open_rate": 0.24753,
+      "clicks": 254.0,
+      "click_rate": 0.00485,
+      "bounce_rate": 0.00193
+    },
+    "channel": "email",
+    "word_count": 169
+  },
+  {
+    "id": "01KEME650HQ3WGW5GZEXA337NA",
+    "name": "SALE | Small Bag Clearance Sale Day 2 Email 2 | 100126 (clone)",
+    "date": "2026-01-10",
+    "send_time": "2026-01-10T20:05:00+00:00",
+    "subject": "LAST CALL: 60% OFF comes to an end",
+    "preview_text": "Only 25 final slots left",
+    "phase": "sale",
+    "series": "Small Bag Clearance",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 39576.0,
+      "opens": 13060.0,
+      "open_rate": 0.25534,
+      "clicks": 212.0,
+      "click_rate": 0.00403,
+      "bounce_rate": 0.002
+    },
+    "channel": "email",
+    "word_count": 111
+  },
+  {
+    "id": "01KEPQV488EM778PXR0D9V1ETK",
+    "name": "STORY | DESERVE | 110126",
+    "date": "2026-01-11",
+    "send_time": "2026-01-11T10:00:00+00:00",
+    "subject": "She waited 20 years to carry her own bag",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 51329.0,
+      "opens": 15659.0,
+      "open_rate": 0.23769,
+      "clicks": 131.0,
+      "click_rate": 0.0015,
+      "bounce_rate": 0.00201
+    },
+    "channel": "email",
+    "word_count": 326
+  },
+  {
+    "id": "01KESNJ45YKN5ZCGYMTHP282JA",
+    "name": "STORY | CORVEXIA | 120126",
+    "date": "2026-01-12",
+    "send_time": "2026-01-12T18:03:11.678515+00:00",
+    "subject": "It's not a human skull",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Jade",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 51552.0,
+      "opens": 17003.0,
+      "open_rate": 0.25747,
+      "clicks": 180.0,
+      "click_rate": 0.00274,
+      "bounce_rate": 0.0018
+    },
+    "channel": "email",
+    "word_count": 446
+  },
+  {
+    "id": "01KEW3XHWSJ37K6BZJXXGTPWY1",
+    "name": "STORY | The Final 300 Teaser #1 | 130126",
+    "date": "2026-01-13",
+    "send_time": "2026-01-13T17:00:26.083926+00:00",
+    "subject": "I need your help. I’m about to lose",
+    "preview_text": "Let’s see how far we can go",
+    "phase": "teaser",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 51711.0,
+      "opens": 15645.0,
+      "open_rate": 0.2373,
+      "clicks": 123.0,
+      "click_rate": 0.00167,
+      "bounce_rate": 0.00195
+    },
+    "channel": "email",
+    "word_count": 613
+  },
+  {
+    "id": "01KEYPX6G5VQ61MT1AN73236NK",
+    "name": "STORY | The Final 300 Teaser #2 | 140126",
+    "date": "2026-01-14",
+    "send_time": "2026-01-14T17:00:20.865971+00:00",
+    "subject": "One week left… and I’m panicking",
+    "preview_text": "I need a game changer",
+    "phase": "teaser",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 51794.0,
+      "opens": 15539.0,
+      "open_rate": 0.23506,
+      "clicks": 110.0,
+      "click_rate": 0.00145,
+      "bounce_rate": 0.0018
+    },
+    "channel": "email",
+    "word_count": 428
+  },
+  {
+    "id": "01KF15A4QK9WNP9Q7TCW24JPAF",
+    "name": "STORY | The Final 300 Teaser #3 | 150126",
+    "date": "2026-01-15",
+    "send_time": "2026-01-15T10:00:00+00:00",
+    "subject": "How to get a free $132 handbag",
+    "preview_text": "200+ witches joined and ready to unlock it",
+    "phase": "teaser",
+    "series": "Final 300",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 51823.0,
+      "opens": 15425.0,
+      "open_rate": 0.23529,
+      "clicks": 172.0,
+      "click_rate": 0.00228,
+      "bounce_rate": 0.00299
+    },
+    "channel": "email",
+    "word_count": 318
+  },
+  {
+    "id": "01KF3YRJ38KKFCX27Z838MDQQR",
+    "name": "STORY | The Final 300 Teaser #4 | 160126",
+    "date": "2026-01-16",
+    "send_time": "2026-01-16T17:55:06.065925+00:00",
+    "subject": "48 hours until the gates open",
+    "preview_text": "You can save 68% OFF",
+    "phase": "teaser",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 51880.0,
+      "opens": 16491.0,
+      "open_rate": 0.25138,
+      "clicks": 80.0,
+      "click_rate": 0.00112,
+      "bounce_rate": 0.00586
+    },
+    "channel": "email",
+    "word_count": 613
+  },
+  {
+    "id": "01KF6AS66NWSBG5D57VAGG7VXT",
+    "name": "STORY | The Final 300 Teaser #5 | 170126",
+    "date": "2026-01-17",
+    "send_time": "2026-01-17T10:00:00+00:00",
+    "subject": "Countdown to THE FINAL 300: Last chance to join",
+    "preview_text": "I’m ready for my victory. Now it’s your move.",
+    "phase": "teaser",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 51988.0,
+      "opens": 16373.0,
+      "open_rate": 0.25139,
+      "clicks": 94.0,
+      "click_rate": 0.00117,
+      "bounce_rate": 0.01094
+    },
+    "channel": "email",
+    "word_count": 516
+  },
+  {
+    "id": "01KF8P5VZM9P992TFK925ND4ME",
+    "name": "SALE | The Final 300 Day 1 Email 1 | 180126",
+    "date": "2026-01-18",
+    "send_time": "2026-01-18T16:00:00+00:00",
+    "subject": "Final 300 LIVE: The top 50 slots are disappearing",
+    "preview_text": "Still a chance for you to get biggest gifts",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52063.0,
+      "opens": 14611.0,
+      "open_rate": 0.2253,
+      "clicks": 63.0,
+      "click_rate": 0.00093,
+      "bounce_rate": 0.00909
+    },
+    "channel": "email",
+    "word_count": 290
+  },
+  {
+    "id": "01KF92XNN0PRY00CYF6YE5Z0G0",
+    "name": "SALE | The Final 300 Day 1 Email 2 | 180126",
+    "date": "2026-01-18",
+    "send_time": "2026-01-18T21:05:00+00:00",
+    "subject": "TOP 50 are gone. Still have a chance for you.",
+    "preview_text": "250 slots left but flying fast.",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52044.0,
+      "opens": 14848.0,
+      "open_rate": 0.22903,
+      "clicks": 85.0,
+      "click_rate": 0.00103,
+      "bounce_rate": 0.01103
+    },
+    "channel": "email",
+    "word_count": 339
+  },
+  {
+    "id": "01KFBABP2Z6H9M58E80HTXQKES",
+    "name": "SALE | The Final 300 Day 2 Email 1 | 190126",
+    "date": "2026-01-19",
+    "send_time": "2026-01-19T15:00:00+00:00",
+    "subject": "So sorry… I tricked. Only 170 slots left.",
+    "preview_text": "They're going fast and my win is close",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52200.0,
+      "opens": 14073.0,
+      "open_rate": 0.2155,
+      "clicks": 52.0,
+      "click_rate": 0.00077,
+      "bounce_rate": 0.00782
+    },
+    "channel": "email",
+    "word_count": 303
+  },
+  {
+    "id": "01KFBJKSFAKBSG5Q5CHRNKDNVQ",
+    "name": "SALE | The Final 300 Day 2 Email 2 | 190126",
+    "date": "2026-01-19",
+    "send_time": "2026-01-19T22:00:00+00:00",
+    "subject": "Under 100 left. And guess who’s worried now?",
+    "preview_text": "I can taste the victory from now",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52179.0,
+      "opens": 14500.0,
+      "open_rate": 0.22168,
+      "clicks": 89.0,
+      "click_rate": 0.00114,
+      "bounce_rate": 0.00769
+    },
+    "channel": "email",
+    "word_count": 328
+  },
+  {
+    "id": "01KFDSK1B7F4Y1H1ANYGEHMNYV",
+    "name": "SALE | The Final 300 Day 3 Email 1 | 200126",
+    "date": "2026-01-20",
+    "send_time": "2026-01-20T15:00:00+00:00",
+    "subject": "Final Day. Less than 40 slots left",
+    "preview_text": "Few hours left. The game is over",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52327.0,
+      "opens": 14411.0,
+      "open_rate": 0.22056,
+      "clicks": 55.0,
+      "click_rate": 0.00083,
+      "bounce_rate": 0.01049
+    },
+    "channel": "email",
+    "word_count": 317
+  },
+  {
+    "id": "01KFE69QHAE0CP399F7PR4Q7FM",
+    "name": "SALE | The Final 300 Day 3 Email 2 | 200126",
+    "date": "2026-01-20",
+    "send_time": "2026-01-20T19:00:00+00:00",
+    "subject": "Last Call - 15 Slots Left",
+    "preview_text": "Final episode of 1000 bag series.",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52340.0,
+      "opens": 14156.0,
+      "open_rate": 0.2158,
+      "clicks": 70.0,
+      "click_rate": 0.00091,
+      "bounce_rate": 0.01114
+    },
+    "channel": "email",
+    "word_count": 305
+  },
+  {
+    "id": "01KFE80FZGSR9H9G9D5AQ4VV3J",
+    "name": "SALE | The Final 300 Day 3 Email 3 | 200126",
+    "date": "2026-01-20",
+    "send_time": "2026-01-20T21:00:00+00:00",
+    "subject": "I wanted to send this to you... Only 5 slots left.",
+    "preview_text": "Your gift inside...",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 52293.0,
+      "opens": 15863.0,
+      "open_rate": 0.24384,
+      "clicks": 309.0,
+      "click_rate": 0.00469,
+      "bounce_rate": 0.00927
+    },
+    "channel": "email",
+    "word_count": 142
+  },
+  {
+    "id": "01KFGJVJ6ZW11RNQKCANNJR4HE",
+    "name": "Story | After The Final 300 | 210126",
+    "date": "2026-01-21",
+    "send_time": "2026-01-21T10:00:00+00:00",
+    "subject": "Wait... did we just sell 1,000 bags?",
+    "preview_text": "And now something special is coming…",
+    "phase": "sale",
+    "series": "Final 300",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52331.0,
+      "opens": 16126.0,
+      "open_rate": 0.24403,
+      "clicks": 71.0,
+      "click_rate": 0.00105,
+      "bounce_rate": 0.00168
+    },
+    "channel": "email",
+    "word_count": 532
+  },
+  {
+    "id": "01KFK752BZT9GFMYJBG7MXFB8Q",
+    "name": "Daily | Bat Picture | 220126",
+    "date": "2026-01-22",
+    "send_time": "2026-01-22T16:09:59.884437+00:00",
+    "subject": "A customer drew this… and now I can’t unsee it",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Basic Brenda",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52503.0,
+      "opens": 16687.0,
+      "open_rate": 0.25227,
+      "clicks": 295.0,
+      "click_rate": 0.00361,
+      "bounce_rate": 0.0021
+    },
+    "channel": "email",
+    "word_count": 406
+  },
+  {
+    "id": "01KFNRKMM3PP37Z32V009JBNAJ",
+    "name": "Teaser | The Weekend Specials | 230126",
+    "date": "2026-01-23",
+    "send_time": "2026-01-23T10:00:00+00:00",
+    "subject": "Can't believe she replied",
+    "preview_text": "It's nearly 10 PM and Alice just made the decision for me.",
+    "phase": "teaser",
+    "series": "Weekend Specials",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52689.0,
+      "opens": 17442.0,
+      "open_rate": 0.26092,
+      "clicks": 153.0,
+      "click_rate": 0.00183,
+      "bounce_rate": 0.00192
+    },
+    "channel": "email",
+    "word_count": 224
+  },
+  {
+    "id": "01KFR2D1PNPS16DGW43EETKFSZ",
+    "name": "SALE | The Weekend Specials Day 1 Email 1 | 240126",
+    "date": "2026-01-24",
+    "send_time": "2026-01-24T15:00:00+00:00",
+    "subject": "Officially live: Skullette's Legacy Collection begins",
+    "preview_text": "50% OFF + up to 2 free gifts - but only for the first 50 witches",
+    "phase": "sale",
+    "series": "Weekend Specials",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52732.0,
+      "opens": 22431.0,
+      "open_rate": 0.32697,
+      "clicks": 630.0,
+      "click_rate": 0.00878,
+      "bounce_rate": 0.00186
+    },
+    "channel": "email",
+    "word_count": 321
+  },
+  {
+    "id": "01KFRC3A87P4NP20TR0MTPV26E",
+    "name": "SALE | The Weekend Specials Day 1 Email 2 | 240126",
+    "date": "2026-01-24",
+    "send_time": "2026-01-24T20:00:00+00:00",
+    "subject": "Missed the biggest tier? You’re still in time.",
+    "preview_text": "But maybe your last chance to meet Nyxrose",
+    "phase": "sale",
+    "series": "Weekend Specials",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52678.0,
+      "opens": 17273.0,
+      "open_rate": 0.25852,
+      "clicks": 258.0,
+      "click_rate": 0.00304,
+      "bounce_rate": 0.00165
+    },
+    "channel": "email",
+    "word_count": 292
+  },
+  {
+    "id": "01KFTR8VKV5EZ9VA6DDYTY7SAZ",
+    "name": "SALE | The Weekend Specials Day 2 Email 1 | 250126",
+    "date": "2026-01-25",
+    "send_time": "2026-01-25T15:00:00+00:00",
+    "subject": "Nyxrose. Roselace. Mournaire. Officially GONE.",
+    "preview_text": "45% OFF + free gifts for 4 legacy designs still live",
+    "phase": "sale",
+    "series": "Weekend Specials",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52789.0,
+      "opens": 16926.0,
+      "open_rate": 0.25446,
+      "clicks": 315.0,
+      "click_rate": 0.00414,
+      "bounce_rate": 0.00176
+    },
+    "channel": "email",
+    "word_count": 367
+  },
+  {
+    "id": "01KFTZA6EGFG85JJ487JE1H3XT",
+    "name": "SALE | The Weekend Specials Day 2 Email 2 | 250126",
+    "date": "2026-01-25",
+    "send_time": "2026-01-25T20:00:00+00:00",
+    "subject": "Last call: 15 final slots left for 45% OFF + matching goodies",
+    "preview_text": "After midnight today? everything is over",
+    "phase": "sale",
+    "series": "Weekend Specials",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 52808.0,
+      "opens": 17231.0,
+      "open_rate": 0.25825,
+      "clicks": 186.0,
+      "click_rate": 0.00252,
+      "bounce_rate": 0.00167
+    },
+    "channel": "email",
+    "word_count": 181
+  },
+  {
+    "id": "01KFXK5KQ389WJD7Q52WY0QT9Y",
+    "name": "DAILY | Lunacat at Kroger | 260126",
+    "date": "2026-01-26",
+    "send_time": "2026-01-26T17:15:26.347623+00:00",
+    "subject": "Lunacat caused something unexpected at Kroger…",
+    "preview_text": "Still can’t believe its impact",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 53200.0,
+      "opens": 17957.0,
+      "open_rate": 0.26789,
+      "clicks": 248.0,
+      "click_rate": 0.00386,
+      "bounce_rate": 0.00173
+    },
+    "channel": "email",
+    "word_count": 505
+  },
+  {
+    "id": "01KG04XF98B9SMD15VXSK4D23F",
+    "name": "DAILY | Noxaria | 270126",
+    "date": "2026-01-27",
+    "send_time": "2026-01-27T10:00:00+00:00",
+    "subject": "She thinks I’m using dark magic",
+    "preview_text": "Shh… here’s what actually happened.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 53457.0,
+      "opens": 18661.0,
+      "open_rate": 0.27711,
+      "clicks": 150.0,
+      "click_rate": 0.00212,
+      "bounce_rate": 0.00191
+    },
+    "channel": "email",
+    "word_count": 472
+  },
+  {
+    "id": "01KG2NWQRV17SK4VJ6RR4Z6NW0",
+    "name": "DAILY | Snow Storm | 280126",
+    "date": "2026-01-28",
+    "send_time": "2026-01-28T10:00:00+00:00",
+    "subject": "USPS notice: your order may arrive a late",
+    "preview_text": "Not lost. Not forgotten. Just because...",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 53630.0,
+      "opens": 27820.0,
+      "open_rate": 0.39826,
+      "clicks": 565.0,
+      "click_rate": 0.0074,
+      "bounce_rate": 0.00218
+    },
+    "channel": "email",
+    "word_count": 464
+  },
+  {
+    "id": "01KG7WDAP8E6VVMJBEFWAHFZ0G",
+    "name": "TEASER | Embossed Goth Style Survey | 300126",
+    "date": "2026-01-30",
+    "send_time": "2026-01-30T17:00:22.867066+00:00",
+    "subject": "A customer told me to change my designs",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Jade",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 53837.0,
+      "opens": 17258.0,
+      "open_rate": 0.25924,
+      "clicks": 618.0,
+      "click_rate": 0.00875,
+      "bounce_rate": 0.00206
+    },
+    "channel": "email",
+    "word_count": 459
+  },
+  {
+    "id": "01KGAAFRJ3PVDTZM0777M8Y3Y5",
+    "name": "DAILY | Early Valentine Gift | 310126",
+    "date": "2026-01-31",
+    "send_time": "2026-01-31T10:00:00+00:00",
+    "subject": "How to get perfect Valentine’s gifts?",
+    "preview_text": "No hints for him. 100/100 satisfaction",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Basic Brenda"
+    ],
+    "metrics": {
+      "recipients": 53894.0,
+      "opens": 16936.0,
+      "open_rate": 0.25598,
+      "clicks": 164.0,
+      "click_rate": 0.00253,
+      "bounce_rate": 0.00252
+    },
+    "channel": "email",
+    "word_count": 366
+  },
+  {
+    "id": "01KGCT6GYQYJGDNYXCBKHFSDZD",
+    "name": "DAILY | Wrong order but exact bag | 010226",
+    "date": "2026-02-01",
+    "send_time": "2026-02-01T10:00:00+00:00",
+    "subject": "That email never ends with good news…",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Alice"
+    ],
+    "metrics": {
+      "recipients": 54099.0,
+      "opens": 16705.0,
+      "open_rate": 0.25151,
+      "clicks": 239.0,
+      "click_rate": 0.00326,
+      "bounce_rate": 0.00203
+    },
+    "channel": "email",
+    "word_count": 411
+  },
+  {
+    "id": "01KGEZM2ST6WF9XWB71WCREKSS",
+    "name": "DAILY | Stupid Husband | 020226",
+    "date": "2026-02-02",
+    "send_time": "2026-02-02T10:00:00+00:00",
+    "subject": "When a husband means well… and still messes up",
+    "preview_text": "True story from one of our witches.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 54304.0,
+      "opens": 17285.0,
+      "open_rate": 0.26016,
+      "clicks": 146.0,
+      "click_rate": 0.00201,
+      "bounce_rate": 0.00197
+    },
+    "channel": "email",
+    "word_count": 402
+  },
+  {
+    "id": "01KGJ4WCPY2FX736ME04THP6G5",
+    "name": "DAILY | Survey Result  | 030226",
+    "date": "2026-02-03",
+    "send_time": "2026-02-03T10:00:00+00:00",
+    "subject": "The vote made me lose a bet",
+    "preview_text": "You picked the gothic style I didn’t expect",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Jade",
+      "Basic Brenda"
+    ],
+    "metrics": {
+      "recipients": 54504.0,
+      "opens": 17916.0,
+      "open_rate": 0.26671,
+      "clicks": 200.0,
+      "click_rate": 0.0027,
+      "bounce_rate": 0.0022
+    },
+    "channel": "email",
+    "word_count": 390
+  },
+  {
+    "id": "01KGM680ZDC9704RRN1SSBZ2B9",
+    "name": "TEASER | Bag Charm Survey | 040226",
+    "date": "2026-02-04",
+    "send_time": "2026-02-04T16:00:00+00:00",
+    "subject": "Stop emailing me about bag charms... do this instead",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Jade",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54316.0,
+      "opens": 21678.0,
+      "open_rate": 0.31901,
+      "clicks": 1130.0,
+      "click_rate": 0.01458,
+      "bounce_rate": 0.0021
+    },
+    "channel": "email",
+    "word_count": 535
+  },
+  {
+    "id": "01KGPY8P502K1Y910EDQ2BYF6C",
+    "name": "DAILY | Bags for friends | 050226",
+    "date": "2026-02-05",
+    "send_time": "2026-02-05T10:00:00+00:00",
+    "subject": "She bought the bag for a friend. Then kept it.",
+    "preview_text": "Honestly? We support this decision.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 54327.0,
+      "opens": 16915.0,
+      "open_rate": 0.25506,
+      "clicks": 172.0,
+      "click_rate": 0.00256,
+      "bounce_rate": 0.00208
+    },
+    "channel": "email",
+    "word_count": 314
+  },
+  {
+    "id": "01KGSW9SR8BF5E3ZG5AY963E31",
+    "name": "TEASER | Friday The 13th Sale Teaser #1 | 060226",
+    "date": "2026-02-06",
+    "send_time": "2026-02-06T10:00:00+00:00",
+    "subject": "Friday the 13th brings you real luck...",
+    "preview_text": "… here’s why",
+    "phase": "teaser",
+    "series": "Friday 13th",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54456.0,
+      "opens": 17167.0,
+      "open_rate": 0.25855,
+      "clicks": 133.0,
+      "click_rate": 0.0014,
+      "bounce_rate": 0.00261
+    },
+    "channel": "email",
+    "word_count": 317
+  },
+  {
+    "id": "01KGWE5W85CFMDGN4ZJ9F4N3SS",
+    "name": "TEASER | Friday The 13th Sale Teaser #2 | 070226",
+    "date": "2026-02-07",
+    "send_time": "2026-02-07T10:00:00+00:00",
+    "subject": "One witch figured out my Friday 13th secret",
+    "preview_text": "and here it's...",
+    "phase": "teaser",
+    "series": "Friday 13th",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54580.0,
+      "opens": 17626.0,
+      "open_rate": 0.26616,
+      "clicks": 170.0,
+      "click_rate": 0.00143,
+      "bounce_rate": 0.00247
+    },
+    "channel": "email",
+    "word_count": 409
+  },
+  {
+    "id": "01KGYSCXMERVPXTP1AS9KPMX1H",
+    "name": "TEASER | Friday The 13th Sale Teaser #3 | 080226",
+    "date": "2026-02-08",
+    "send_time": "2026-02-08T10:00:00+00:00",
+    "subject": "On Friday the 13th… a $140 bag can drop to $9.95",
+    "preview_text": "Ever hunted for luck like that before?",
+    "phase": "teaser",
+    "series": "Friday 13th",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54620.0,
+      "opens": 17424.0,
+      "open_rate": 0.26319,
+      "clicks": 120.0,
+      "click_rate": 0.0015,
+      "bounce_rate": 0.00238
+    },
+    "channel": "email",
+    "word_count": 398
+  },
+  {
+    "id": "01KH1AY30G7T6J1HF66NEYVAM0",
+    "name": "TEASER | Friday The 13th Sale Teaser #4 | 090226",
+    "date": "2026-02-09",
+    "send_time": "2026-02-09T10:00:00+00:00",
+    "subject": "50% off is guaranteed",
+    "preview_text": "But you can get more than that.",
+    "phase": "teaser",
+    "series": "Friday 13th",
+    "story_source": "Basic Brenda Encounter",
+    "pillar": "4",
+    "pillar_name": "Darkness vs Beige",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54776.0,
+      "opens": 17370.0,
+      "open_rate": 0.26262,
+      "clicks": 124.0,
+      "click_rate": 0.00163,
+      "bounce_rate": 0.00212
+    },
+    "channel": "email",
+    "word_count": 360
+  },
+  {
+    "id": "01KH43QS0E6WC8ZVNVPTQSF1G5",
+    "name": "TEASER | Friday The 13th Sale Teaser #5 | 100226",
+    "date": "2026-02-10",
+    "send_time": "2026-02-10T10:00:00+00:00",
+    "subject": "New update for Friday the 13th…",
+    "preview_text": "Being quick won’t be enough for the super-luck slots.",
+    "phase": "teaser",
+    "series": "Friday 13th",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54935.0,
+      "opens": 17173.0,
+      "open_rate": 0.25944,
+      "clicks": 99.0,
+      "click_rate": 0.00133,
+      "bounce_rate": 0.00213
+    },
+    "channel": "email",
+    "word_count": 343
+  },
+  {
+    "id": "01KH6P3G3PH11R1G5PAPDAQGHH",
+    "name": "TEASER | Friday The 13th Sale Teaser #6 | 110226",
+    "date": "2026-02-11",
+    "send_time": "2026-02-11T10:00:00+00:00",
+    "subject": "Bags that normally sell for $140... marked down to $9.95.",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "Friday 13th",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54930.0,
+      "opens": 16856.0,
+      "open_rate": 0.25548,
+      "clicks": 164.0,
+      "click_rate": 0.00199,
+      "bounce_rate": 0.00202
+    },
+    "channel": "email",
+    "word_count": 401
+  },
+  {
+    "id": "01KH9AJETZ7Y22X7JM96SWHM3E",
+    "name": "TEASER | Friday The 13th Sale Teaser #7 | 120226",
+    "date": "2026-02-12",
+    "send_time": "2026-02-12T10:00:00+00:00",
+    "subject": "How to get a $9.95 Skull Bag (normally $140)",
+    "preview_text": "",
+    "phase": "teaser",
+    "series": "Friday 13th",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "direct_offer",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54844.0,
+      "opens": 16739.0,
+      "open_rate": 0.25582,
+      "clicks": 168.0,
+      "click_rate": 0.00203,
+      "bounce_rate": 0.0023
+    },
+    "channel": "email",
+    "word_count": 498
+  },
+  {
+    "id": "01KHB529P0GQ7MF9HFFTQEBX6C",
+    "name": "SALE | Friday The 13th Sale Day 1 Email #1 | 130226",
+    "date": "2026-02-13",
+    "send_time": "2026-02-13T15:30:00+00:00",
+    "subject": "Officially: $9.95 Bags Are LIVE",
+    "preview_text": "Still time to hunt but not for long",
+    "phase": "sale",
+    "series": "Friday 13th",
+    "story_source": "Cultural Darkness",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54846.0,
+      "opens": 17444.0,
+      "open_rate": 0.26644,
+      "clicks": 279.0,
+      "click_rate": 0.00371,
+      "bounce_rate": 0.00235
+    },
+    "channel": "email",
+    "word_count": 371
+  },
+  {
+    "id": "01KHC1XT9RKS7ZKKEP2A21TSMH",
+    "name": "SALE | Friday The 13th Sale Day 1 Email #2 | 130226",
+    "date": "2026-02-13",
+    "send_time": "2026-02-13T19:30:00+00:00",
+    "subject": "You Missed the $9.95 Bags?",
+    "preview_text": "Here’s your next chance — but you need to move now.",
+    "phase": "sale",
+    "series": "Friday 13th",
+    "story_source": "Product Origin",
+    "pillar": "2",
+    "pillar_name": "Witch's Arsenal",
+    "hook_type": "question",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54587.0,
+      "opens": 17899.0,
+      "open_rate": 0.27438,
+      "clicks": 367.0,
+      "click_rate": 0.00518,
+      "bounce_rate": 0.00216
+    },
+    "channel": "email",
+    "word_count": 372
+  },
+  {
+    "id": "01KHE6RQJY2B9EJ1HXH68Z0PXR",
+    "name": "SALE | Friday The 13th Sale Day 2 Email #1 | 140226",
+    "date": "2026-02-14",
+    "send_time": "2026-02-14T15:30:00+00:00",
+    "subject": "LIVE NOW: $0.95 Premium Leather Wallets",
+    "preview_text": "And it’s last day to join Friday the 13th",
+    "phase": "sale",
+    "series": "Friday 13th",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54246.0,
+      "opens": 16733.0,
+      "open_rate": 0.25976,
+      "clicks": 180.0,
+      "click_rate": 0.0024,
+      "bounce_rate": 0.00225
+    },
+    "channel": "email",
+    "word_count": 382
+  },
+  {
+    "id": "01KHEEG6R0M67RC8NVB0NHGH2S",
+    "name": "SALE | Friday The 13th Sale Day 2 Email #2 | 140226",
+    "date": "2026-02-14",
+    "send_time": "2026-02-14T19:30:00+00:00",
+    "subject": "Last Call. And say goodbye to $0.95 wallets",
+    "preview_text": "",
+    "phase": "sale",
+    "series": "Friday 13th",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "Alice",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 54112.0,
+      "opens": 16989.0,
+      "open_rate": 0.26538,
+      "clicks": 125.0,
+      "click_rate": 0.00189,
+      "bounce_rate": 0.00231
+    },
+    "channel": "email",
+    "word_count": 254
+  },
+  {
+    "id": "01KHK3WV8PV00Z3SE8PFS33MX5",
+    "name": "DAILY | Sonja Spooky Daughter | 160226",
+    "date": "2026-02-16",
+    "send_time": "2026-02-16T10:00:00+00:00",
+    "subject": "Perfect Gift for my Spooky Daughter.",
+    "preview_text": "She is turning 40 and I wanted to find something unique that said: I love you just as you are.",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Julie Personal",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 54490.0,
+      "opens": 16463.0,
+      "open_rate": 0.25789,
+      "clicks": 256.0,
+      "click_rate": 0.00408,
+      "bounce_rate": 0.00231
+    },
+    "channel": "email",
+    "word_count": 724
+  },
+  {
+    "id": "01KHSVAYJPAHSHVTD36VQHZ6PT",
+    "name": "DAILY | Random Act of Darkness | 190226",
+    "date": "2026-02-19",
+    "send_time": "2026-02-19T10:00:00+00:00",
+    "subject": "My Lent list looks a little different than yours",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Gothic Mundane",
+    "pillar": "1",
+    "pillar_name": "Gothic Infotainment",
+    "hook_type": "quote_open",
+    "characters": [
+      "Julie"
+    ],
+    "metrics": {
+      "recipients": 54934.0,
+      "opens": 16210.0,
+      "open_rate": 0.2571,
+      "clicks": 325.0,
+      "click_rate": 0.00513,
+      "bounce_rate": 0.00217
+    },
+    "channel": "email",
+    "word_count": 555
+  },
+  {
+    "id": "01KHZQXYPQFZYP1CAD280AQHWD",
+    "name": "DAILY | Customer Story | 210226",
+    "date": "2026-02-21",
+    "send_time": "2026-02-21T10:00:00+00:00",
+    "subject": "My fav Instagram notification",
+    "preview_text": "",
+    "phase": "daily",
+    "series": "",
+    "story_source": "Witch Victory",
+    "pillar": "3",
+    "pillar_name": "Coven Chronicles",
+    "hook_type": "scene_setting",
+    "characters": [
+      "Julie",
+      "The Witch"
+    ],
+    "metrics": {
+      "recipients": 55171.0,
+      "opens": 15231.0,
+      "open_rate": 0.24543,
+      "clicks": 141.0,
+      "click_rate": 0.00223,
+      "bounce_rate": 0.00212
+    },
+    "channel": "email",
+    "word_count": 349
+  }
+]

@@ -1,0 +1,1 @@
+Read the workflow file at `.agent/workflows/write-email.md` and execute it fully. If a daily brief has already been created this session, use it as input. Otherwise ask the user for the brief or topic. Follow every step in the workflow from start to finish.

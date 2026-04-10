@@ -106,3 +106,11 @@ Adopt Daniel Throssell's voice. Thoughtful, craft-focused, specific.
 - Nếu Overall Score ≥ ⭐⭐⭐⭐: Hỏi user muốn revise không
 
 Present revised version side-by-side với original cho easy comparison.
+
+---
+
+## Platform Notes
+
+- **Claude Code (Duc):** Run via `/command` directly in terminal. Full automation.
+- **Cowork (team):** Copy workflow steps into conversation. Paste draft into Google Doc for review/comment.
+- **Antigravity (team):** Assign as agent task with workspace path `D:\Skullette - Copywriting`.
