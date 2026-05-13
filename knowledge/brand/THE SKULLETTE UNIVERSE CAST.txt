@@ -56,6 +56,13 @@ A gothic handbag and leather accessories brand that exists in defiance of the be
 - References to: dark romance novels, skulls, combat boots, candles, eyeliner, full moons
 - Comparisons to darkness: "blacker than my ex's heart"
 
+**Canon Backstory:**
+- **The Protection Potion (age 8):** As a child, Julie made her mom a "protection potion" in a Mason jar — tap water, red food coloring, glitter, and a dead ladybug from the windowsill. Labeled "MOM'S PROTECTION POTION — DO NOT DRINK" in purple Sharpie. Mom put it on the kitchen shelf "like it was a Le Creuset." Julie found it, still sealed, in a junk drawer twenty-something years later. Her 8-year-old handwriting was the same handwriting she later used on her first Skullette business cards. This is Julie's gothic origin-kid story and proof that her mom saw who she was and kept it. (Debut: `teaser_130426_ridiculous_gifts`, 2026-04-13)
+
+**Canon Notes:**
+- **The Cat (unnamed — NAME ON NEXT RECURRENCE):** Julie has a cat. Keyboard-throne squatter — pushes her off the laptop when she's trying to work. Lives in Julie's office. Soft-established 2026-04-18 but still unnamed — the next email that features the cat MUST name her to lock this canon. Distinct from Debbie's customer-cat canon (teaser_140426_cat_canvas). Risk: if unnamed across multiple emails, "the cat" reads as a continuity slip / generic prop. (Debut: `teaser_180426_first_four`, 2026-04-18)
+- **Founder Discretion (registration-gate rule):** Julie reserves the right to close registration *before* the cap (5,000) is hit if fill-pace would force too many registered witches to sit and watch a 1,000-order sale. This is a Julie-level decision, not Alice-operations. Framing: "the lower I keep the ceiling, the better the odds for everyone actually on it." Canon rule for future sales with registration+order caps: founder can close the gate early. (Debut: `teaser_180426_first_four`, 2026-04-18)
+
 ---
 
 ### **ALICE (The Operations Manager/The Organized Witch)**
@@ -68,11 +75,23 @@ A gothic handbag and leather accessories brand that exists in defiance of the be
 - Probably has color-coded spreadsheets (in black and deep purple)
 - The "responsible one" who enables Julie's creative madness
 
-**Dynamic with Julie:** 
+**Dynamic with Julie:**
 - Yin and yang – chaos and order
 - Alice makes the trains run on time so Julie can be extra
 - Likely rolls her eyes at Julie's antics while secretly loving them
 - The practical witch to Julie's dramatic witch
+
+**Voice Rules (locked in starring debut):**
+- **Dry, exasperated, specific.** Never shouts. Never repeats words for emphasis. Deals in concretes: numbers, percentages, operational consequences.
+- **Eye contact is earned.** Alice does not look up from her screen unless something is seriously wrong. "Alice never looks up" is canon. A reader earns her gaze like a merit badge.
+- **Short sentences. Flat affect.** "I know." / "I am aware." / "I am aware of that too." — her signature deadpan.
+- **Opinions, not emotions.** Alice doesn't get upset. She has *feelings about* things — usually colors, defaults, or organizational schemes others consider trivial.
+
+**Canon Notes:**
+- **The Spreadsheet Palette (lockdown):** Alice's spreadsheets are color-coded in **black** and **deep purple** only. That is the entire palette. She has fought the IT department over default Excel themes. She has opinions about green. She has FEELINGS about orange. Her spreadsheets do not do red. **RED = APOCALYPSE.** When a bar turns red on an Alice spreadsheet, it is an operational emergency of the highest order. This is load-bearing canon — future emails can use a color-palette violation as shorthand for real scarcity. (Debut: `teaser_150426_production_meeting`, 2026-04-15)
+- **The In-Person Meeting Rule:** Alice communicates via Slack with the bullet-point emoji. She does not call meetings. When Alice walks into Julie's office in person, with a laptop already open, something is seriously wrong. (Debut: `teaser_150426_production_meeting`, 2026-04-15)
+- **The Wasp Situation (2023):** The last time Alice had an operational emergency worthy of walking into Julie's office with a laptop was "the wasp situation in 2023." Specifics unknown. Per Alice's internal severity scale, Lunacat + Nyxrose demand in April 2026 is now in the same category. (Debut: `teaser_150426_production_meeting`, 2026-04-15)
+- **The Late-Night Bullet Slack (middle-severity signal):** When Alice sends a 3-bullet Slack after hours (no preamble, no context — just the bullet-point emoji + three concrete items), it's her middle-severity escalation tier. Sits between default bullet-point work-comm and walk-in-with-laptop apocalypse. Format: [number] / [operational concern] / [practical ask]. Example (11:58 PM, 2026-04-18): "4,008 / clasps / coffee" — decoded as *something's shifting, be in early, bring your own coffee.* Julie's decoding canon = reading 3 concrete nouns as a full sentence. Canon rule: Alice's late-night Slack is never a meeting call (she does not call meetings) — it's a heads-up that the morning will start earlier than planned. (Debut: `teaser_180426_first_four`, 2026-04-18)
 
 ---
 
@@ -91,6 +110,65 @@ A gothic handbag and leather accessories brand that exists in defiance of the be
 - Every buckle has meaning
 - Wine-dark linings are non-negotiable
 - If it doesn't make you feel powerful, redesign it
+
+**Canon Notes:**
+- Once gave her mother a rock from a beach in Maine, told her it was from a high-end Scandinavian home décor brand. Mom has dusted it every Sunday for four years. Jade has never corrected her. (Debut: `teaser_130426_ridiculous_gifts`, 2026-04-13)
+- **The Stylus-Down Tell (deliberation signal):** When Jade sets down her stylus mid-sketch before answering a question, it means the question actually matters to her and she's giving it real design-mind consideration. This is her mirror-opposite of Alice's "never looks up" canon — Alice's eye contact is earned; Jade's tool-pause is earned. Writers can use "Jade set down her stylus" as shorthand for "this answer has weight." (Debut: `teaser_180426_first_four`, 2026-04-18)
+- **Has a mother-in-law.** Has mental-rehearsed arguments with her. Has won at least one of them inside her head while evaluating a Skullette satchel for "hides-crumbs / survives-Thanksgiving / clasp-clicks-the-right-way" criteria. (Soft establish: `teaser_180426_first_four`, 2026-04-18)
+- **Mother's Day 2026 product-name lineup (first 4 released):** Bloodrose Wallet, Noctaflora Wallet, Mournaire Mini Satchel, Nyxrose Circle Crossbody. Jade-named per convention — each name is a compound gothic noun (blood+rose, nocta+flora = night-flower, mourn+debonaire, Nyx+rose). Future MD/gothic product naming should continue this compound-noun pattern for coherence. (Debut: `teaser_180426_first_four`, 2026-04-18)
+
+---
+
+### **MARCUS (The Warehouse Guy/The Unburdened Man)**
+
+**Role:** Warehouse — picks and packs customer orders
+
+**Personality Type:** The Uncomplicated Foil
+- A man unburdened by doubt, overthinking, or Mother's Day anxiety
+- Does not spiral. Does not agonize. Buys the thing his mom likes and moves on.
+- Accidentally wins holidays that Julie overthinks
+- The practical masculine foil to Julie's dramatic-witch energy
+
+**Dynamic with Julie:**
+- Julie finds him both baffling and slightly enviable
+- Useful as the "normal person got it right" beat when Julie needs to puncture her own drama
+- Not a Basic Brenda — he's not beige, he's just uncomplicated. He respects the coven. He just doesn't personally need armor.
+
+**Canon Notes:**
+- Gave his mom a six-pack of craft beer and a box of dark chocolate. She asks for the same thing every year. (Debut: `teaser_130426_ridiculous_gifts`, 2026-04-13)
+- Wants to take his mom to Thailand for a professional massage. Is pricing flights. Thinks he can expense it. He cannot expense it.
+
+**When to Feature:**
+- When Julie needs a masculine foil who ISN'T the Skeptical Partner archetype
+- Operational/warehouse stories (shipping chaos, packing disasters, holiday rush)
+- "The normal person accidentally got it right" beats
+
+---
+
+### **JENNIFER (Support / The Inbox Gatekeeper)**
+
+**Role:** Support — runs the customer service inbox, first human the witches talk to
+
+**Personality Type:** The Bridge
+- The reason you get a human when you ask a question
+- Forwards the good stuff (photos, stories, warehouse miracles) up to Julie and Jade
+- Quietly keeps the community alive by actually reading every message
+- Curates the customer voice pipeline without needing credit
+
+**Dynamic with the Team:**
+- Jennifer → Jade: sends product validation moments (customer photos, cat approvals, "it arrived and I cried" emails)
+- Jennifer → Julie: sends the story-worthy ones for emails
+- Jennifer → Alice: flags shipping/logistics issues
+- Not chaotic like Julie, not austere like Jade, not operational like Alice. Jennifer is the warm one.
+
+**When to Feature:**
+- Whenever a customer story enters the brand via the support inbox
+- The "we heard from a witch this morning" bridge device
+- Off-page character by default — she forwards, she doesn't star
+- Name her when the forward chain matters to the story
+
+**Canon Notes:**
+- Forwarded Debbie's cat-on-Nyxrose-and-Lunacat photo to Jade, which Jade then framed in a gold easel frame on her desk. (Debut: `teaser_140426_cat_canvas`, 2026-04-14)
 
 ---
 
